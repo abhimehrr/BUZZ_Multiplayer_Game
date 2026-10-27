@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+:root { color-scheme: dark; }
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(ellipse at 50% 8%, rgb(80 63 168 / 24%), transparent 38%),
+    radial-gradient(ellipse at 4% 65%, rgb(34 54 112 / 16%), transparent 42%),
+    #0b1020;
+  color: #f8fafc;
+  font-family: Arial, Helvetica, sans-serif;
+}
+button, input, select { font: inherit; }
+button { transition: transform 140ms ease, border-color 140ms ease, background-color 140ms ease, opacity 140ms ease; }
+button:not(:disabled):active { transform: scale(.98); }
+.glass-card {
+  border: 1px solid rgb(255 255 255 / 10%);
+  background: linear-gradient(145deg, rgb(255 255 255 / 7%), rgb(255 255 255 / 3%));
+  box-shadow: 0 24px 80px rgb(0 0 0 / 24%);
+  backdrop-filter: blur(18px);
+}
+.field-label { display: block; color: #cbd5e1; font-size: .82rem; font-weight: 600; }
+.field-input {
+  display: block; width: 100%; margin-top: .45rem; border: 1px solid rgb(255 255 255 / 12%);
+  border-radius: .8rem; padding: .72rem .85rem; color: white; background: #11182b; outline: none;
+}
+.field-input:focus { border-color: #8b75ff; box-shadow: 0 0 0 3px rgb(124 92 255 / 18%); }
+.field-input::placeholder { color: #718096; }
+.field-input option { background: #11182b; }
+.primary-btn, .secondary-btn {
+  display: inline-flex; align-items: center; justify-content: center; min-height: 2.8rem;
+  border-radius: .85rem; padding: .7rem 1rem; font-weight: 700; font-size: .9rem;
+}
+.primary-btn { border: 1px solid rgb(168 152 255 / 40%); color: white; background: linear-gradient(135deg, #7557ee, #593bd0); box-shadow: 0 9px 30px rgb(91 60 213 / 28%); }
+.primary-btn:not(:disabled):hover { background: linear-gradient(135deg, #846aff, #6649dc); }
+.secondary-btn { border: 1px solid rgb(255 255 255 / 13%); color: #edeaff; background: rgb(255 255 255 / 6%); }
+.secondary-btn:not(:disabled):hover { border-color: rgb(178 163 255 / 55%); background: rgb(124 92 255 / 14%); }
