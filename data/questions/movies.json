@@ -37,5 +37,1266 @@
       "Wooden horse"
     ],
     "answerIndex": 1
+  },
+  {
+    "id": "mov-0004",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "Love? Above all things I believe in love! Love is like oxygen! Love is a many splendored thing, love lifts us up where we belong, all you need is love!",
+    "options": [
+      "Casablanca",
+      "Moulin Rouge",
+      "Some Like It Hot",
+      "Hope Floats"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0005",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "What year did the movie The Shawshank Redemption hit the movie theatres?",
+    "options": [
+      "1990",
+      "1996",
+      "1994",
+      "1992"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0006",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What was the name of the Warden in the hit movie The Shawshank Redemption ?",
+    "options": [
+      "Ellis Redding",
+      "Byron Hadley",
+      "Spencer Heywood",
+      "Samuel Norton"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0007",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What decade was Andy Dufresne sent to the Shawshank prison in the movie The Shawshank Redemption?",
+    "options": [
+      "1940s",
+      "1930s",
+      "1950s",
+      "1920s"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0008",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In the popular movie The Shawshank Redemption Andy Dufresne has a poster hanging on his wall in his jail cell. Who is the famous actress on this poster?",
+    "options": [
+      "Jayne Mansfield",
+      "Rita Hayworth",
+      "Greta Garbo",
+      "Bette Davis"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0009",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In the movie The Shawshank Redemption Andy Dufresne had a best friend in jail named Red. Why did they call him Red?",
+    "options": [
+      "His favorite color was red.",
+      "He had a horrible temper.",
+      "It was short for his last name.",
+      "He had red hair."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0010",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "In the movie The Shawshank Redemption, what was Reds jail cell number?",
+    "options": [
+      "125",
+      "444",
+      "416",
+      "237"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0011",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Who was the director of the hit movie The Shawshank Redemption?",
+    "options": [
+      "Frank Darabont",
+      "Rob Reiner",
+      "Shimon Bentzvi",
+      "Ron Howard"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0012",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "What was the budget for the movie The Shawshank Redemption?",
+    "options": [
+      "$3,000,000",
+      "$ 25,000,000",
+      "$ 100,000",
+      "$ 10,000,000"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0013",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In the movie The Shawshank Redemption, the prisoners are shown watching what movie?",
+    "options": [
+      "The Three Stooges",
+      "Its a Mad Mad World",
+      "Gilda",
+      "Happy girl 1223 Strikes Again"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0014",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Who directed the blockbuster movie Forrest Gump?",
+    "options": [
+      "Tony Scott",
+      "John Hughes",
+      "Steven Soderbergh",
+      "Robert Zemeckis"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0015",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In the opening scene of the movie Forrest Gump, Forrest is sitting on a bench waiting to catch a bus in what southern U.S. city?",
+    "options": [
+      "Savannah",
+      "Atlanta",
+      "Birmingham",
+      "Columbia"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0016",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In the movie Forrest Gump, Mrs. Gump (played by Sally Field) ran a boarding house where a young Forrest taught one of the special guests how to dance. Who was this special guest?",
+    "options": [
+      "Dick Van Dyke",
+      "Elvis Presley",
+      "Fred Astaire",
+      "Gene Kelly"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0017",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In the movie Forrest Gump, Forrest joins the U.S. Army and becomes best friends with Benjamin Buford Blue (played by Mykelti Williamson). What was Benjamins nickname?",
+    "options": [
+      "Beau",
+      "Billy",
+      "Bubba",
+      "Bennie"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0018",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "For which university did fictional character Forrest Gump play college football, earning All-American honors?",
+    "options": [
+      "University of Florida",
+      "University of Georgia",
+      "Auburn University",
+      "University of Alabama"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0019",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "What was Forrests favorite book in the movie Forrest Gump?",
+    "options": [
+      "Curious George",
+      "Alice in Wonderland",
+      "The Chronicles of Narnia",
+      "Cat in the Hat"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0020",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In the movie Forrest Gump, what were the last words uttered by Pvt. Benjamin Blue to Forrest, just before he died?",
+    "options": [
+      "I want my Mama",
+      "I want to go home",
+      "Am I going to make it?",
+      "What are we doing here?"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0021",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which 2001 movie is this audio clip from?",
+    "options": [
+      "First Knight",
+      "Black Knight",
+      "A Knights Tale",
+      "Robin Hood: Prince of Thieves"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0022",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "The movie Back to the Future, directed by Robert Zemeckis, was released in what year?",
+    "options": [
+      "1987",
+      "1986",
+      "1955",
+      "1985"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0023",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "What was the name of Doc Browns dog in the film Back to the Future?",
+    "options": [
+      "Einstein",
+      "Edsel",
+      "Shep",
+      "Shaggy"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0024",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In 1955, Doc Brown, one of the lead characters in Back to the Future lives on which street?",
+    "options": [
+      "Pine St",
+      "Riverside Drive",
+      "Maplewood Ave",
+      "John F. Kennedy Drive"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0025",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Where does Martys older brother work in 1985 in the movie Back to the Future?",
+    "options": [
+      "Wendys",
+      "McDonalds",
+      "Burger King",
+      "Taco Bell"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0026",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In 1955, when trying to convince his teenage father George McFly to ask Lorraine out, Marty appears in a radiation suit and says his name is what?",
+    "options": [
+      "Luke Skywalker",
+      "Captain Kirk",
+      "Mr. Spock",
+      "Darth Vader"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0027",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In the film Back to the Future, in 1955 Martys parents were supposed to go a school dance, named what?",
+    "options": [
+      "Enchantment Under the Sea",
+      "Enchanted Future",
+      "Fish Under the Sea",
+      "Sadie Hawkins Day Dance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0028",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In Back to the Future, what did Goldie Wilson do in 1955, before becoming mayor?",
+    "options": [
+      "Played in Marvin Berrys rock and roll group",
+      "Worked in the diner",
+      "He was a drifter",
+      "Pumped gas at the filling station"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0029",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In the movie The Wizard of Oz, the part of Dorothy was played by Hollywood legend Judy Garland. How old was Judy during the making of the movie?",
+    "options": [
+      "15",
+      "18",
+      "16",
+      "22"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0030",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What was the last name of Dorothy, the main character in the 1939 movie, The Wizard of Oz?",
+    "options": [
+      "Gulch",
+      "It was never mentioned",
+      "Grey",
+      "Gale"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0031",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In the movie The Wizard of Oz, Dorothy lives with her aunt Em and her uncle whose name is what?",
+    "options": [
+      "Uncle Henry",
+      "Uncle Charlie",
+      "Uncle Tom",
+      "Uncle Harry"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0032",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What does the Wicked Witch of the West from The Wizard of Oz write in the sky, while flying over the Emerald City?",
+    "options": [
+      "Surrender or else",
+      "Surrender Dorothy",
+      "You will die Dorothy",
+      "Surrender Dorothy or die"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0033",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "The 1939 movie The Wizard of Oz is based on which novel by L. Frank Baum?",
+    "options": [
+      "The Wizard of Oz",
+      "The Land of Oz",
+      "The Wonderful Wizard of Oz",
+      "Dorothys Adventures in Oz"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0034",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In the movie The Wizard of Oz, the role of the Tin Man was played by Jack Haley but another actor was originally hired for the part. Who was this actor?",
+    "options": [
+      "George Burns",
+      "Tony Curtis",
+      "Don Knotts",
+      "Buddy Ebsen"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0035",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "To celebrate the 50th anniversary of the movie The Wizard of Oz, a real pair of ruby slippers were made. What is the cost of the slippers?",
+    "options": [
+      "3 million dollars",
+      "1 million dollars",
+      "5 million dollars",
+      "10 million dollars"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0036",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which 2002 movie is this audio clip from?",
+    "options": [
+      "Eat Drink Man Woman",
+      "My Big Fat Greek Wedding",
+      "The Wedding Banquet",
+      "Betsys Wedding"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0037",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which 2004 movie is this audio clip from?",
+    "options": [
+      "Father of the Bride",
+      "Surviving Christmas",
+      "Meet the Fockers",
+      "American Wedding"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0038",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Which actress played Old Rose in the 1997 movie Titanic?",
+    "options": [
+      "Kate Winslet",
+      "Gloria Esteban",
+      "Lynn Hollowell",
+      "Gloria Stuart"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0039",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Who played the unsinkable Molly Brown in the movie Titanic?",
+    "options": [
+      "Kathy Bates",
+      "Gloria Stuart",
+      "Kate Winslet",
+      "Frances Fischer"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0040",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What kind of car is Richard Geres character driving in the movie Pretty Woman?",
+    "options": [
+      "Porsche Carrera",
+      "Lotus Esprit",
+      "Lamborghini Gallardo",
+      "Lamborghini Murcilago"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0041",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Who was the best friend and roommate of Julia Roberts character in the film Pretty Woman?",
+    "options": [
+      "Kat",
+      "Lee",
+      "Kit",
+      "Lou"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0042",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In the film Pretty Woman, Edward Lewis takes the character portrayed by Julia Roberts to see which opera?",
+    "options": [
+      "MacBeth",
+      "Rigoletto",
+      "Madame Butterfly",
+      "La Traviata"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0043",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In the film Pretty Woman how much money does Edward Lewis pay Julia Roberts character to be his escort?",
+    "options": [
+      "$3,000",
+      "$8,000",
+      "$5,000",
+      "$1,000"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0044",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In a scene from the movie Pretty Woman Julia Roberts character is taking a bath and listening to her walkman. What song is she singing?",
+    "options": [
+      "Bad Girls by Donna Summer",
+      "Kiss by Prince",
+      "Material Girl by Madonna",
+      "Like a Virgin by Madonna"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0045",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What year did the movie Sixteen Candles come out in the movie theatres in the United States?",
+    "options": [
+      "1982",
+      "1983",
+      "1984",
+      "1985"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0046",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "What is the name of Jake Ryans girlfriend in the movie Sixteen Candles?",
+    "options": [
+      "Eve Quizeditor",
+      "Samantha Baker",
+      "Caroline Inthecity",
+      "Caroline Mulford"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0047",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In the movie Sixteen Candles, Molly Ringwald played the part of Samantha Baker. What actress was originally chosen to play that part?",
+    "options": [
+      "Ally Sheedy",
+      "Demi Moore",
+      "Lori Loughlin",
+      "Emma Thompson"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0048",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What is the name of the foreign exchange student in the classic 80s movie Sixteen Candles?",
+    "options": [
+      "One Hung Low",
+      "Long Duc Dong",
+      "Egg Foo Yeung",
+      "Sum Guy Tony Wang"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0049",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Sams sister Ginny is having menstrual cramps right before her wedding in Sixteen Candles. What does she take to relieve the pain?",
+    "options": [
+      "Vodka",
+      "Midol",
+      "muscle relaxants",
+      "a bunch of aspirin"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0050",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Where did Samantha Baker and her family live in the film Sixteen Candles?",
+    "options": [
+      "Detroit",
+      "Philadelphia",
+      "New York",
+      "Illinois"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0051",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In the movie Sixteen Candles, Farmer Ted ends up getting together with Jake Ryans girlfriend. They wake up in the back seat of Jakes fathers car. What kind of car is it?",
+    "options": [
+      "Rolls Royce",
+      "Corvette",
+      "Cadillac",
+      "Jaguar"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0052",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "What actor played the part of Samanthas dad Jim Baker in Sixteen Candles?",
+    "options": [
+      "Ben Dover",
+      "Paul Dooley",
+      "Moses Gunn",
+      "Paul Schmooley"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0053",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What is the name of the character portrayed by actor John Cusack in the hilarious movie Sixteen Candles?",
+    "options": [
+      "Rick",
+      "Harvey",
+      "Bryce",
+      "Cliff"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0054",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What kind of car does Jake Ryan drive in the classic flick Sixteen Candles?",
+    "options": [
+      "Trans Am",
+      "69 Mustang",
+      "Rolls Royce",
+      "Porsche"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0055",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "What year did the classic movie Jaws come out in the movie theatres?",
+    "options": [
+      "1975",
+      "1973",
+      "1971",
+      "1979"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0056",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "At the beginning of the movie Jaws, a girl goes out for a swim and is eaten by the great white shark. What is the girls name?",
+    "options": [
+      "Sarah",
+      "Chrissy",
+      "Eli",
+      "Penelope"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0057",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What was the name of the fishing vessel used in the attempts to catch the great white shark in the movie Jaws?",
+    "options": [
+      "The Pacific Princess",
+      "The SS Minnow",
+      "The Orca",
+      "Shark Catcher"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0058",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Who plays Chief of Police Martin Brody in the classic movie Jaws?",
+    "options": [
+      "Richard Dreyfuss",
+      "Justin McAllister",
+      "Robert Shaw",
+      "Roy Scheider"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0059",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In the movie Jaws a mother puts a bounty on the great white shark, after her boy is killed. How much is the bounty?",
+    "options": [
+      "$3,000",
+      "$20,000",
+      "$10,000",
+      "$5,000"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0060",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Who played Marine biologist Matt Hooper in the movie Jaws?",
+    "options": [
+      "Lee Horsley",
+      "Richard Dreyfuss",
+      "Matt Houston",
+      "Robert Shaw"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0061",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Where was the local shooting done for the movie Jaws?",
+    "options": [
+      "Junction City, Kansas",
+      "Brooklyn, New York",
+      "Marthas Vineyard, Massachusetts",
+      "New Jersey"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0062",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "What were the names of chief Brodys two sons in the movie Jaws?",
+    "options": [
+      "Anthony and Bobby",
+      "Greg and Peter",
+      "Neal and Bob",
+      "Michael and Sean"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0063",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What year did the classic movie Home Alone first hit the theatres in the United States?",
+    "options": [
+      "1990",
+      "1993",
+      "1992",
+      "1991"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0064",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "The McCallister family flies away for Christmas vacation and leaves their son Kevin home alone. What country is the McCallister family going to for the holidays?",
+    "options": [
+      "India",
+      "France",
+      "Italy",
+      "Japan"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0065",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In the movie Home Alone, what is the name of Kevins neighbor, the elderly man, who is allegedly a murderer called The South Bend Shovel Slayer?",
+    "options": [
+      "Carlyle",
+      "Ziggy",
+      "Marley",
+      "Bob"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0066",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Where do the McCallister family reside in the great 90s movie Home Alone?",
+    "options": [
+      "Detroit",
+      "New York",
+      "Philadelphia",
+      "Chicago"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0067",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "What is the nickname of burglars Marv and Harry in the movie Home Alone?",
+    "options": [
+      "The Wet Bandits",
+      "Barney Clyde",
+      "Rob Stealin",
+      "The James Gang"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0068",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What is the name of Kevin McCallisters wise cracking brother in the movie Home Alone?",
+    "options": [
+      "Marty",
+      "Buzz",
+      "Bizz",
+      "Spike"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0069",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In the movie Home Alone, Kevins brother had a pet tarantula. What was its name?",
+    "options": [
+      "Slash",
+      "Sting",
+      "Axl",
+      "Flea"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0070",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "This line was spoken by actress Clara Blandick in which 1939 motion picture: Now you go feed those hogs before they worry themselves into anemia.?",
+    "options": [
+      "Oklahoma",
+      "State Fair",
+      "Gone With the Wind",
+      "The Wizard of Oz"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0071",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What actor delivered this roguish line in a noted Civil War movie that premiered in 1939? ...and you Miss, are no lady.",
+    "options": [
+      "Clark Gable",
+      "Lionel Barrymore",
+      "Humphrey Bogart",
+      "Spencer Tracy"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0072",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "This 1967 film starred Dustin Hoffman who asked the question: Mrs. Robinson, youre trying to seduce me. Arent you?.",
+    "options": [
+      "John and Mary",
+      "The Graduate",
+      "All the Presidents Men",
+      "Kramer vs. Kramer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0073",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "The following words were spoken by the character Carl Denham in which 1933 movie: Oh, no. It wasnt the airplanes. It was Beauty killed the Beast?",
+    "options": [
+      "The Bride of the Beast",
+      "Beauty and the Beast",
+      "King Kong",
+      "The Beast"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0074",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "Which science fiction movie contains these words, spoken by Elliot: He needs to go home, hes calling his people, and I dont know where they are, and he needs to go home.?",
+    "options": [
+      "The Ewok Adventure",
+      "Flight of the Navigator",
+      "Fire in the Sky",
+      "E.T. the Extra - Terrestrial"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0075",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What is the name of the place in which the main characters of Pirates of the Caribbean live?",
+    "options": [
+      "Port Royal",
+      "England",
+      "Royal Pointe",
+      "Black Pearl"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0076",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "Which character from Pirates of the Caribbean said the following words: What do you say to three schillings, and we forget the name??",
+    "options": [
+      "The dock-keeper",
+      "Jack Sparrow",
+      "Will Turner",
+      "Captain Barbossa"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0077",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Early on in the movie Walk the Line Johnny Cash enlists in what branch of the military?",
+    "options": [
+      "Army",
+      "Marines",
+      "Airforce",
+      "Navy"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0078",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Singer Johnny Cash was very close to his older brother Jack, who died in an accident involving what?",
+    "options": [
+      "Shotgun",
+      "Tractor",
+      "Wagon",
+      "Table Saw"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0079",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What is the birth name of singer Johnny Cash, whose life is depicted in the movie Walk the Line?",
+    "options": [
+      "J. R. Cash",
+      "John Cash Jr.",
+      "Johnny Cash",
+      "John Randall Cash"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0080",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "While in the military, Johnny Cash is inspired by a film about a prison and its inmates and composes what famous song?",
+    "options": [
+      "Behind These Folsom Walls",
+      "Folsom Prison Blues",
+      "Ring of Fire",
+      "Folsom Blues"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0081",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Before marrying June Carter, singer Johny Cash was married to whom?",
+    "options": [
+      "Violet Cash",
+      "Roseanne Cash",
+      "Vivian Cash",
+      "Carlene Cash"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0082",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In the film Walk the Line, a record executive says to Johny Cash, Whats with the black? You look like you are going to a funeral. What does Johny reply?",
+    "options": [
+      "He doesnt respond",
+      "Only my own",
+      "Wishful thinking?",
+      "Maybe I Am"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0083",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In the film Walk the Line, the part of Cashs long-time friend, Waylon Jennings was played by Jennings son in real life. What is his name?",
+    "options": [
+      "Shooter Jennings",
+      "Harvey Jennings",
+      "Hank Jennings",
+      "Stormer Jennings"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0084",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Dr. Hannibal Lecter aids Clarice Starling in finding serial killer Buffalo Bill in which 1991 movie?",
+    "options": [
+      "The Fugitive",
+      "The Silence of the Lambs",
+      "The Usual Suspects",
+      "Basic Instinct"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0085",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "Nigel Bruce portrayed Dr. Watson in what 1939 film?",
+    "options": [
+      "The Adventures of Philip Marlowe",
+      "The Adventures of Sam Spade",
+      "The Adventures of Sherlock Holmes",
+      "The Adventures of Dick Tracy"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0086",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "“The Exorcist”, rated as the scariest movie of all time, is burlesqued in which part of “Scary Movie”?",
+    "options": [
+      "Scary Movie 3",
+      "Scary Movie",
+      "Scary Movie 4",
+      "Scary Movie 2"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0087",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In “Scream”, what were the words that Billy spoke right before shooting Randy and revealing himself as one of the killers?",
+    "options": [
+      "We all go a little mad sometimes.",
+      "I told you I have a surprise for you.",
+      "Surprise, Sidney!",
+      "Boy, do I have a surprise for you!"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0088",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Freddy Krueger, the villain in “A Nightmare on Elm Street”, was named after which of these?",
+    "options": [
+      "a carpenter who killed his entire family",
+      "a bully",
+      "the first names of a couple of burglars",
+      "an old jazz singer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0089",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "In the Hellraiser series, in order for Pinhead to be summoned, one should do what?",
+    "options": [
+      "dial a 7-digit number and say “I call you! Come now!”",
+      "spell out his name five times in front of a mirror",
+      "open a puzzle box",
+      "break the spell that keeps him in Hell"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0090",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In the movie “Bride of Chucky”, the fourth of the Child’s Play series, Chucky’s girlfriend Tiffany brings Chucky back using what book about voodoo magic?",
+    "options": [
+      "The Power of Voodoo Magic",
+      "Voodoo Forever",
+      "The Voodoo Guide 2000",
+      "Voodoo 4 Dummies"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0091",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Jason Voorhees, the main character in Friday the 13th series puts on a mask to hide his horrible face in which movie?",
+    "options": [
+      "Friday the 13th Part 3",
+      "Friday the 13th Part VI: Jason Lives",
+      "Friday the 13th Part 2",
+      "Friday the 13th: A New Beginning"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0092",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Who directed the 1980 movie “The Shining”, based on a Stephen King novel and starring Jack Nicholson?",
+    "options": [
+      "Francis Ford Coppola",
+      "Stanley Kubrick",
+      "Alfred Hitchcock",
+      "Steven Spielberg"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0093",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "How does prom queen Helen Shivers die in the 1997 blockbuster “I Know What You Did Last Summer”?",
+    "options": [
+      "She is poisoned with hydrocyanogen",
+      "She gets hit by a car",
+      "She is hooked to death",
+      "She is throat-slashed"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0094",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "Saturday Night Fever, a movie about the troubled Brooklyn youth, Toni Manero, helped to popularize disco music. In what year did the movie come out?",
+    "options": [
+      "1979",
+      "1976",
+      "1978",
+      "1977"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0095",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "What was the name of Tony Maneros brother, portrayed by actor Martin Shakar in the movie Saturday Night Fever?",
+    "options": [
+      "Frank",
+      "Domenick",
+      "Joey",
+      "Johnny"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0096",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In the movie Saturday Night Fever, Toni Manero was the indisputable king at the disco, where he forgot about his dead-end job. What did Tony actually do for a living?",
+    "options": [
+      "He worked in a Pizza Parlor.",
+      "He worked in a paint store.",
+      "He worked as a dance instructor.",
+      "He was a stock boy at the local AP"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mov-0097",
+    "category": "Movies",
+    "difficulty": "hard",
+    "question": "In the movie Saturday Night Fever, Tony Manero and his friends from Bay Ridge, Brooklyn, climbed along the parapets of which bridge?",
+    "options": [
+      "Manhattan Bridge",
+      "Triboro Bridge",
+      "Verrazano Narrows Bridge",
+      "Brooklyn Bridge"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "mov-0098",
+    "category": "Movies",
+    "difficulty": "medium",
+    "question": "Tony Manero, the main character in the movie Saturday Night Fever, had posters of which actor?",
+    "options": [
+      "Harvey Keitel",
+      "Dustin Hoffman",
+      "Robert DeNiro",
+      "Al Pacino"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mov-0099",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "What is Andrews last name in the movie The Breakfast Club?",
+    "options": [
+      "Clark",
+      "Clay",
+      "Dickinson",
+      "Sutherlin"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mov-0100",
+    "category": "Movies",
+    "difficulty": "easy",
+    "question": "What year did the movie The Breakfast Club come out?",
+    "options": [
+      "1999",
+      "1985",
+      "1981",
+      "1986"
+    ],
+    "answerIndex": 1
   }
 ]

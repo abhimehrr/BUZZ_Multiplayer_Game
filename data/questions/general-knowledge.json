@@ -37,5 +37,3190 @@
       "Altimeter"
     ],
     "answerIndex": 1
+  },
+  {
+    "id": "gk-0004",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Sean Connery, George Lazenby, Roger Moore, Timothy Dalton and Pierce Brosnan have all played the role of a fictional British spy. Who was that character?",
+    "options": [
+      "Eliot Ness",
+      "Johnny English",
+      "Jim Malone",
+      "James Bond"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0005",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "The common link between these four movies -Chicken Run, Harry Potter, The Mummy Returns and Cast Away, is that...?",
+    "options": [
+      "They all are produced by one and the same company.",
+      "They all refer to one and the same social class.",
+      "One and the same actor is starring in all of them.",
+      "They all treat one and the same social problem."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0006",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Tom Cruise had a lead role in all, but one of these movies. Which one?",
+    "options": [
+      "Rain Man",
+      "Endless Love",
+      "Magnolia",
+      "The Firm"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0007",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "There is something specific about Anne Boleyns ghost. What is it?",
+    "options": [
+      "She does not have a ghost.",
+      "Her ghost is without hands.",
+      "Her ghost is without a head.",
+      "Her ghost is male."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0008",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What does Suetonius, Geoffrey of Monmouth and Herodotus have in common?",
+    "options": [
+      "They are three ghost from the modern urban legends.",
+      "They are three writers that produce modern urban legends.",
+      "They are three ghosts from the first urban legends.",
+      "They are three writers that produced the first urban legends."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0009",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What movie stars George Peppard as a WWI ace pilot?",
+    "options": [
+      "The Blue Max",
+      "The Red Baron",
+      "The Black Knight",
+      "The Blue Baron"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0010",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which 1985 comedy film starred Tom Hanks, Jim Belushi and Lori Singer?",
+    "options": [
+      "Reds",
+      "The Man With One Red Shoe",
+      "The Woman In Red",
+      "The Masque of the Red Death"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0011",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Three of the following albums are by the band Red Hot Chili Peppers. Which is the odd one?",
+    "options": [
+      "Blood Sugar Sex Magik",
+      "Freaky Styley",
+      "In Another Land",
+      "By the Way"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0012",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What did electrical engineering professor, Dr. Brent Townshend, invent in 1996?",
+    "options": [
+      "Bookshelf speakers",
+      "Potato Chips",
+      "The remote control locator",
+      "The 56K modem"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0013",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "How old was Cio-Cio-San, a character in Giacomo Puccinis opera, Madame Butterfly ?",
+    "options": [
+      "15",
+      "19",
+      "21",
+      "20"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0014",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "What is the name of the informal association of people who can trace their ancestry to the original Virginian colonists from England?",
+    "options": [
+      "First children of Virginia",
+      "First Families of Virginia",
+      "Founders of Virginia",
+      "First Settlers of Virginia"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0015",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which collective noun denotes a group of owls?",
+    "options": [
+      "descent",
+      "dule",
+      "parliament",
+      "covey"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0016",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which battleship of the Imperial Japanese Navy was sent on a suicide mission in 1945, during the invasion of Okinawa?",
+    "options": [
+      "Noh",
+      "Kamikaze",
+      "Tojo",
+      "Yamato"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0017",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which word was coined by philosopher and theologian, William Whewell in 1833?",
+    "options": [
+      "scientist",
+      "holography",
+      "trastevere",
+      "magenta"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0018",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What was the first word addressed to Mission Control by Neil Armstrong, when his craft landed on the Moon on July 20, 1969?",
+    "options": [
+      "Buzz",
+      "Houston",
+      "Roger",
+      "One"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0019",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which was the first car model to sell one million cars in one year?",
+    "options": [
+      "Corvette",
+      "Toyota Corolla",
+      "Chevy Impala",
+      "Volkswagon Beetle"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0020",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which company built the A6M, aka Zero -- the fighter aircraft that was used in the attack on Pearl Harbor?",
+    "options": [
+      "Toshiba",
+      "Isuzu",
+      "Mikayashi",
+      "Mitsubishi"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0021",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How much did the USA pay Russia for Alaska?",
+    "options": [
+      "$7.2 million",
+      "$72 million",
+      "$720,000",
+      "$720 million"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0022",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What musical instrument made jazz performer Lionel Hampton famous?",
+    "options": [
+      "Clarinet",
+      "Vibes",
+      "Trombone",
+      "Drums"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0023",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What are the only two landlocked countries in South America ?",
+    "options": [
+      "Paraguay and Uruguay",
+      "Bolivia and Uruguay",
+      "Bolivia and Paraguay",
+      "Colombia and Ecuador"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0024",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which word means a practitioner of the martial art of Okinawan origin, karate?",
+    "options": [
+      "Konyico",
+      "Samurai",
+      "Sojin",
+      "Karateka"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0025",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which of these Biblical characters is known to have the greatest number of children?",
+    "options": [
+      "David",
+      "King Saul",
+      "Jacob",
+      "Joshua"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0026",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which device was patented in 1970 by Douglas Engelbart, an American inventor of Norwegian descent?",
+    "options": [
+      "The traffic light",
+      "The computer mouse",
+      "The can opener",
+      "The internal combustion engine"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0027",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What does the Yiddish word Bupkis mean in English?",
+    "options": [
+      "Never",
+      "None",
+      "Nothing",
+      "Rubbish"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0028",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "In what year did French mechanic Nicolas Joseph Cugnot invent the first self-propelled road vehicle?",
+    "options": [
+      "1824",
+      "7874",
+      "1891",
+      "1769"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0029",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "According to GlobalNet UK, less than what percentage of 500 Chinese cities surveyed have clean air?",
+    "options": [
+      "1%",
+      "24%",
+      "15%",
+      "30%"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0030",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who invented the ball point pen?",
+    "options": [
+      "John Fitzsimmons Waterman",
+      "Jozsef Laszlo Biro",
+      "Elias Howe",
+      "Elias Schaeffer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0031",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What was the first product to have a bar code?",
+    "options": [
+      "Pez candy",
+      "Scotts Tissue",
+      "Wrigleys gum",
+      "Bounty bar"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0032",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What do we call a storage place for bees?",
+    "options": [
+      "Asterciary",
+      "Aviary",
+      "A bee zoo",
+      "Apiary"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0033",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Former NBA coach Frank Layton once fined small forward Adrian Dantley thirty pieces of silver. What did Layton say the fine was for?",
+    "options": [
+      "Betrayal",
+      "Missing three foul shots in a row",
+      "Being late to three practices in a row",
+      "Asking to be traded"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0034",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which of these elements has the highest melting point?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0035",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How often should a woman change her bra?",
+    "options": [
+      "every 5 weeks",
+      "every 9 months",
+      "every 6 months",
+      "once a 1year"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0036",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What price did someone pay for Marilyn Monroes bra that she wore in the 1959 movie Some Like It Hot?",
+    "options": [
+      "$4,000",
+      "$10,000",
+      "$1,000",
+      "$14,000"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0037",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What year did the bra first appear?",
+    "options": [
+      "2000 BC",
+      "4000 BC",
+      "1000 BC",
+      "3000 BC"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0038",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "The average woman will wear different bra sizes in her life, due to gravity, pregnancy and weight changes. How many times will she change her size?",
+    "options": [
+      "8",
+      "6",
+      "5",
+      "3"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0039",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "There are cases of heterosexual men wearing bras to hide his enlarged chest. What is the name of the disease that causes this hormonal defect?",
+    "options": [
+      "Caroli Disease",
+      "Budd-Chiari Syndrome",
+      "Gynecomastia",
+      "Hepatitis"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0040",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is the missing word in these lyrics taken from a traditional folk song of the Southern United States?",
+    "options": [
+      "Mine",
+      "Kansas",
+      "Jasper",
+      "Texas"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0041",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What type of insects are yellowjackets which live in colonies and build globular paper nests?",
+    "options": [
+      "wasps",
+      "butterflies",
+      "crickets",
+      "ants"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0042",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What type of animal is Old Yeller featured in the 1957 classic film Old Yeller?",
+    "options": [
+      "Mountain Lion",
+      "Dog",
+      "Grizzly Bear",
+      "Panther"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0043",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "The term lachanophobia means a fear of what?",
+    "options": [
+      "doors",
+      "llamas",
+      "vegetables",
+      "beds"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0044",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "The oldest surviving violin, date-stamped on the inside, is the Charles IX, made in 1564 by which luthier?",
+    "options": [
+      "Pietro Guarneri",
+      "Andrea Guarneri",
+      "Antonio Stradivari",
+      "Andrea Amati"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0045",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Slugs have how many tentacles on their head?",
+    "options": [
+      "4",
+      "8",
+      "7",
+      "3"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0046",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Moe Berg was a professional baseball player, a catcher. Which one of these statements about him is correct?",
+    "options": [
+      "He was the last out in Don Larsens perfect game.",
+      "He was an international spy.",
+      "He was on base when Ruth hit home run number 60.",
+      "He was the only catcher to catch three no hitters."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0047",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How many legs does a dragonfly have?",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "0"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0048",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Where did the Black Plague originate?",
+    "options": [
+      "Russia",
+      "Turkey",
+      "Italy",
+      "India"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0049",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who was Aristotles teacher?",
+    "options": [
+      "Plato",
+      "Alexander",
+      "Socrates",
+      "Ptolemy"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0050",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who was Aristotles most famous student?",
+    "options": [
+      "Erasmus",
+      "Alexander",
+      "Ptolemy",
+      "Phillippus Magnus"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0051",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is covered by the 19th amendment to the US constitution?",
+    "options": [
+      "Voting rights for people of Guam",
+      "Repeal of Prohibition",
+      "Voting rights for women",
+      "Voting rights for citizens of Washington, D.C."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0052",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who was baseball announcer Joe Garagiolas best friend in childhood ?",
+    "options": [
+      "Chris Schenkel",
+      "Stan Musial",
+      "Red Barber",
+      "Yogi Berra"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0053",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Ladino is a language composed of which two other languages ?",
+    "options": [
+      "Hebrew and Spanish",
+      "Spanish and Portuguese",
+      "Spanish and Arabic",
+      "Portuguese and Italian"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0054",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Alligators and crocodiles exist together in only one place in the world, where?",
+    "options": [
+      "Australia",
+      "Florida",
+      "North Carolina",
+      "Samoa"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0055",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What animals were the Canary Islands named after ?",
+    "options": [
+      "Lions",
+      "Cats",
+      "Dogs",
+      "Canaries"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0056",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What was the first name of the character Masterson in the musical comedy Guys and Dolls?",
+    "options": [
+      "Dom",
+      "Job",
+      "Uri",
+      "Sky"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0057",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is the first name of the comedian, who in 1999 became host of The Daily Show?",
+    "options": [
+      "Jon",
+      "Ray",
+      "Stu",
+      "Lou"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0058",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "By what nickname was shipping magnate Onasis better known?",
+    "options": [
+      "Psi",
+      "Ari",
+      "Uri",
+      "Soc"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0059",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which of the following is the name of one of The Three Stooges?",
+    "options": [
+      "Ham",
+      "Sep",
+      "Moe",
+      "Lou"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0060",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What was the name of Ted Dansons character in Cheers?",
+    "options": [
+      "Dan",
+      "Dom",
+      "Joe",
+      "Sam"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0061",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which of these is a character featured in the movie Ghostbusters?",
+    "options": [
+      "Ray",
+      "Joe",
+      "Van",
+      "Tom"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0062",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the first name of the actress who married David Duchovny in 1997?",
+    "options": [
+      "Bea",
+      "Tea",
+      "Lea",
+      "Mia"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0063",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who was the long-suffering character from the Bibles Old Testament?",
+    "options": [
+      "Uri",
+      "Zeb",
+      "Job",
+      "Set"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0064",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Ava and Mia were two of the wives of which famous persons?",
+    "options": [
+      "Artie Shaw",
+      "Louis XIV",
+      "Henry VIII",
+      "Frank Sinatra"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0065",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the name of the cartoon cat that terrorizes the mouse, Jerry?",
+    "options": [
+      "Tom",
+      "Cat",
+      "Gat",
+      "Gus"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0066",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What was the name of the bartender character created and played by Jackie Gleason?",
+    "options": [
+      "Gus",
+      "Joe",
+      "Sam",
+      "Tom"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0067",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is the first name of the actress who played the main character on Maude?",
+    "options": [
+      "Amy",
+      "Liz",
+      "Bea",
+      "Pat"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0068",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is the main symptom of the uncommon blood disorder, known as methemoglobinemia?",
+    "options": [
+      "Faster breathing because of lack of haemoglobin",
+      "10% greater blood volume than normal",
+      "Abnormally enlarged lungs",
+      "Bluish complexion of the skin"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0069",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which anatomical term defines the midline groove connecting the upper lip to the nose?",
+    "options": [
+      "Philtrum",
+      "Edaphadium",
+      "Tachyon",
+      "Serein"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0070",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "What is the name of the historic attack on Normandy on June 6, 1944, which was part of World War II military operations of the Allied Powers against Nazi Germany?",
+    "options": [
+      "Operation Belgrani",
+      "Operation Neptune",
+      "Operation Barbarosa",
+      "Operation Overlord"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0071",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Bobby Leach, a circus stuntman from Cornwell, England, famous for surviving a barrel ride over the Niagara Falls, died in what way?",
+    "options": [
+      "He died during an attempt to swim the English Channel.",
+      "In 1912 he was aboard the Titanic and drowned.",
+      "He slipped on a orange peel and died.",
+      "He was one of the first casualties of WWI."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0072",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Suppose Mr. Jones works with ANOVA, regression lines, the sign-test, and the Gaussian distribution. What field of mathematics does Mr. Jones work in?",
+    "options": [
+      "Geometry",
+      "Algebra",
+      "Calculus",
+      "Statistics"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0073",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "A mixture of water and honey can be used for what unconventional purpose?",
+    "options": [
+      "Antifreeze for cars",
+      "A treatment for throat infections",
+      "Silver cleaner",
+      "A means of greasing a muffin pan"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0074",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What device was invented in the early 1910s by American race-car driver, Ray Harroun?",
+    "options": [
+      "The tire iron",
+      "The rear view mirror",
+      "The brake",
+      "The internal combustion engine"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0075",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "According to Islamic beliefs, the Devil was created out of what?",
+    "options": [
+      "Clay",
+      "Unbreakable rocks",
+      "Smokeless fire",
+      "Polluted soil"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0076",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "In the 1997 movie Devils Advocate, Keanu Reeves character, Kevin Lomax, starts work in John Miltons huge law firm. Which one of these actors played Milton?",
+    "options": [
+      "Robert De Niro",
+      "Jeffrey Jones",
+      "Val Kilmer",
+      "Al Pacino"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0077",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What animal is responsible for the most human deaths in the world?",
+    "options": [
+      "Mosquito",
+      "Pitbull",
+      "Wasp",
+      "Great White Shark"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0078",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What book is said to be the most shoplifted?",
+    "options": [
+      "Thesaurus of English Words Phrases",
+      "The Bible",
+      "Websters Dictionary",
+      "National Geographic Atlas of the World"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0079",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What company is generally regarded as the largest toy distributor in the world?",
+    "options": [
+      "Mattel",
+      "Barbie",
+      "McDonalds",
+      "Fisher Price"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0080",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What percent of movies released in theaters in 1985 were R-rated?",
+    "options": [
+      "95%",
+      "45%",
+      "90%",
+      "81%"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0081",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the maximum distance between Mars and the Sun?",
+    "options": [
+      "249,000,000",
+      "327,000,000",
+      "500,000,000",
+      "275,000,000"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0082",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "In Native American beliefs, humans could be transformed into a dangerous cannibalistic spirits if they ate human flesh. What is the name given to these creatures?",
+    "options": [
+      "Banshee",
+      "Wendigo",
+      "Shaman",
+      "Boggart"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0083",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "This seemingly lifelike substance is allegedly extruded from the bodies of mediums. It can be vaporous or solid and is said to smell of ozone. What is it?",
+    "options": [
+      "Endoplasm",
+      "Cytoplasm",
+      "Ectoplasm",
+      "Plasma"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0084",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which two famous ghosts supposedly haunt the Hollywood Roosevelt Hotel?",
+    "options": [
+      "Douglas Fairbanks and Mary Pickford.",
+      "Laurel and Hardy.",
+      "Frank Sinatra and Ava Gardner.",
+      "Marilyn Monroe and Montgomery Clift."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0085",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "In astronomy, what is a syzygy?",
+    "options": [
+      "An alignment of 3 celestial bodies",
+      "A comet",
+      "A shooting star",
+      "An eclipse"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0086",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which of these celebrities was named after the Biblical character who was Namomis daughter-in-law?",
+    "options": [
+      "Penelope Cruz",
+      "Oprah Winfrey",
+      "Moonunit Zappa",
+      "Uma Thurman"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0087",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which of these statements is true about the way Michelangelo drew the snake in the Sistine Chapel?",
+    "options": [
+      "The snake appears to be speaking",
+      "The snake has no fangs",
+      "The snake is a woman",
+      "The snake is walking"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0088",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which was the first jazz single to sell one million copies?",
+    "options": [
+      "In the Mood",
+      "Take the A Train",
+      "Laura",
+      "Chattanooga Choo-Choo"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0089",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which of the following people was a big fan of bowling?",
+    "options": [
+      "Luther",
+      "Mozart",
+      "Cromwell",
+      "Napolen"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0090",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which famous actor was Arthur Millers son-in-law?",
+    "options": [
+      "Kirk Douglas",
+      "Daniel Day-Lewis",
+      "Anthony Hopkins",
+      "William Shatner"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0091",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Three of the four players have been recognized as Most Valuable Player of the Chicago White Sox, which bore the nickname The Chicago Black Sox for a while. Who is the odd one?",
+    "options": [
+      "Dick Allen",
+      "Nellie Fox",
+      "Ozzie Guillén",
+      "Frank Thomas"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0092",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What was the first movie shown in the White House?",
+    "options": [
+      "The Birth of a Nation",
+      "The Sheik",
+      "Wings",
+      "Cabira"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0093",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which of these represents the largest group of soldiers?",
+    "options": [
+      "Battalion",
+      "Company",
+      "Platoon",
+      "Squad"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0094",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which was the first nation to become Christian?",
+    "options": [
+      "Rome",
+      "Armenia",
+      "Antioch",
+      "Romania"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0095",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "In the USA, what is the longest month?",
+    "options": [
+      "August",
+      "April",
+      "October",
+      "January"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0096",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which element is number two in the periodic table, following hydrogen?",
+    "options": [
+      "Oxygen",
+      "Lithium",
+      "Carbon",
+      "Helium"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0097",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which form of cancer is the number one cause of cancer deaths in both men and women in the United States?",
+    "options": [
+      "Lung Cancer",
+      "Breast Cancer",
+      "Prostate Cancer",
+      "Leukemia"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0098",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which of these conditions is the most common reason for a doctor to prescribe Lithium?",
+    "options": [
+      "Glaucoma",
+      "Bipolar disorder",
+      "Diabetes",
+      "Anemia"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0099",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the plural form of dice?",
+    "options": [
+      "Bidice",
+      "Dicess",
+      "It already is plural",
+      "Dices"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0100",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which Japanese car brand is also a word in Spanish?",
+    "options": [
+      "Mazda",
+      "Nissan",
+      "Toyota",
+      "Honda"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0101",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "In the American version of Monopoly, which are the two most expensive properties?",
+    "options": [
+      "Boardwalk and Park Place",
+      "Boardwalk and Fifth Avenue",
+      "Boardwalk and Ventnor Avenue",
+      "Broadway and North Carolina Avenue."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0102",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "In which decade were sneakers, or tennis shoes invented?",
+    "options": [
+      "1940s",
+      "1830s",
+      "1890s",
+      "1920s"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0103",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which scientist discovered that blood could be separated into blood plasma and red blood cells and the components frozen separately, thus lasting longer?",
+    "options": [
+      "Karl Landsteiner",
+      "Paul Ehrlich",
+      "Charles Drew",
+      "Richard Keating"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0104",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What animal is the largest land predator?",
+    "options": [
+      "Giant anteater",
+      "Elephant",
+      "Man",
+      "Kodiak bear"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0105",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "If you roll two fair dice, what is the probability you will get a seven?",
+    "options": [
+      "1/6",
+      "1/36",
+      "7/36",
+      "7/6"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0106",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which of the following best describes heavy water?",
+    "options": [
+      "Polluted water",
+      "Water with several isotopes of hydrogen",
+      "Water carrying silt down a river",
+      "Water loaded with fluorides"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0107",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is the name of the scary creature that was tamed in a legend about Saint Martha?",
+    "options": [
+      "Sphinx",
+      "Yomi",
+      "Tarasque",
+      "Tarabon"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0108",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "What is the name of this legendary monster, which appears in Jewish folklore as an animated creature created from inanimate material?",
+    "options": [
+      "Kraken",
+      "Grendel",
+      "Draka",
+      "Golem"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0109",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is the other name of the creature, which is often called the Abominable Snowman and is thought to inhabit the Himalayas?",
+    "options": [
+      "Yeti",
+      "Rodan",
+      "Bigfoot",
+      "Scylla"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0110",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which is the horrible creature, whose name literally translates as goat-sucker from Spanish?",
+    "options": [
+      "Kitsune",
+      "Chupacabra",
+      "Cthulhu",
+      "Chimera"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0111",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the name of a famous guarding monster in Greek Mythology?",
+    "options": [
+      "Golem",
+      "Dagon",
+      "Cerberus",
+      "Hyde"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0112",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Vukodlak is one of the Slavonic names of which scary mythical monster?",
+    "options": [
+      "Vampire",
+      "Dragon",
+      "Ghost",
+      "Werewolf"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0113",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who was the first centerfold of Playboy magazine?",
+    "options": [
+      "Marilyn Monroe",
+      "Jayne Mansfield",
+      "Bette Paige",
+      "Joan Crawford"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0114",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How many feet are in a mile?",
+    "options": [
+      "1000",
+      "5280",
+      "1665",
+      "1770"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0115",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "In 1864, the US government issued a two-cent coin. What was so special about this coin ?",
+    "options": [
+      "It was golden",
+      "It was shunned by the South",
+      "It was the first to say In God We Trust",
+      "It was the first to have a picture of a President on it"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0116",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Whose real name was Leonard Sly?",
+    "options": [
+      "Leonardo DiCaprio",
+      "Leonard Nimoy",
+      "Gerald Ford",
+      "Roy Rogers"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0117",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which of these great books was first published in 1771?",
+    "options": [
+      "The Encyclopedia Britannica",
+      "Paradise Lost",
+      "Gullivers Travels",
+      "Roberts Rules of Order"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0118",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What was the original name of the melodramatic musical, West Side Story?",
+    "options": [
+      "Jets and Sharks",
+      "East Side Story",
+      "War and Love",
+      "The Gangs of New York"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0119",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which word goes with the Oriental symbol Yang?",
+    "options": [
+      "Tao",
+      "Ying",
+      "Yin",
+      "Sutra"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0120",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "The student Rosencrantz is coupled with what fellow student?",
+    "options": [
+      "Hamlet",
+      "Waskowitcz",
+      "Rabinowski",
+      "Guildenstern"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0121",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who is Shreks sidekick in the films Shrek, Shrek 2, and Shrek the Third?",
+    "options": [
+      "Donkey",
+      "The Frog King",
+      "Puss in Boots",
+      "Fairy Godmother"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0122",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who is Harry Potters best friend and schoolmate?",
+    "options": [
+      "Sirius Black",
+      "Ron Weasley",
+      "Neville Longbottom",
+      "Albus Dumbledore"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0123",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who was Nero Wolfs legman and confidant?",
+    "options": [
+      "Dr. Watson",
+      "Rex Stout",
+      "Archie Goodwin",
+      "Coleman his butler"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0124",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What are the Latin terms that refer to plant and animal life?",
+    "options": [
+      "ipso and facto",
+      "habeas and corpus",
+      "etcetera and et alia",
+      "flora and fauna"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0125",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What two colors are mixed together to get orange?",
+    "options": [
+      "Red and yellow",
+      "Blue and red",
+      "White and blue",
+      "Yellow and green"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0126",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which word refers to a specialized type of building in a garden that is used for the growing of citrus trees?",
+    "options": [
+      "Orangeton",
+      "Orangery",
+      "Orange garden",
+      "Orange-greenhouse"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0127",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "In what year did Stanley Kubrick direct his Oscar-nominated film A Clockwork Orange?",
+    "options": [
+      "1969",
+      "1970",
+      "1971",
+      "1972"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0128",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What was the nationality of William III of England who was often called William of Orange?",
+    "options": [
+      "French",
+      "English",
+      "Spanish",
+      "Dutch"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0129",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What type of insect is the Orange Tip?",
+    "options": [
+      "Butterfly",
+      "Ladybug",
+      "Grasshopper",
+      "Moth"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0130",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Orange Pekoe is a type of what?",
+    "options": [
+      "Gemstone",
+      "Tea",
+      "Wildflower",
+      "Tropical Fish"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0131",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "In 1927 Austrian baker and confectioner, Eduard Haas invented what?",
+    "options": [
+      "The electric mixer",
+      "The CAT scan",
+      "PEZ candy",
+      "AM radio"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0132",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "The Warren Commission, was established on November 29, 1963 by Lyndon B. Johnson to investigate what?",
+    "options": [
+      "The shooting at Kensington University",
+      "The Watergate Scandal",
+      "The war crimes in Vietnam",
+      "The assassination of John F. Kennedy"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0133",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What do American Presidents John Quincy Adams, Rutherford B. Hayes, Benjamin Harrison and George W. Bush all have in common?",
+    "options": [
+      "They won the electoral vote but not the popular vote.",
+      "They all were senators.",
+      "They all were re-elected.",
+      "They all served as vice-presidents."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0134",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Gunnery sergeant John Basilone of the US Marine Corps, was awarded the Medal of Honor for what reason?",
+    "options": [
+      "Outstanding heroism during the Gulf Wars",
+      "Outstanding heroism at Guadalcanal during World War II",
+      "Outstanding heroism during the attack on Pearl Harbour",
+      "Outstanding heroism during the Vietnam War"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0135",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "The world-class hospital in Maryland was named after a person whose last name was Hopkins. What was his first name?",
+    "options": [
+      "John",
+      "James",
+      "Johns",
+      "Reed"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0136",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which of the following are well known English puppets?",
+    "options": [
+      "Kukla Fran and Ollie",
+      "Thomas and Gerald",
+      "Chip and Dale",
+      "Punch and Judy"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0137",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who were the star-crossed lovers from West Side Story ?",
+    "options": [
+      "Tony and Maria",
+      "Juan and Juanita",
+      "Nardo and Anita",
+      "Jose and Jorge"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0138",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which of these is the name of the company that manufactures several first aid remedies?",
+    "options": [
+      "Black and Decker",
+      "Johnson and Johnson",
+      "Clark and Lewis",
+      "Proctor and Gamble"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0139",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which of these comedy teams consists of a husband and wife, whose son is an Emmy Award-winning actor?",
+    "options": [
+      "Shields and Yarnell",
+      "Burns and Allen",
+      "Stiller and Meara",
+      "Bergen and McCarthy"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0140",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Who were the two teenagers who were transported into various time periods in a series of movies?",
+    "options": [
+      "Joe and Tom",
+      "George and Henry",
+      "Archie and Reggie",
+      "Bill and Ted"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0141",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "In the game of Scrabble, if a player uses all seven of their letters in a turn, they receive a bonus of how many points?",
+    "options": [
+      "50",
+      "10",
+      "100",
+      "25"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0142",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What term derives from a Latin word meaning rods bundled around an axe ?",
+    "options": [
+      "Caesar",
+      "Fascism",
+      "Sovereign",
+      "Despot"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0143",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "In what year did Nicolas Cugnot invent the first successful steam-powered road vehicle?",
+    "options": [
+      "1645",
+      "1842",
+      "1769",
+      "1816"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0144",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Alban W. Phillips is the discoverer of the Phillips Curve. What does this curve show?",
+    "options": [
+      "Property is the real basis for wealth in a capitalistic society.",
+      "Rising wages favor labor-intensive investments.",
+      "Rising wages favor capital-intensive investments.",
+      "Inflation is inversely proportional to unemployment."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0145",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "According to a study published in the Annals of Neurology, people who regularly come into contact with pesticides are 70 % more likely to develop what disease?",
+    "options": [
+      "Parkinsons disease",
+      "Alzheimers disease",
+      "Jakob-Brezlov disease",
+      "Brain Cancer"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0146",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Handel, Bach and Scarlatti were all born in what year?",
+    "options": [
+      "1789",
+      "1685",
+      "1613",
+      "1785"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0147",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What was the last name of Italian brothers Carlo, Bindo, Alfieri, Ettore, and Ernesto who were all in the automobile business?",
+    "options": [
+      "Romeo",
+      "Peugeot",
+      "Maserati",
+      "Ferrari"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0148",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which is the correct definition for oxter?",
+    "options": [
+      "walrus ivory",
+      "having much snow",
+      "to polish",
+      "the armpit"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0149",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is true about all objects that emit heat?",
+    "options": [
+      "They all emit infra-red waves.",
+      "They obey Snells Law",
+      "They are all composed of plasmas.",
+      "They all emit ultraviolet rays."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0150",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What did Wilhelm Schickard invent?",
+    "options": [
+      "the integrated circuit",
+      "the first automatic calculator",
+      "the pneumatic drill",
+      "celluloid"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0151",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which list contains four of the five basic ballet moves?",
+    "options": [
+      "Cabriole, Pirouette, Arabesque , Atimitudes",
+      "Cabriole, Arabesque, Pirouettem, Atimitudes",
+      "Fouette, Attitude, Pirouette, Arabesque",
+      "Pirouette, Arabesque, Pas des deux, Grande cabriole"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0152",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "The Kojiki and the Nihon Shoki are the sacred texts of which religion?",
+    "options": [
+      "Sikhism",
+      "Zoroastrianism",
+      "Taoism",
+      "Shinto"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0153",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "The Virginia General Assembly was founded in Jamestown in what year?",
+    "options": [
+      "1619",
+      "1819",
+      "1719",
+      "1774"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0154",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What was the currency of the Netherlands, before the adoption of the euro?",
+    "options": [
+      "Dinar",
+      "Gulden",
+      "Florin",
+      "Krona"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0155",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Dactyloscopy, a technique perfected by anthropologist Juan Vucetichs, studies what?",
+    "options": [
+      "The shape of human head",
+      "Flightless birds",
+      "Fingerprints",
+      "Land dinosaurs"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0156",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How many are in a Bakers Dozen?",
+    "options": [
+      "10",
+      "5",
+      "12",
+      "13"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0157",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Ann has $5.00 and Jeff gives her $2.50, then she goes and buys $3.38 worth of candy. How much money does she have left?",
+    "options": [
+      "$4.12",
+      "nothing",
+      "$5.00",
+      "$3.92"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0158",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "A lion is part of which animal class?",
+    "options": [
+      "Aves",
+      "Mammalia",
+      "Amphibia",
+      "Arachnida"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0159",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What 2 prominent actors did the movie Colors star?",
+    "options": [
+      "Dennis Hopper and Heath Ledger",
+      "Robert Duvall and Aidan Quinn",
+      "Sean Penn and Robert Duvall",
+      "Sean Penn and Robert De Niro"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0160",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Said to be the first of the Film Noir genre, The Maltese Falcon starred Humphrey Bogart as the one and only Sam Spade. How many appearances did Bogart make as this character?",
+    "options": [
+      "6",
+      "3",
+      "4",
+      "1"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0161",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "In 1971 one of the classics of the Film Noir genre was made in color - Chinatown. The cast was stellar, as well as the director. Can you name him?",
+    "options": [
+      "Roman Polanski",
+      "Billy Wilder",
+      "John Huston",
+      "William Friedkin"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0162",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Laura is one of the most memorable films made in the Film Noir genre, even more so thanks to Clifton Webbs performance. What was his film characters name?",
+    "options": [
+      "Whit Sterling",
+      "Waldo Lydecker",
+      "Jules Amthor",
+      "Kaspar Gutman"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0163",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Periander of Corinth, Pittacus of Mitylene and Thales of Miletus have something in common. What is it?",
+    "options": [
+      "They are three of the most famous Greek characters.",
+      "They are three of the Seven mathematicians of Greece.",
+      "They are three of the Seven Sages of Greece.",
+      "They are the Three princes of Greece."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0164",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Three of the listed singers are baritones. Who is the odd one?",
+    "options": [
+      "Frank Sinatra",
+      "Robert Goulet",
+      "Elvis Presley",
+      "Roberto Alagna"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0165",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What did Jean Michel Jarre, Ernest Hemingway, Mark Twain, Lord Byron, and Sir Winston Churchill all have for pets?",
+    "options": [
+      "Cats",
+      "Birds",
+      "Dogs",
+      "Horses"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0166",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who is the odd one of the four writers?",
+    "options": [
+      "Edmund Spenser",
+      "Charles Dickens",
+      "Thomas More",
+      "Christopher Marlowe"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0167",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Les Barker, Richard Digance and Bill Oddie are famous for being what?",
+    "options": [
+      "Impersonators",
+      "Satirists",
+      "Musical comedians",
+      "Radio comedians"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0168",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Paul Ehrlich, Otto Diels, and Hans Fischer are known as what?",
+    "options": [
+      "Austrian biologists",
+      "German biologists",
+      "German physicists",
+      "German chemists"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0169",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Tomas Transtr�mer, Assia Djebar and Raja Rao have won one, what is it?",
+    "options": [
+      "Neustadt International Prize for Literature",
+      "Pulitzer Prize for Poetry",
+      "Bobbitt National Prize for Poetry",
+      "Nobel Prize in Literature"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0170",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which group consists of these three members: Thomas (Tom) Matthew DeLonge on guitar, Markus (Mark) Allan Hoppus on bass, and Travis Landon Barker on drums?",
+    "options": [
+      "East 17",
+      "Blink-182",
+      "Wax",
+      "Take That"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0171",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which sport is mentioned in Shakespeares Henry V?",
+    "options": [
+      "Bowling",
+      "Golf",
+      "Tennis",
+      "Darts"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0172",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What was the name of Sir Isaac Newtons first wife?",
+    "options": [
+      "Iris Barrow",
+      "Elizabeth Rachel Sandal",
+      "Mary Chennille",
+      "He never had a wife"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0173",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who was the first singer to get a Gold Record for a single?",
+    "options": [
+      "Perry Como",
+      "Tex Beneke",
+      "Frank Sinatra",
+      "Elvis Presley"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0174",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What organization was started by Carrie Chapman Catt?",
+    "options": [
+      "National Universal Suffrage League",
+      "League of Women Voters",
+      "Democratic National Committee",
+      "The Right to Life Party"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0175",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "When did Americas military actions in Korea first begin?",
+    "options": [
+      "1950",
+      "1958",
+      "1871",
+      "1951"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0176",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which of these was supposedly built to house 8 human hairs?",
+    "options": [
+      "The Masudi Temple",
+      "The Chenwuku Temple",
+      "The Torii Pagoda",
+      "The Shwedagon Pagoda"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0177",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who discovered the gyroscope effect, now used for measuring orientation?",
+    "options": [
+      "Johann Bohenberger",
+      "Booker T. Washington",
+      "Thomas A. Edison",
+      "Leon Foucault"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0178",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which one of these authors created the famous fictional White Rabbit which wears a waistcoat and is always worried about being late?",
+    "options": [
+      "J. R. R. Tolkien",
+      "Lewis Carrol",
+      "Edgar Allan Poe",
+      "J. K. Rowling"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0179",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which of these is characteristic of Rabbit, a fictional character in the series Winnie the Pooh?",
+    "options": [
+      "Bouncing and confident",
+      "Ashamed of being small",
+      "Busy and responsible",
+      "Gloomy and pessimistic"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0180",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "The Playboy Bunny outfit, worn by waitresses at the Playboy Clubs, consisted of bunny ears, a corset, a collar, cuffs and what else?",
+    "options": [
+      "Chains",
+      "Whiskers",
+      "Bandana",
+      "Fluffy tail"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0181",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which American author wrote the so called Rabbit novels - Rabbit, Run, Rabbit Redux, Rabbit Is Rich, Rabbit At Rest and Rabbit Remembered?",
+    "options": [
+      "John Updike",
+      "William Faulkner",
+      "Ken Kesey",
+      "Michael Crichton"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0182",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who voiced Roger Rabbit in the 1988 movie Who Framed Roger Rabbit?",
+    "options": [
+      "Mae Questel",
+      "Charles Fleischer",
+      "Mel Blanc",
+      "Bob Hoskins"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0183",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Who wrote and illustrated the famous childrens book The Tale of Peter Rabbit, first published in 1902?",
+    "options": [
+      "Lewis Carroll",
+      "Hans Christian Andersen",
+      "Beatrix Potter",
+      "Oscar Wilde"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0184",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What was the name of the rabbit in Disneys animated movie Bambi?",
+    "options": [
+      "Faline",
+      "Flower",
+      "Ronno",
+      "Thumper"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0185",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Who played the role of Jimmy B-Rabbit in the 2002 movie 8 Mile, directed by Curtis Hanson?",
+    "options": [
+      "Eminem",
+      "Evan Jones",
+      "Michael Shannon",
+      "Kim Basinger"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0186",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which disorder is characterised by a fear of the number 13?",
+    "options": [
+      "Caligynephobia",
+      "Triskaidekaphobia",
+      "Anglophobia",
+      "Xylophobia"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0187",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which condition is described as a fear of cats?",
+    "options": [
+      "Cynophobia",
+      "Alektorophobia",
+      "Ailurophobia",
+      "Pedophobia"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0188",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What medical term refers to the fear of death or dying?",
+    "options": [
+      "Dinophobia",
+      "Brontophobia",
+      "Triskadekaphobia",
+      "Thanatophobia"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0189",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What term refers to the fear of imperfection?",
+    "options": [
+      "Atelophobia",
+      "Arachnophobia",
+      "Autophobia",
+      "Ailurophobia"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0190",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "A person who is afraid of heights, suffers from what disorder?",
+    "options": [
+      "Agoraphobia",
+      "Acrophobia",
+      "Arachnophobia",
+      "Anglophobia"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0191",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which term refers to the morbid fear of thunderstorms?",
+    "options": [
+      "Triskadekaphobia",
+      "Chionophobia",
+      "Brontophobia",
+      "Xylophobia"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0192",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What condition is characterised by an irrational fear of taking tests?",
+    "options": [
+      "Placophobia",
+      "Theologicophobia",
+      "Chronophobia",
+      "Testophobia"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0193",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What did the Byzantine empresses do in the Purple Chamber?",
+    "options": [
+      "Give Birth",
+      "Have their wedding night",
+      "Rest in to be seen by others during their final days of life",
+      "Get Married"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0194",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which is a successful Australian comedy film?",
+    "options": [
+      "Purple Kangas",
+      "Alvin Purple",
+      "Purple Amethyst",
+      "Sea of Purple"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0195",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Of the following, which is a British rock band?",
+    "options": [
+      "24 Carat Purple",
+      "Purple Night",
+      "Deep Purple",
+      "Purpendicular"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0196",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Steven Spielbergs movie, The Color Purple, was nominated for 11 Academy Awards, how many did it actually win?",
+    "options": [
+      "3",
+      "5",
+      "8",
+      "0"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0197",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who were the feuding enemies of the McCoys?",
+    "options": [
+      "Hat fields",
+      "Harrisons",
+      "Earps",
+      "Daltons"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0198",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who was Dale Evans married to?",
+    "options": [
+      "Buffalo Bill Cody",
+      "Roy Rogers",
+      "Wild Bill Hickcock",
+      "Gene Autry"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0199",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which of the following is the title of one of Aesops most famous fables?",
+    "options": [
+      "The Crow and the Scarecrow",
+      "The Elephant and the Flea",
+      "The Fox and the Grapes",
+      "The Cat and the Rat"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0200",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "The English poet William Blake wrote two beautiful poems concerning what two animals?",
+    "options": [
+      "The elephant and the mouse",
+      "The fox and the chickens",
+      "The lion and the lamb",
+      "The tiger and the lamb"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0201",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What goes along with love according to a Frank Sinatra hit song?",
+    "options": [
+      "Marriage",
+      "Pain",
+      "Sex",
+      "Broken hearts"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0202",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What were the first names of the comedy team of Abbot and Costello?",
+    "options": [
+      "Dean and Jerry",
+      "Bud and Lou",
+      "Abbot and Bob",
+      "Bob and Ray"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0203",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "According to Dr. Seuss, what goes with ham?",
+    "options": [
+      "Pink Sausage",
+      "Blue Cheese",
+      "Green eggs",
+      "Orange bacon"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0204",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Norwegian inventor, Johan Vaaler was granted a patent in Germany, in 1899, for the invention of what?",
+    "options": [
+      "The stapler",
+      "The dry cell battery",
+      "Carbon paper",
+      "The paperclip"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0205",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How many people signed the US Declaration of Independence on July 4,1776?",
+    "options": [
+      "2",
+      "55",
+      "1",
+      "0"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0206",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Professor Sir Alec John Jeffreys, who was awarded the Albert Einstein World Award of Science in 1996, is famous for developing what?",
+    "options": [
+      "Face-recognition software",
+      "Techniques for DNA fingerprinting and DNA profiling",
+      "The polygraph",
+      "The scientific study of fingerprints"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0207",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Michael Keaton, George Cloony, Christian Bale, and Val Kilmer have all played the role of a super hero. Which is the hero?",
+    "options": [
+      "Superman",
+      "Spider-Man",
+      "Batman",
+      "James Bond"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0208",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "In the 1957 movie Twelve Angry Men what was the occupation of the character, played by Henry Fonda?",
+    "options": [
+      "salesman",
+      "gym teacher",
+      "watchmaker",
+      "architect"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0209",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which three left-handed US Presidents served in succession?",
+    "options": [
+      "Bill Clinton, George H. W. Bush, Ronald Reagan",
+      "George H. W. Bush, Bill Clinton, George W. Bush",
+      "Herbert Hoover, Franklin Delano Roosevelt, Harry Truman",
+      "James Garfield, Herbert Hoover, Gerald Ford"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0210",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What was the host as well as the winner of the first Soccer World Cup which was was held in 1930?",
+    "options": [
+      "Italy",
+      "Uruguay",
+      "Germany",
+      "Brazil"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0211",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "In what year were the first Grammy Awards given?",
+    "options": [
+      "1958",
+      "1960",
+      "1959",
+      "1961"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0212",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Jane Leeves, who is famous for her roles on Frasier and Seinfeld, first worked for which comedian?",
+    "options": [
+      "Tom Hendra",
+      "Jerry Lewis",
+      "Flip Wilson",
+      "Benny Hill"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0213",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the official residence of the French Prime Minister?",
+    "options": [
+      "Hotel Matignon",
+      "Hotel Christia Grobet",
+      "Hotel Jacques Santer",
+      "Hotel Poos"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0214",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "In 1877 American astronomer Asaph Hall discovered the two moons of Mars. Who was the first writer to mention these moons?",
+    "options": [
+      "Mark Twain",
+      "Jonathan Swift",
+      "Benjamin Franklin",
+      "Issac Asimov"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0215",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Pi Day, the day which honors the mathematical constant π (Pi), is celebrated on which date?",
+    "options": [
+      "August 25",
+      "January 14",
+      "March 14",
+      "February 25"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0216",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which famous person, who received the Kennedy Center Honors in 2000, was born in St. Louis, Missouri?",
+    "options": [
+      "Bo Didley",
+      "Thurgood Marshall",
+      "Harry S. Truman",
+      "Chuck Berry"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0217",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What was the name of the US Army Air Force B-29 bomber, that dropped the atomic bomb on Nagasaki, Japan on August 9, 1945?",
+    "options": [
+      "Bocks Car",
+      "Enola Gay",
+      "General Belgrano",
+      "Memphis Belle"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0218",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "During the Spanish-American War, what US general commanded a division that led the main attack on San Juan Hill?",
+    "options": [
+      "Stephen Decatur",
+      "Jacob Kent",
+      "Harry Truman",
+      "Teddy Roosevelt"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0219",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "How many teams in the National Football League (NFL) are named for animals?",
+    "options": [
+      "9",
+      "16",
+      "14",
+      "12"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0220",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "When was the 27the amendment to the U.S. Constitution ratified?",
+    "options": [
+      "1971",
+      "1865",
+      "1920",
+      "1992"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0221",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Richard Steven Valenzuela, Jiles Perry Richardson, and Charles Hardin Holley are all better known by different professional names. What else do they have in common?",
+    "options": [
+      "They died together in a plane crash.",
+      "They were all, at different times, married to the same woman.",
+      "They have all won Academy Awards.",
+      "They are all best-selling novelists."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0222",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "In 1997 the Atlanta Braves baseball team started playing its home games at Turner Field. What was Turner Field used for before it was a baseball stadium?",
+    "options": [
+      "Football",
+      "Track and Field",
+      "Lacrosse",
+      "Soccer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0223",
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Leonardo da Vinci is well known as the artist who painted the Mona Lisa, but he was also an inventor. Which modern-day machine is based on one of his concepts?",
+    "options": [
+      "chain saw",
+      "radio",
+      "helicopter",
+      "blender"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0224",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "In the 1970s television sitcom All in the Family, what was the nickname by which Archie called Gloria?",
+    "options": [
+      "Pinko",
+      "Dingbat",
+      "Meathead",
+      "Little Girl"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0225",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is the name of Toyotas first widely available gas-electric hybrid car?",
+    "options": [
+      "Prius",
+      "Camry",
+      "Celica",
+      "Insight"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0226",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What rock musicians real name is Gordon Matthew Thomas Sumner?",
+    "options": [
+      "Kid Rocks",
+      "Stings",
+      "Bonos",
+      "Dave Matthews"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0227",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "In the United States Navy, what is the next rank above Ensign?",
+    "options": [
+      "Captain",
+      "2nd Lieutenant",
+      "Lieutenant (junior grade)",
+      "Chief Petty Officer"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0228",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "In the 1994-2004 television sitcom Friends, which two characters were siblings?",
+    "options": [
+      "Rachel and Monica",
+      "Ross and Rachel",
+      "Ross and Chandler",
+      "Monica and Ross"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0229",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which man originated the sentence Go west young man?",
+    "options": [
+      "John Soule",
+      "Horace Greley",
+      "Buffalo Bill Cody",
+      "Stephen Austin"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0230",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "At what time does Big Ben, in London, have both clock hands together?",
+    "options": [
+      "Only at noon",
+      "Never",
+      "At 12 noon and 12 midnight",
+      "Only at midnight"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0231",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which Broadway play is based on Christopher Isherwoods book, I am a camera?",
+    "options": [
+      "Chicago",
+      "South Pacific",
+      "Cabaret",
+      "The Producers"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0232",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "They can be hinge, movable, immovable, semi-movable, or ball-and-socket. What are they?",
+    "options": [
+      "Hardware for carpentry",
+      "Bolts",
+      "Joists",
+      "Joints"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0233",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is a formicary?",
+    "options": [
+      "A nest of ants",
+      "A device to mix chemicals",
+      "A list of prescribable medicines",
+      "The place where scorpions live"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0234",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Philip Bailey, Ronnie Laws, and Maurice White were members of what musical group?",
+    "options": [
+      "The Doobees",
+      "Earth, Wind, and Fire",
+      "INXS",
+      "The Temptations"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0235",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who was Henry Pu Yi?",
+    "options": [
+      "The first man to win a Pulitzer Prize and a Nobel Prize.",
+      "First Asian to win a Nobel Prize.",
+      "The last Emperor of China.",
+      "The last of Maos supporters to be killed."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0236",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who was the first commander of a nuclear submarine?",
+    "options": [
+      "Mark Clarke",
+      "Melvin Carver",
+      "Lewis Groton",
+      "Eugene P. Wilkerson"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0237",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "The following words originated from what language: canoe, hurricane, and hammock?",
+    "options": [
+      "Taino",
+      "Tanzanian",
+      "Techetulan",
+      "Tagalog"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0238",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the Jewish New Year called?",
+    "options": [
+      "Shabbat",
+      "Rosh Ha-Shanah",
+      "Hanukkah",
+      "Yom Kippur"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0239",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Where would one find The Bridge of Eggs?",
+    "options": [
+      "Sydney, Australia",
+      "The Moon",
+      "Lima , Peru",
+      "Peking, China"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0240",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How many bones make up the backbone of a human baby?",
+    "options": [
+      "36",
+      "24",
+      "26",
+      "33"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0241",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What was the real name of renowned folk artist, Grandma Moses?",
+    "options": [
+      "Anna Mary Robertson",
+      "Mary Elizabeth McCoy",
+      "Carmen Vital",
+      "Anna Louise Mason"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0242",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Exactly one of these statements is true. Which one is true ?",
+    "options": [
+      "Pure water has a pH of exactly 1",
+      "Chickens do not have to be impregnated to lay eggs.",
+      "Acids have a pH greater than 6.",
+      "The garter snake lays eggs."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0243",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "At what event was the opera Aida premiered?",
+    "options": [
+      "The opening of La Scala in Milan",
+      "The opening of the National Opera House in Rome",
+      "The opening of the Suez Canal",
+      "The opening of the Panama Canal"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0244",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "In the instant messaging system (or IM), what do the letters SYS mean?",
+    "options": [
+      "seeing your sister",
+      "system is down",
+      "still your spouse",
+      "see you soon"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "gk-0245",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which one of Dr. Seusss famous characters said Save the Trees !!! Let em Grow ! ?",
+    "options": [
+      "the Lorax",
+      "Sam-I-Am",
+      "Horton",
+      "the Cat in the Hat"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0246",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Napoleon Dynamite had a favorite animal that he liked to draw. What was it?",
+    "options": [
+      "a dinosaur",
+      "a liger (tiger and lion mix)",
+      "a unicorn",
+      "a dragon"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0247",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How do you say apple in Spanish?",
+    "options": [
+      "uva",
+      "apio",
+      "manzana",
+      "arroz"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "gk-0248",
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "In the Waynes World movie, from where is Wayne and Garths live cable-access show broadcast?",
+    "options": [
+      "Waynes bedroom",
+      "Wayne and Garths school",
+      "Garths living room",
+      "Waynes basement"
+    ],
+    "answerIndex": 3
   }
 ]

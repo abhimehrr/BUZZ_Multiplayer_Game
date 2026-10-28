@@ -37,5 +37,1266 @@
       "Sound levels"
     ],
     "answerIndex": 2
+  },
+  {
+    "id": "tech-0004",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "In computer jargon, what is FTP?",
+    "options": [
+      "a programming language",
+      "a type of e-mail",
+      "a popular Internet service provider",
+      "a way to transfer files"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0005",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What video game sparked a huge craze and inspired a TV series which aired on ABC from 1982 to 1984?",
+    "options": [
+      "Pac-man",
+      "Defender",
+      "Space Invaders",
+      "Pong"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0006",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "We all hate spam on our computers. What is the computer term for sending spam as an instant messenger message?",
+    "options": [
+      "InstaSpam",
+      "Spim",
+      "Inspam",
+      "Spamage"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0007",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What was the name of the first computer game?",
+    "options": [
+      "Pong",
+      "Tetris",
+      "Tennis For Two",
+      "Myst"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0008",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "In the Mario video game series, Marios arch enemy, Bowser, uses what reptilian creatures as his chief henchmen?",
+    "options": [
+      "Snakes",
+      "Raptors",
+      "Goombas",
+      "Koopatroopas"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0009",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Gollum was a marvel of computer graphics in The Lord of the Rings. What actor gave Gollum his movements?",
+    "options": [
+      "Andy Serkis",
+      "Fat Joe",
+      "Eddie Deezen",
+      "Savion Glover"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0010",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What was the first web browser that had both graphics and text?",
+    "options": [
+      "Bob the Dog",
+      "Mosaic",
+      "Tillie",
+      "Gopher"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0011",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "This former presidents name was a little bit too close to raygun to start the Star Wars Missle Defense System. Who was this former action hero?",
+    "options": [
+      "Bill Clinton",
+      "George Bush",
+      "Ronald Reagan",
+      "George W. Bush"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0012",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Windows runs most computers. When the first version of the Windows Operating System released?",
+    "options": [
+      "1961",
+      "1971",
+      "1991",
+      "1981"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0013",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "If the world were a village of 100 people, how many would own a computer?",
+    "options": [
+      "1",
+      "11",
+      "15",
+      "5"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0014",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which company developed the computer game Command Conquer: Generals?",
+    "options": [
+      "NewGame Software",
+      "Electronic Arts",
+      "Microsoft",
+      "Nintendo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0015",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What is the Central Processing Unit (aka CPU) responsible for?",
+    "options": [
+      "Advising US governments on internal matters",
+      "Crime Prevention",
+      "Executing computer programs",
+      "Turning crude oil into gasoline"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0016",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "In the world of airplane technology, what does LOT stand for?",
+    "options": [
+      "Light Opposing Technology",
+      "Lengthy Oppositional Technology",
+      "Long Operational Technology",
+      "Low Observational Technology"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0017",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What model of robot does Arnold Schwarzenegger play in the Terminator series?",
+    "options": [
+      "T-101",
+      "T-1001",
+      "T-1000",
+      "T-100"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0018",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What movie featured the humanoid robot, named Gort?",
+    "options": [
+      "Short Circuit",
+      "The Day the Earth Stood Still",
+      "Batteries Not Included",
+      "Star Wars Franchise"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0019",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "The telephone handset has two main parts. One is the mouthpiece or transmitter. What is the other one?",
+    "options": [
+      "telephone wire",
+      "handpiece",
+      "receiver",
+      "numbers"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0020",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which actor sued a Los Angeles magazine for publishing a computer-generated image of him wearing a dress?",
+    "options": [
+      "Weslery Snipes",
+      "Al Pacino",
+      "Patrick Swayze",
+      "Dustin Hoffman"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0021",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which video game console is credited with popularizing the use of game cartridges in 1977?",
+    "options": [
+      "Atari 2600",
+      "Sega Master System",
+      "NES/Famicom",
+      "ColecoVision"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0022",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "How big was the first telephone book?",
+    "options": [
+      "10 pages",
+      "1 page",
+      "50 pages",
+      "100 pages"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0023",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What Woody Allen movie depicts a future with robot butlers?",
+    "options": [
+      "Match Point",
+      "Stardust Memories",
+      "Sleeper",
+      "Cassandras Dream"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0024",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which super computer lost a match to Garry Kasparov?",
+    "options": [
+      "Super Check",
+      "Cycletrone-Check",
+      "Cray-1",
+      "Deep Blue"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0025",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What was the name of the robot in the 1986 comedy sci-fi film Short Circuit and its 1988 sequel Short Circuit 2?",
+    "options": [
+      "Johnny 5",
+      "Apollo 440",
+      "Sentinel 7",
+      "C-3PO"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0026",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "On October 9, 2006, this Internet company announced its purchase of the popular YouTube site?",
+    "options": [
+      "Ebay",
+      "Google",
+      "Amazon",
+      "Yahoo"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0027",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "In what movie does the protagonist call the police about the Watergate break-in, invent the smiley, and make millions on Apple Computer stock thinking he has invested in produce?",
+    "options": [
+      "The English Patient",
+      "Unforgiven",
+      "Forrest Gump",
+      "American Beauty"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0028",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "What decade saw the launch of the Internet for mass usage, the fall of the the Soviet Union and the implementation of the Euro currency?",
+    "options": [
+      "2000s",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0029",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Who had the great idea of putting a bell on the telephone so people would know that someone was calling?",
+    "options": [
+      "Thomas Watson",
+      "Alexander Graham Bell",
+      "Elisha Gray",
+      "N. Tesla"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0030",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "When did telephone companies first begin establishing trial networks, that use fibre instead of copper cables to carry live telephone traffic?",
+    "options": [
+      "in 1982",
+      "in 1977",
+      "in 1997",
+      "in 1972"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0031",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which famous person holds a patent for a cardiac pulse monitor?",
+    "options": [
+      "Paul Winchell",
+      "Lawrence Welk",
+      "Zeppo Marx",
+      "Jay Leno"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0032",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Which musician holds a patent for an electronic device that helps a composer, a musician, or a conductor to interactively select parts of a musical score?",
+    "options": [
+      "Henry Mancini",
+      "Johnny Mercer",
+      "Darryl The Captain Dragon",
+      "Harry Connick, Jr."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0033",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which part of a building is also a computer operating system name?",
+    "options": [
+      "Windows",
+      "Doors",
+      "Balcony",
+      "Loggia"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0034",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which animal can be connected to a computer USB port?",
+    "options": [
+      "Rat",
+      "Mouse",
+      "Cat",
+      "Dog"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0035",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which of these is a popular database name?",
+    "options": [
+      "Shrine",
+      "Church",
+      "Oracle",
+      "Mosque"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0036",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which bathroom item is also a communication protocol?",
+    "options": [
+      "GEL",
+      "COMB",
+      "BRUSH",
+      "SOAP"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0037",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which wall is used for computer protection in the Internet or other networks?",
+    "options": [
+      "Firewall",
+      "Wooden wall",
+      "Protective wall",
+      "Brickwall"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0038",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which celestial body is also a name of a big American vendor of computers, computer components and software?",
+    "options": [
+      "Pluto",
+      "Sun",
+      "Venus",
+      "Moon"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0039",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "The name of which animal group is also a collective name for software errors?",
+    "options": [
+      "Insects",
+      "Spiders",
+      "Bugs",
+      "Ants"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0040",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which of these is a computer for bulk data processing?",
+    "options": [
+      "Window-frame",
+      "A-frame",
+      "Body-on-frame",
+      "Mainframe"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0041",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which hat is a distribution of the Linux operating system?",
+    "options": [
+      "Red Hat",
+      "White Hat",
+      "Black Hat",
+      "Blue Hat"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0042",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "The name of which island is also a computer programming language name?",
+    "options": [
+      "Jamaica",
+      "Java",
+      "Cuba",
+      "Malta"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0043",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "In astronomy, the term binary star refers to which of these?",
+    "options": [
+      "A large star which has drawn smaller star to orbit",
+      "A star emitting electromagnetic waves at two different frequencies",
+      "A system of two stars both orbiting around their centers of mass",
+      "A star made up from both matter and antimatter"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0044",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Where is the main Internet computer located?",
+    "options": [
+      "Greenwich, England",
+      "Geneva, Switzerland",
+      "New York, New York, USA",
+      "Nowhere"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0045",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "On the Internet, who or what is a server?",
+    "options": [
+      "The computer on which the programs of a web site run",
+      "The program which controls a web page",
+      "The person who serves the customers of an Internet Service Provider",
+      "The person who serves the hors doeuvres."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0046",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "In Internet parlance, what is a cookie?",
+    "options": [
+      "Something made up (or cooked) on a web page",
+      "Something stored on the client computer by a web pages program",
+      "A portion of a program governing a web page",
+      "Something tasty on a web page"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0047",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does WWW stand for?",
+    "options": [
+      "Wild Wonderful World",
+      "Whole World Web",
+      "World Wide Web",
+      "World War Web"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0048",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Internet Explorer, Opera and Mozilla are examples of what?",
+    "options": [
+      "Internet service providers",
+      "Hypertext transfer protocols",
+      "Search engines",
+      "Web browsers"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0049",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does AFK mean in Internet slang?",
+    "options": [
+      "away from computer keyboard",
+      "as far as i know",
+      "all friends are kooks",
+      "almost french kissed"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0050",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does ZZZ mean in Internet slang?",
+    "options": [
+      "theres a bee in my house",
+      "tired or bored",
+      "zero, zilch, zip",
+      "zz top is great"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0051",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which was the first soap opera broadcast on an American television network?",
+    "options": [
+      "Love of Ivy",
+      "Love of Life",
+      "Faraway Hill",
+      "Halls of Ivy"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0052",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What is the most likely suffix of the email address of someone who is Dutch?",
+    "options": [
+      ".ho",
+      ".hl",
+      ".du",
+      ".nl"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0053",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does IC stand for in a computer?",
+    "options": [
+      "Integrated Circuit",
+      "InterChip",
+      "InterCircuit",
+      "Integrated Chip"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0054",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What is the big green board in the computer called?",
+    "options": [
+      "daughter card",
+      "motherboard",
+      "son board",
+      "father card"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0055",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What are the little green boards in the computer called?",
+    "options": [
+      "motherboards",
+      "son boards",
+      "daughter cards",
+      "father cards"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0056",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What is the hottest part of the computer?",
+    "options": [
+      "Hard Drive",
+      "RAM",
+      "Fan",
+      "CPU"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0057",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What is the long term memory of the computer?",
+    "options": [
+      "Hard Drive",
+      "RAM",
+      "Motherboards",
+      "Networking Cards"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0058",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What is the name for a port used to connect peripheral devices (such as keyboards, mouses and digital cameras) to a computer?",
+    "options": [
+      "Jack",
+      "USB",
+      "BUS",
+      "Floppy Drive"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0059",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which one of these is an operating system?",
+    "options": [
+      "Office - Professional edition",
+      "Norton Anti-Virus",
+      "Vista",
+      "Microsoft"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0060",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which programming language is based on Horn clauses?",
+    "options": [
+      "PL/I",
+      "Lisp",
+      "Erlang",
+      "Prolog"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0061",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "The fundamental book The C Programming Language was written in 1978 by BWK and what other computer scientist?",
+    "options": [
+      "DMR",
+      "DRM",
+      "MDR",
+      "RMD"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0062",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Many computer drives have a capacity of a terabit. How many bits are in one terabit?",
+    "options": [
+      "8",
+      "1,000,000,000,000",
+      "10",
+      "1,000"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0063",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Windows Vista commercials have boasted of the Record Live Television capability of the operating system. What is necessary to use this function?",
+    "options": [
+      "Optical Drive",
+      "Digital Television",
+      "TV Tuner Card",
+      "Cable Box"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0064",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which was the first implemented high-level general purpose programming language?",
+    "options": [
+      "Cobol",
+      "Pascal",
+      "BASIC",
+      "Fortran"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0065",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which was the first version of Microsoft Windows to support Plug and Play?",
+    "options": [
+      "Windows 95",
+      "Windows 3.11",
+      "Windows XP",
+      "Windows 3.0"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0066",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "When you ping a network node, which protocol is being utilized?",
+    "options": [
+      "ICBM",
+      "ICMP",
+      "ARP",
+      "RIP"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0067",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Which of these commands will return a Windows® computers node IP address, Subnet mask and information on whether it was assigned via DHCP and how long the lease is?",
+    "options": [
+      "ipconfig",
+      "ifconfig /all",
+      "ipconfig /all",
+      "ipsec /total"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0068",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which of the following is best suited for network cable that must run close to electrical lines or florescent lighting?",
+    "options": [
+      "STP",
+      "UDP",
+      "UTP",
+      "Fiber optic cable"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0069",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "USB connectors let you attach everything from printers to cameras to your computer quickly and easily. What does the abbreviation USB actually stand for?",
+    "options": [
+      "Universal Serial Bus",
+      "Utility Service Bus",
+      "Ultra Sensitive Bus",
+      "Universal Service Bus"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0070",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "WWW, an abbreviation well known to Internet lovers, actually stands for what?",
+    "options": [
+      "World Wild Web",
+      "World Wide Web",
+      "Windows World Wide",
+      "Wonderful World of Web-casting"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0071",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Windows NT is a family of operating systems produced by Microsoft. What does NT stand for?",
+    "options": [
+      "Network Technology",
+      "Network Terminal",
+      "New Technology",
+      "Networking and Troubleshooting"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0072",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "FAT, a file system developed by Microsoft, is the shortened form of what?",
+    "options": [
+      "File Array Table",
+      "File Accessible Table",
+      "File Acceptance Table",
+      "File Allocation Table"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0073",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "The division of a company or university that deals with software technology is often called the IT department. What does IT stand for?",
+    "options": [
+      "Information Technology",
+      "Inter-networking Technology",
+      "Informatics and Technology",
+      "Internet Technology"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0074",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "The USB memory stick is a very useful device. But do you know what USB stands for?",
+    "options": [
+      "United Bus Scan",
+      "Universal Serial Bus",
+      "Universal Storage Bank",
+      "Unique Serial Bus"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0075",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Use an IMAP server to get advanced mail features. What does IMAP stand for?",
+    "options": [
+      "Intelligent Messaging Account Protocol",
+      "Intelligent Message Account Process",
+      "Internet Message Access Protocol",
+      "Internet Massive Access Peak"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0076",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which astronomical phenomenon is also a popular programming environment?",
+    "options": [
+      "Polar lights",
+      "Equinox",
+      "Comet",
+      "Eclipse"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0077",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "The name of which beautiful flower also refers to an e-mail server/client?",
+    "options": [
+      "Lotus",
+      "Rose",
+      "Orchid",
+      "Lily"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0078",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which girls name is also a the name of a computer programming language?",
+    "options": [
+      "Amelia",
+      "Ada",
+      "Agnes",
+      "Anna"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0079",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which sweets are stored by an Internet browser?",
+    "options": [
+      "Biscuits",
+      "Candy bars",
+      "Cookies",
+      "Chocolates"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0080",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which art term is also used to refer to dependencies between computer applications or processes?",
+    "options": [
+      "Libretto",
+      "Screenplay",
+      "Directing",
+      "Choreography"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0081",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which small software is actually a software giant from Redmond?",
+    "options": [
+      "Microsoft",
+      "Minisoft",
+      "Milisoft",
+      "Nanosoft"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0082",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which letter of the alphabet is also the name of a popular computer programming language?",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "E"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0083",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which company demonstrated the first GPRS mobile phone with video-on-demand in March of 2002?",
+    "options": [
+      "Sony Ericsson",
+      "Motorola",
+      "Samsung",
+      "Nokia"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0084",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "In 2002, which manufacturer launched the first windows-powered cell phone, originally known as codename canary?",
+    "options": [
+      "Nokia",
+      "Samsung",
+      "LG",
+      "HTC"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0085",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "The subject that studies the solution of a system of linear inequalities is called Linear Programming. Which of these men was most instrumental in its development?",
+    "options": [
+      "George B. Dantzig",
+      "Alfred Whitehead",
+      "Sir Isaac Newton",
+      "Sir Isaac Barrow"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0086",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "While surfing the Internet you may be using Cisco networking equipment without even knowing it. But do you know the origin of the name Cisco?",
+    "options": [
+      "The founders were named Alain CISse and Erwin COfalka",
+      "It was named for San FranCISCO",
+      "It stands for Communication and Information Systems COrporation",
+      "The founders where from Colorado, Indiana, South Carolina and Oregon"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0087",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "You probably have heard of software and hardware. Can you tell what Compuware makes?",
+    "options": [
+      "Hand-held devices",
+      "High-end computers",
+      "Software that ease the life of IT managers and practitioners",
+      "High-tech components for aircraft"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0088",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "What German auto manufacturer was originally set up in 1910 and has a slogan in its home country which translates as Advancement Through Technology?",
+    "options": [
+      "BMW",
+      "Mercedes Benz",
+      "Volkswagen",
+      "Audi"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0089",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Tetris is a popular computer game with hundreds of versions. Who designed and programmed the original game?",
+    "options": [
+      "Alexey Pajitnov",
+      "Edsger Dijkstra",
+      "Henk Rogers",
+      "Steve Wozniak"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0090",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What network has the slogan We report, You decide?",
+    "options": [
+      "FOX",
+      "FNC",
+      "MSNBC",
+      "CNN"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0091",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What happens to the eccentric shopping network executive, played by Whoopi Goldberg, in the 2001 TV special Call Me Claus?",
+    "options": [
+      "She is kidnapped by Santa Claus elves.",
+      "She meets the ghost of Santa Claus who was killed by her boss.",
+      "She is chosen to become the next Santa Claus.",
+      "She founds out that her boss is the real Santa Claus."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0092",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "In 1998, Time magazine used an Internet poll to help them select Man of the Year. They rejected the person selected by this pole. Who was that person?",
+    "options": [
+      "Jerry Seinfeld",
+      "Monica Lewinsky",
+      "George Carlin",
+      "Mick Foley"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0093",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "In which Connecticut city was the first telephone exchange in the U.S. established?",
+    "options": [
+      "New Haven",
+      "Waterbury",
+      "Bridgeport",
+      "New London"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0094",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What year was the U.S. Supreme Courts website created?",
+    "options": [
+      "2005",
+      "2000",
+      "It doesnt have one",
+      "1998"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0095",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What root vegetable was carved and placed in windows to ward off evil spirits in traditional Celtic Halloween festivals?",
+    "options": [
+      "potato",
+      "cabbage",
+      "turnip",
+      "melon"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0096",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "On June 5 in 1833 the first person acknowledged to be a computer programmer met the person considered the father of modern computing. Who met whom?",
+    "options": [
+      "George Kemeny met Thomas Kurtz",
+      "Grace Hooper met Charles Babbage",
+      "Thomas Kurtz met Ada Lovelace",
+      "Ada Lovelace met Charles Babbage"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "tech-0097",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Pong, the first commercially successful video game, is a video screen adaptation of what classic game?",
+    "options": [
+      "Table tennis",
+      "Tic-tac-toe",
+      "Soccer",
+      "Othello"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0098",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "In computer messaging punctuation marks are sometimes used to show human emotion. What do we call a series of such marks?",
+    "options": [
+      "textations",
+      "emoticons",
+      "virtutions",
+      "emailotions"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0099",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "When was the first digital camera introduced?",
+    "options": [
+      "1978",
+      "1946",
+      "1981",
+      "1990"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "tech-0100",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "According to a popular song from the 2003 puppet musical Avenue Q, what is the Internet for?",
+    "options": [
+      "MySpace",
+      "Scholarly Research",
+      "Quizzes",
+      "Porn"
+    ],
+    "answerIndex": 3
   }
 ]

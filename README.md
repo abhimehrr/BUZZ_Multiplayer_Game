@@ -1,6 +1,6 @@
 # BUZZ
 
-BUZZ is a real-time multiplayer multiple-choice buzzer quiz. The current build includes room creation and joining, a live lobby, reconnectable player sessions, and the server-authoritative buzzer game loop. The starter bank has 27 questions; the expanded 1,000-question bank and UI polish are later stages.
+BUZZ is a real-time multiplayer multiple-choice buzzer quiz. The current build includes room creation and joining, a live lobby, reconnectable player sessions, and the server-authoritative buzzer game loop. The question bank now contains 1,000 multiple-choice questions across nine categories. Question data is validated by `npm run validate:questions`; attribution and license details are in `data/questions/README.md`.
 
 ## Requirements
 
@@ -14,7 +14,7 @@ BUZZ is a real-time multiplayer multiple-choice buzzer quiz. The current build i
 3. Start development mode with `npm run dev`.
 4. Visit http://localhost:3000. The health endpoint is http://localhost:3000/healthz.
 5. The WebSocket endpoint is `ws://localhost:3000/ws`.
-6. Run the game logic checks with `npm test` and the TypeScript check with `npm run typecheck`.
+6. Validate the question bank with `npm run validate:questions`, run the game logic checks with `npm test`, and check TypeScript with `npm run typecheck`.
 
 Production commands are `npm run build` and `npm start`. The custom server uses `PORT` (default 3000) and listens on `0.0.0.0`. `ALLOWED_ORIGIN` accepts a comma-separated list of browser origins; the default is local development.
 
@@ -45,3 +45,4 @@ Clients send intents only. The server owns room membership, player identity, roo
 ## Deployment
 
 The planned host is Render Web Services because it supports persistent WebSocket connections and managed HTTPS/WSS. A free instance sleeps after 15 minutes without incoming HTTP or WebSocket traffic and may take about a minute to wake. Exact deployment steps will be completed with the deployment stage.
+

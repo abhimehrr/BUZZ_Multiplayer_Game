@@ -378,6 +378,7 @@ export default function HomeClient() {
       </div>
       {message?<p role="alert" className="mx-auto mt-4 max-w-xl rounded-xl border border-rose-400/20 bg-rose-400/10 p-3 text-sm text-rose-100">{message}</p>:null}
       <p className="mt-6 text-xs text-slate-500">Room state is live. Gather your players, choose a room, and race to the target score.</p>
+      <p className="mt-3 text-xs text-slate-500">Question bank adapted from <a className="underline underline-offset-2 hover:text-slate-300" href="https://github.com/uberspot/OpenTriviaQA" target="_blank" rel="noreferrer">OpenTriviaQA</a> contributors under <a className="underline underline-offset-2 hover:text-slate-300" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">CC BY-SA 4.0</a>.</p>
     </section>
   </div></main>;
 }

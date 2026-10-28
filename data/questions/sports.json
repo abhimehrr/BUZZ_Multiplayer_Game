@@ -37,5 +37,1266 @@
       "Grass"
     ],
     "answerIndex": 3
+  },
+  {
+    "id": "sport-0004",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What science did Aristotle define as ‘the knowledge of immaterial being’?",
+    "options": [
+      "Psychology",
+      "Philosophy",
+      "Metaphysics",
+      "Logic"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0005",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which WWF group does this theme music belong to?",
+    "options": [
+      "Hart Foundation",
+      "Nation of Domination",
+      "Legion of Doom",
+      "D-Generation X"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0006",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What position is former Major League Baseball player, Rollie Fingers famous for playing?",
+    "options": [
+      "Pitcher",
+      "Third Base",
+      "First Base",
+      "Catcher"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0007",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What position is former baseball player for the Cincinnati Reds, Johnny Bench famous for playing?",
+    "options": [
+      "Pitcher",
+      "Catcher",
+      "Shortstop",
+      "Second Base"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0008",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Baltimore Orioles, Cal Ripken Jr. is most known for playing what position?",
+    "options": [
+      "Pitcher",
+      "Catcher",
+      "Shortstop",
+      "Right Field"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0009",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Steve Garvey is a famous former baseball player, who is known for playing what position?",
+    "options": [
+      "Shortstop",
+      "Catcher",
+      "Third Base",
+      "First Base"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0010",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What position is former professional baseball player, Mike Schmidt famous for playing?",
+    "options": [
+      "Third Base",
+      "Catcher",
+      "Pitcher",
+      "Second Base"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0011",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which of these positions is former baseball player, Dwight Evans most famous for?",
+    "options": [
+      "Center Field",
+      "Right Field",
+      "Second Base",
+      "Pitcher"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0012",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Successful Major League Baseball player and coach, Donald Edward Don Gullett, was famous for playing what position?",
+    "options": [
+      "Right Field",
+      "Second Base",
+      "Pitcher",
+      "Catcher"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0013",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Whitey Ford was a successful Major League Baseball player, who played in what position?",
+    "options": [
+      "First Base",
+      "Shortstop",
+      "Catcher",
+      "Pitcher"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0014",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which was the first football team to win back to back Super Bowls with different coaches?",
+    "options": [
+      "San Francisco",
+      "Pittsburgh",
+      "Dallas",
+      "Miami"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0015",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "How many points did Wilt Chamberlain score in his best game versus New York?",
+    "options": [
+      "82",
+      "100",
+      "71",
+      "99"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0016",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Karl Malone received the award Most Valuable Player in 1996-97. What team did he play for?",
+    "options": [
+      "Sacramento Kings",
+      "Miami Heat",
+      "Utah Jazz",
+      "LA Lakers"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0017",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Wilt Chamberlain is a great player indeed. In a game against the Celtics he made the best rebounding effort ever. How many rebounds did he make in this famous game?",
+    "options": [
+      "16",
+      "31",
+      "57",
+      "55"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0018",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Who is the first player to top 20,000 points in NBA?",
+    "options": [
+      "Bob Pettit",
+      "Wilt Chamberlain",
+      "Clyde Drexler",
+      "Spud Webb"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0019",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "George Muresan and Manute Bol are the tallest players in NBA history. How tall are they?",
+    "options": [
+      "74 (2.23m)",
+      "77 (2.31m)",
+      "78 (2.33m)",
+      "72 (2.18m)"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0020",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Who is the shortest player in the history of NBA?",
+    "options": [
+      "Spud Webb",
+      "Eddie Griffin",
+      "Tyronne Bogues",
+      "Larry Bird"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0021",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "This college and pro great had a very strange nickname -Crazy Legs. His last name was Hirsch. What was his real first name ?",
+    "options": [
+      "Cliff",
+      "Lester",
+      "Arnie",
+      "Elroy"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0022",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "When did Miami Heat enter the NBA?",
+    "options": [
+      "1988",
+      "1963",
+      "1958",
+      "1974"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0023",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many teams does the Atlantic Division of the Eastern Conference have?",
+    "options": [
+      "4",
+      "5",
+      "10",
+      "7"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0024",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which division do the Sacramento Kings play in?",
+    "options": [
+      "Southwest Division of the Western Conference",
+      "Central Division of the Eastern Conference",
+      "Pacific Division of the Western Conference",
+      "Atlantic Division of the Eastern Conference"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0025",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which of these people founded the World Wrestling Entertainment, Inc?",
+    "options": [
+      "Hulk Hogan",
+      "Shane McHamon",
+      "Ric Flair",
+      "Vincent McMahon"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0026",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "In professional wrestling, the high side thrust kick, often used by Shawn Michaels as a finishing move, is also known by what name?",
+    "options": [
+      "Sweet Chin Music",
+      "5 Star",
+      "Batista Bomb",
+      "Leg Drop"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0027",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What number did Hank Aaron wear for the Atlanta Braves?",
+    "options": [
+      "15",
+      "44",
+      "26",
+      "7"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0028",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many home runs did Hank Aaron hit in his career?",
+    "options": [
+      "750",
+      "609",
+      "755",
+      "625"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0029",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "How many innings are in a Little League baseball game, excluding extra innings?",
+    "options": [
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0030",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many games are in a Major League Baseball season per team?",
+    "options": [
+      "162",
+      "155",
+      "170",
+      "160"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0031",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "For what team did Tony Dorsett play after he left the Cowboys?",
+    "options": [
+      "Minnesota Vikings",
+      "Denver Broncos",
+      "Pittsburgh Steelers",
+      "Houston Oilers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0032",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "In what year did Roger Staubach win the Heisman Trophy?",
+    "options": [
+      "1964",
+      "1965",
+      "1963",
+      "1962"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0033",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "The Cowboys had the first selection in the 1974 draft. Who did they take?",
+    "options": [
+      "Tony Dorsett",
+      "Randy White",
+      "Thomas Henderson",
+      "Ed Too Tall Jones"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0034",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Troy Aikman graduated from UCLA, but where did he begin his college career?",
+    "options": [
+      "Oklahoma",
+      "Stanford",
+      "Miami",
+      "Texas"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0035",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which of these players won the Super Bowl MVP despite his teams loss?",
+    "options": [
+      "Harvey Martin",
+      "Chuck Howley",
+      "Randy White",
+      "Roger Staubach"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0036",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which of these Cowboys won the Super Bowl XII MVP trophy?",
+    "options": [
+      "Duane Thomas",
+      "Michael Irvin",
+      "Harvey Martin",
+      "Tony Dorsett"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0037",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Where were the NBA Hawks located, before moving to Atlanta?",
+    "options": [
+      "Rochester, NY",
+      "Syracuse, NY",
+      "Cincinnati, OH",
+      "St. Louis,MO"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0038",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Where did the Atlanta Braves team originate?",
+    "options": [
+      "Boston",
+      "They were always in Atlanta",
+      "Sacramento",
+      "Milwaukee"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0039",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Where were the Dodgers playing before they moved to L.A.?",
+    "options": [
+      "Newark, NJ",
+      "Brooklyn, NY",
+      "Sacramento, CA",
+      "Washington, DC"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0040",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What was the original home to the NFL Rams?",
+    "options": [
+      "L.A., CA",
+      "Canton, OH",
+      "Cleveland, OH",
+      "Cincinnati, OH"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0041",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Where did the Philadelphia Eagles use to play?",
+    "options": [
+      "Rochest, NY",
+      "Canton, OH",
+      "Cincinnati, OH",
+      "Pittsburgh and Philadelphia"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0042",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "To which city do the Sacramento Kings trace their origins?",
+    "options": [
+      "Rochester, NY",
+      "Pittsburgh, PA",
+      "Louisville, KY",
+      "Washington, DC"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0043",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Where did the San Francisco Giants play before San Francisco?",
+    "options": [
+      "Washington, DC",
+      "New York, NY",
+      "Atlanta, GA",
+      "Buffalo, NY"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0044",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "In what year did Notre Dame and their head coach Knute Rockne, win their first NCAA football Championship?",
+    "options": [
+      "1938",
+      "1980",
+      "1924",
+      "1987"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0045",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which is the nickname of North Carolina and of the University of North Carolina at Chapel Hill?",
+    "options": [
+      "Buckeyes",
+      "Hoyas",
+      "Bruins",
+      "Tar Heels"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0046",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which American university has chosen the spider as its official mascot?",
+    "options": [
+      "University of Richmond",
+      "Valipariaso",
+      "University of Rhode Island",
+      "Boston College"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0047",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "The Eagles athletic teams represent which college/university?",
+    "options": [
+      "University of Philadelphia",
+      "Boston College",
+      "University of Arizona",
+      "Yale"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0048",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What is the nickname of the University of Tennessees teams?",
+    "options": [
+      "Terrapins",
+      "Crimsom Tide",
+      "Volunteers",
+      "Hokies"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0049",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "The Boilermakers is the nickname of which American university?",
+    "options": [
+      "Indiana State University",
+      "Northwestern University",
+      "University of Michigan",
+      "Purdue University"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0050",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which team won the 1940 National Football League Championship Game with 73-0?",
+    "options": [
+      "Chicago Bears",
+      "Oakland Raiders",
+      "New York Giants",
+      "Washington Redskins"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0051",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which championship game was called The Greatest Game Ever Played and was the first championship game to go into overtime?",
+    "options": [
+      "The 1990 Championship Game",
+      "The 1958 Championship Game",
+      "The 1974 Championship Game",
+      "The 1983 Championship Game"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0052",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "In the 1967 NFL Championship Game Green Bay beat Dallas 21-17. Which nickname is attached to this game?",
+    "options": [
+      "The One -Quarter Game",
+      "The Long Fourth-Quarter Game",
+      "The Ice Bowl",
+      "The First Super Bowl"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0053",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which NFL team won their 12th Championship in 1997?",
+    "options": [
+      "Cleveland Bowns",
+      "New England Patriots",
+      "Chicago Bears",
+      "Green Bay Packers"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0054",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which of these teams was defeated at the Super Bowl XXXIII game by the Denver Broncos?",
+    "options": [
+      "Atlanta Falcons",
+      "Tennessee Titans",
+      "Frankford Yellow Jackets",
+      "Providence Steam Roller"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0055",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which team won Super Bowl VII and Super Bowl VIII?",
+    "options": [
+      "Pittsburgh Steelers",
+      "Miami Dolphins",
+      "Dallas Cowboys",
+      "San Francisco 49ERs"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0056",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which of these players have never won the Super Bowl MVP?",
+    "options": [
+      "Jake Scott",
+      "Chuck Howley",
+      "Dan Marino",
+      "Richard Dent"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0057",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "The Ultimate Warrior and Rick Rude competed for the Intercontinental Title in which SummerSlam?",
+    "options": [
+      "1990",
+      "1988",
+      "1991",
+      "1989"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0058",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "The Honky Tonk man lost the Intercontinental Title to Ultimate Warrior at the first SummerSlam in 1988, but who was Honky originally to defend his title against?",
+    "options": [
+      "Brutus Beefcake",
+      "Jake Roberts",
+      "Don Murracco",
+      "Jim Duggan"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0059",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Bret Hart wrestled in every SummerSlam that he could, while a WWF SuperStar. From 1988-1997 he missed only one SummerSlam. What year?",
+    "options": [
+      "1988",
+      "1996",
+      "1990",
+      "1989"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0060",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How Many Times has Randy Savage been the Macho King at SummerSlam?",
+    "options": [
+      "3",
+      "0",
+      "1",
+      "2"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0061",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "The Largest in terms of attendance SummerSlam took Place in what year?",
+    "options": [
+      "2002",
+      "2001",
+      "1994",
+      "1992"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0062",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "In the SmackDown! US title match from the 2003 edition of SummerSlam, who walked out the US Champion?",
+    "options": [
+      "Eddie Guerrero",
+      "Chris Benoit",
+      "Tajiri",
+      "Rhyno"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0063",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "The first steel cage match at SummerSlam was between which two competitors?",
+    "options": [
+      "Diesel/Mabel",
+      "Ultimate Warrior/Rick Rude",
+      "Mankind/Hunter Hearst Helmsley",
+      "Bret Hart/Owen Hart"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0064",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "How many times has SummerSlam been in New York City, at Madison Square Garden?",
+    "options": [
+      "0",
+      "2",
+      "At least 3",
+      "1"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0065",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which team won five NBA titles in the 1980s?",
+    "options": [
+      "New York Knicks",
+      "Chicago Bulls",
+      "Boston Celtics",
+      "Los Angeles Lakers"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0066",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What NFL team did O.J. Simpson play for at the end of his career?",
+    "options": [
+      "San Francisco 49ers",
+      "Philadelphia Eagles",
+      "Oakland Raiders",
+      "Miami Dolphins"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0067",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What NBA team did Bill Walton lead to a NBA title?",
+    "options": [
+      "Houston Rockets",
+      "Portland Trail Blazers",
+      "San Antonio Spurs",
+      "Utah Jazz"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0068",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What college basketball team did Billy King, general manager of the Philadelphia 76ers, play for?",
+    "options": [
+      "UCLA",
+      "Alabama",
+      "Duke",
+      "Georgetown"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0069",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What NBA team is known for their cowbells?",
+    "options": [
+      "Portland Trail Blazers",
+      "San Antonio Spurs",
+      "Atlanta Hawks",
+      "Sacramento Kings"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0070",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What NFL team went 1-15 during the 1989 season?",
+    "options": [
+      "Dallas Cowboys",
+      "Houston Texans",
+      "The New York Jets",
+      "Chicago Bears"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0071",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What team did Oklahoma beat in the 2000 Orange Bowl to win the national title?",
+    "options": [
+      "ISU",
+      "Florida Sate",
+      "Nebraska",
+      "Miami"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0072",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What number did Ralph Kiner, who was inducted into the Baseball Hall of Fame in 1975, wear when he played for the Pittsburgh Pirates in the 40s and 50s?",
+    "options": [
+      "7",
+      "3",
+      "4",
+      "11"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0073",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What number did Tom Seaver, who was elected to the Baseball Hall of Fame on January in 1992, wear when he was a player for the New York Mets in the 1970s?",
+    "options": [
+      "35",
+      "32",
+      "47",
+      "41"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0074",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What number did Major League Baseball player Pete Rose wear when he played for the Cincinnati Reds?",
+    "options": [
+      "14",
+      "5",
+      "4",
+      "7"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0075",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What number did Baseball Hall of Famer, Rod Carew, wear on his uniform when he played for the Minnesota Twins?",
+    "options": [
+      "33",
+      "29",
+      "6",
+      "44"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0076",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What number did Don Mattingly wear when he played as a part-time first baseman and outfielder for the New York Yankees in 1983?",
+    "options": [
+      "33",
+      "18",
+      "46",
+      "23"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0077",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What number did baseball player Darryl Strawberry wear when he played for the Los Angeles Dodgers in the 1990s?",
+    "options": [
+      "18",
+      "39",
+      "8",
+      "44"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0078",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What number did American football quarterback Joe Montana wear when he played for the college team Notre Dame?",
+    "options": [
+      "3",
+      "16",
+      "18",
+      "12"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0079",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What number did O. J. Simpson, a member of the Pro Football Hall of Fame, wear when he played for the Buffalo Bills in the 70s?",
+    "options": [
+      "33",
+      "32",
+      "44",
+      "34"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0080",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What number did Kirby Puckett, who was elected to the Baseball Hall of Fame in 2001, wear when he was a player for the Minnesota Twins?",
+    "options": [
+      "32",
+      "18",
+      "34",
+      "14"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0081",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What number did Carlton Fisk, who was inducted into the Baseball Hall of Fame in 2000, wear when he played for the Chicago White Sox?",
+    "options": [
+      "15",
+      "27",
+      "13",
+      "72"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0082",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which two schools are given credit for playing the first college football game?",
+    "options": [
+      "Princeton - Rutgers",
+      "Chicago - Ohio State",
+      "UCLA - USC",
+      "Purdue - Notre Dame"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0083",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which of these bascetball players scored 100 points in one college game?",
+    "options": [
+      "Wilt Chamberlain",
+      "Frank Selvey",
+      "Rod Thorn",
+      "Kareem Abdul Jabbar"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0084",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "For which college did Wilt Chamberlain play?",
+    "options": [
+      "North Carolina",
+      "Villanova",
+      "Kansas",
+      "UCLA"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0085",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "For which college did Reggie Jackson play baseball?",
+    "options": [
+      "Florida",
+      "UCLA",
+      "Texas",
+      "Arizona State"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0086",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which college used to have the nickname The Ramblin Wrecks?",
+    "options": [
+      "Georgia Tech",
+      "Oklahoma State",
+      "Purdue",
+      "Texas Tech"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0087",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which college has the team nicknamed The Boiler Makers?",
+    "options": [
+      "Stanford",
+      "Purdue",
+      "Florida",
+      "Miami"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0088",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which college has the team nicknamed The Sooners?",
+    "options": [
+      "Florida",
+      "San Diego State",
+      "Oklahoma",
+      "Purdue"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0089",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which college football team set the record for most consecutive wins, eventually losing to Notre Dame?",
+    "options": [
+      "USC",
+      "Nebraska",
+      "Army",
+      "Oklahoma"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0090",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which three teams are eligible to win The Commanders Trophy ?",
+    "options": [
+      "Army, Navy and Air Force",
+      "Harvard, Yale, and Princeton",
+      "UCLA, USC and Stanford",
+      "Indiana, Purdue and Ball state."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0091",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which former football quarterback, inducted into the Pro Football Hall of Fame in 1977, was the MVP of the first two Super Bowls?",
+    "options": [
+      "Art Donovan",
+      "Bart Starr",
+      "Al Davis",
+      "Eric Dickerson"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0092",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Who was the first person to become a member of both the Pro Football Hall of Fame and the Baseball Hall of Fame?",
+    "options": [
+      "Bo Jackson",
+      "Jackie Jensen",
+      "Cal Hubbard",
+      "Dave Winfield"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0093",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which former quarterback was named the Most Valuable Player of Super Bowl XXIX, and was inducted into the Pro Football Hall of Fame in 2005?",
+    "options": [
+      "Norm Van Brocklin",
+      "Bobby Layne",
+      "Jim Kelly",
+      "Steve Young"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0094",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which versatile athlete, inducted into the Pro Football Hall of Fame in 1963, won Olympic gold medals in the pentathlon and decathlon?",
+    "options": [
+      "Jim Thorpe",
+      "Kirk Gibson",
+      "Jim Brown",
+      "Bo Jackson"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0095",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Henry Aaron hit home run number 715 off of which Dodger pitcher?",
+    "options": [
+      "Don Drysdale",
+      "Al Downing",
+      "Don Sutton",
+      "Sandy Koufax"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0096",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What year did the Braves move to Atlanta?",
+    "options": [
+      "1965",
+      "1968",
+      "1966",
+      "1967"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sport-0097",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What is Chipper Jones actual first name?",
+    "options": [
+      "Peter",
+      "George",
+      "Paul",
+      "Larry"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sport-0098",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Atlanta Fulton County Stadium had what nickname?",
+    "options": [
+      "The Launching Pad",
+      "Braveland",
+      "The Homer Dome",
+      "The Hot-Lanta"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0099",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Who was the winning pitcher in game six of the 1995 World Series, 1-0 victory over the Cleveland Indians?",
+    "options": [
+      "Greg Maddux",
+      "Tom Glavine",
+      "Steve Avery",
+      "John Smoltz"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0100",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Who is considered the first modern heavyweight boxing champion?",
+    "options": [
+      "James J. Corbett",
+      "Jimmy Ellis",
+      "John L. Sullivan",
+      "Bob Fotzsimmons"
+    ],
+    "answerIndex": 2
   }
 ]

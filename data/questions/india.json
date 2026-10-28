@@ -37,5 +37,642 @@
       "Indian peafowl"
     ],
     "answerIndex": 2
+  },
+  {
+    "id": "ind-0004",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "Which is the Sanskrit word for “union?”",
+    "options": [
+      "yoga",
+      "sri",
+      "shiva",
+      "krishna"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ind-0005",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What type of rock is the white marble used to build the Taj Mahal?",
+    "options": [
+      "Sedimentary",
+      "Metamorphic",
+      "Ore",
+      "Igneous"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ind-0006",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "What caused the Air India Flight 182 crash on June 23, 1985, when 329 people passed away?",
+    "options": [
+      "Engine malfunction",
+      "Miscalculation of the altitude",
+      "Bomb explosion on board",
+      "One of the pilots had a heart attack"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ind-0007",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "Who built the famous monument Taj Mahal?",
+    "options": [
+      "Akbar",
+      "Babur",
+      "Aurangzeb",
+      "Shah Jehan"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ind-0008",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "A very common greeting in India is namaste or namaskar. What does it mean?",
+    "options": [
+      "I bow to you.",
+      "May you be blessed.",
+      "I pray your family is complete.",
+      "How are you?"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ind-0009",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "Which of these national costumes is closely related to Sikhism - a religion that comes from 16th-century northern India?",
+    "options": [
+      "Sayyid",
+      "Turban",
+      "Sari",
+      "Khalsa"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ind-0010",
+    "category": "India",
+    "difficulty": "hard",
+    "question": "The locals of Nepal call the highest mount in the world - Mount Everest - Sagarmatha. What is the meaning of this name in Sanskrit?",
+    "options": [
+      "Leader Among the Others",
+      "Ice Zone",
+      "Head of the Sky",
+      "Holy Mountain"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ind-0011",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What islands are knows as “The beautiful garland in the Indian Ocean”?",
+    "options": [
+      "Aeolian Islands",
+      "Pontine Islands",
+      "Flegrean Islands",
+      "Maldives Islands"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ind-0012",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What does the national motto of India, Satyameva Jayate, mean in Sanskrit?",
+    "options": [
+      "Truth Alone Triumphs",
+      "Truth Is Divine",
+      "The Supreme Treasure of Truth",
+      "Truth Is The Best Way"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ind-0013",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What is the name of the capital city of India?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Calcutta",
+      "Jaipur"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ind-0014",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "Control of the Ganges River, sacred to some people, has been much disputed between which two nations?",
+    "options": [
+      "India and China",
+      "India and Myanmar",
+      "India and Bangladesh",
+      "India and Pakistan"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ind-0015",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "Why did Richard Gere almost get arrested in India in 2007?",
+    "options": [
+      "For wearing shorts in public",
+      "For swearing on TV",
+      "For asking where he could have a beef steak",
+      "For behaving improperly"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ind-0016",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What currency is used in India?",
+    "options": [
+      "Indian rupee",
+      "Indian yuan",
+      "Indian tenge",
+      "Indian dollar"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ind-0017",
+    "category": "India",
+    "difficulty": "hard",
+    "question": "This palace was built for love. It is what what every women wants her husband to do for her. The Taj Mahal is located in what country?",
+    "options": [
+      "Spain",
+      "India",
+      "Mexica",
+      "Japan"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ind-0018",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What is the currency unit in India?",
+    "options": [
+      "Dinar",
+      "Peso",
+      "Rupee",
+      "Lira"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ind-0019",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What is the official language of India?",
+    "options": [
+      "Urdu and Hindi",
+      "Nepali, Hindi and English",
+      "Hindi",
+      "Hindi and English"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ind-0020",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "Imagine you travel with Vasco da Gama to find the sea route to India. In which order will you pass the capes of Africa?",
+    "options": [
+      "Cape Verde, Cape of Good Hope, Ras Hafun",
+      "York, Cape Verde, Ras Hafun",
+      "Ras ben Sakka, Ras Hafun",
+      "Ras ben Sakka, Cape of Good Hope, Cape Verde"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ind-0021",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "Where is the Taj Mahal located?",
+    "options": [
+      "Bombay",
+      "Agra",
+      "New Delhi",
+      "Singapore"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ind-0022",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What was the Taj Mahal mainly made of?",
+    "options": [
+      "black granite",
+      "clay",
+      "white granite",
+      "limestone"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ind-0023",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "How many workers were recruited to build the Taj Mahal?",
+    "options": [
+      "about 10,000 workers",
+      "about 1 million workers",
+      "about 4 million workers",
+      "about 20,000 workers"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ind-0024",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What is the official language in India?",
+    "options": [
+      "Hindi",
+      "English",
+      "Sanskrit",
+      "Urdu"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ind-0025",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "The name Ohio is derived from an Iroquois Indian word meaning what?",
+    "options": [
+      "Big Tree",
+      "Large River",
+      "Great Lake",
+      "Many Rivers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ind-0026",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "From the name of which river is the name India derived?",
+    "options": [
+      "Ganga river",
+      "Periyar river",
+      "Sindhu river",
+      "Indiravati river"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ind-0027",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "Where is the only active volcano in India?",
+    "options": [
+      "Ranchi",
+      "Anaimudi",
+      "Minicoy Island",
+      "Barren Island"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ind-0028",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What is the capital of India?",
+    "options": [
+      "New Delhi",
+      "Cochin",
+      "Kashmir",
+      "Mumbai"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ind-0029",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What is the national fruit of India?",
+    "options": [
+      "jack fruit",
+      "mango",
+      "apple",
+      "orange"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ind-0030",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What type of meal is the Idli, which is very popular in South India?",
+    "options": [
+      "A soup",
+      "An appetizer",
+      "A cake",
+      "Baked chicken"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ind-0031",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "Chicken tikka is a traditional Indian meal. What does tikka mean?",
+    "options": [
+      "Popes nose",
+      "Legs",
+      "Wings",
+      "Pieces"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ind-0032",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional South Indian crepe made from rice and black lentils and eaten for breakfast or dinner?",
+    "options": [
+      "Dosa",
+      "Dahi",
+      "Moreshi",
+      "Keifferi"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ind-0033",
+    "category": "India",
+    "difficulty": "hard",
+    "question": "What is the literal translation of the word pranahara, used commonly by some people to refer to the traditional Indian sweets called Sandesh?",
+    "options": [
+      "Desire booster",
+      "Heart stealer",
+      "Soul warmer",
+      "Life saver"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ind-0034",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "What is the English name commonly used to refer to the popular Indian dish Murgh Makhani?",
+    "options": [
+      "The fat duck",
+      "The tired monk",
+      "Butter chicken",
+      "Sleepy fish"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ind-0035",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "What fruit is used for the preparation of fenny, a popular Indian alcoholic beverage?",
+    "options": [
+      "Lime",
+      "Orange",
+      "Banana",
+      "Coconut"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ind-0036",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What traditional Indian beverage is made from female Cannabis?",
+    "options": [
+      "Bhang",
+      "Lassi",
+      "Kaapi",
+      "Nimbu pani"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ind-0037",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "What type of syrup is used for the preparation of the sweet Indian drink called Falooda?",
+    "options": [
+      "Carnation syrup",
+      "Rose syrup",
+      "Strawberry syrup",
+      "Kiwi syrup"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ind-0038",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "The title of the national anthem of India is Jana Gana Mana. What does this mean?",
+    "options": [
+      "Past, Present, Future",
+      "Thou Shall Listen to the Voice of the Prince",
+      "Thou Art the Ruler of the Minds of All People",
+      "Blessed, Sacred, Eternal"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ind-0039",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "The seeds of which of these herbs are the key spice in Indian curries?",
+    "options": [
+      "Tansy",
+      "Costmary",
+      "Thyme",
+      "Coriander"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ind-0040",
+    "category": "India",
+    "difficulty": "hard",
+    "question": "What is the common name of the national flower of India, which is also called Sacred water lily and is often associated with Buddhism?",
+    "options": [
+      "Lotus",
+      "Dahlia",
+      "Poppy",
+      "Chamomile"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ind-0041",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "What type of meat is used in the preparation of the Indian dish called Bombay duck?",
+    "options": [
+      "Pork",
+      "Fish",
+      "Beef",
+      "Chicken"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ind-0042",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "The slaughter of what animal is forbidden in almost all states in India by law?",
+    "options": [
+      "Sheep",
+      "Elephant",
+      "Cow",
+      "Monkey"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ind-0043",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "In India dacoit is a synonym for what word?",
+    "options": [
+      "miner",
+      "mongoose",
+      "wagon",
+      "bandit"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ind-0044",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "How many subspecies of Red Fox are found in India?",
+    "options": [
+      "3",
+      "None. Red Fox are not native to India.",
+      "2",
+      "1"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ind-0045",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "The does “cheetah” mean translated from Sanskrit?",
+    "options": [
+      "Lightning",
+      "Spotted One",
+      "Stealth cat",
+      "Fast"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ind-0046",
+    "category": "India",
+    "difficulty": "hard",
+    "question": "The ruler of the Mughal Empire Akbar the Great was very enamored with cheetahs and it is said he kept a stable of how many of these cats?",
+    "options": [
+      "500",
+      "5,000",
+      "1,000",
+      "750"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ind-0047",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What large mammal is the national animal of India?",
+    "options": [
+      "Indian Rhinoceros",
+      "Indian Elephant",
+      "Water Buffalo",
+      "Bengal tiger"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ind-0048",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "What type of Indian animals are included in the so-called Big Four selection?",
+    "options": [
+      "Poisonous snakes",
+      "Largest land animals",
+      "Largest insects",
+      "Most dangerous animals"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "ind-0049",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "What interesting physical feature does the Nicobar Bulbul, endemic to the Nicobar Islands of India, possess?",
+    "options": [
+      "It has a bright red beak.",
+      "It has a dark cap on its head.",
+      "Its eyes are purple.",
+      "Its tail is very long and yellow."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ind-0050",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "What interesting resting posture does the Indian Treeshrew, a.k.a. Madras Treeshrew, have?",
+    "options": [
+      "Hanging upside down from a branch",
+      "Sprawling on the ground as if its dead",
+      "With its tail resting on its head",
+      "Cuddling its rear legs"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ind-0051",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "What type of animal is the Indian Flying-fox, found in India, Bangladesh, China, and other parts of Asia?",
+    "options": [
+      "Squirrel",
+      "Fox",
+      "Primate",
+      "Bat"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ind-0052",
+    "category": "India",
+    "difficulty": "medium",
+    "question": "What distinctive feature is characteristic of the crocodile species called gharial, or Indian gavial?",
+    "options": [
+      "Narrow snout",
+      "Very short tail",
+      "Red spots on its back",
+      "Purple scales"
+    ],
+    "answerIndex": 0
   }
 ]

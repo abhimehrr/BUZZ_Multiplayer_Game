@@ -37,5 +37,1266 @@
       "O2"
     ],
     "answerIndex": 0
+  },
+  {
+    "id": "sci-0004",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Why do travelers to La Paz, Bolivia, often become ill as soon as they arrive?",
+    "options": [
+      "Because of the high temperature",
+      "Because of the humidity",
+      "Because of the altitude",
+      "Because of the soil quality"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0005",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "In the US, why do we change our clocks on the daylight saving time dates in April and October?",
+    "options": [
+      "To increase the hours of the day",
+      "Because the tourist period in most countries starts in May",
+      "To extend the working day",
+      "To conserve energy"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0006",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which of these organs has no known function in the human body?",
+    "options": [
+      "appendix",
+      "pineal gland",
+      "tonsils",
+      "uvula"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0007",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What is the most common method of child birth?",
+    "options": [
+      "Cesarean",
+      "Vaginal",
+      "In Vitro Fertilization",
+      "Water birth"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0008",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "How far along are you approximately, when you feel the baby move for the first time?",
+    "options": [
+      "2 weeks",
+      "35 weeks",
+      "20 weeks",
+      "10 weeks"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0009",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What is also delivered along with the baby or immediately after its birth?",
+    "options": [
+      "Feet",
+      "Handbook",
+      "Shoulders",
+      "Placenta"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0010",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "The medical term cardio, deriving from a Greek word, refers to which organ of the human body?",
+    "options": [
+      "Heart",
+      "Brain",
+      "Lungs",
+      "Liver"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0011",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "The term arthro is of Greek origin. It refers to which part of the body?",
+    "options": [
+      "Head",
+      "Joint",
+      "Bone",
+      "Skin"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0012",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Gastro is a common medical prefix, derived from the Greek word gastros which means what?",
+    "options": [
+      "Gas",
+      "Cell",
+      "Stomach",
+      "Brain"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0013",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Erythrocytes are a type of blood cells, consisting mainly of hemoglobin. What does the word erythro mean?",
+    "options": [
+      "White",
+      "Knowledge",
+      "Cell",
+      "Red"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0014",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "The word adeno, deriving from Greek, refers to which to what body part?",
+    "options": [
+      "Gland",
+      "Kidney",
+      "Flesh",
+      "Brain"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0015",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Onco, coming from the Greek word onkos refers to what?",
+    "options": [
+      "Ear",
+      "Tumor",
+      "Nerve",
+      "Eye"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0016",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which of these is best describes the cause of Parkinsons disease?",
+    "options": [
+      "Decreased blood flow to the brain",
+      "Changes in the myelin sheath of the neuron",
+      "A decrease in a neurotransmitter",
+      "A brain injury"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0017",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "If your physician tells you that you have Presbycusis due to the normal process of aging, he may suggest that you need which of these?",
+    "options": [
+      "Dentures",
+      "Glasses",
+      "A wheelchair",
+      "Hearing aid"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0018",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "If you have hyperthyroidism, your body is overproducing what hormone?",
+    "options": [
+      "Thyroxine",
+      "Glucagon",
+      "Thyrocalcitonin",
+      "Estrogen"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0019",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which of these most accurately describes the medical term, necrosis?",
+    "options": [
+      "Decrease in white blood cells",
+      "Death of living tissue",
+      "Irregular heartbeat",
+      "Liver damage"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0020",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Your physician has ordered an electroencephalogram (EEG), the graphic recording of the electrical activity of what organ?",
+    "options": [
+      "Muscles",
+      "Heart",
+      "Brain",
+      "Liver"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0021",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "In the US, what was the average street cost of a lid (3/4 ounce bag) of marijuana in the mid 1970s?",
+    "options": [
+      "$20.00",
+      "$5.00",
+      "$10.00",
+      "$15.00"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0022",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What is marijuanas primary active ingredient?",
+    "options": [
+      "THC",
+      "TBC",
+      "TAC",
+      "TCB"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0023",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "How many different chemicals can be found in marijuana?",
+    "options": [
+      "150",
+      "More than 400",
+      "200",
+      "Less than 5"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0024",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "With the passage of the Marijuana Tax Act, the United States effectively banned recreational and medicinal use of cannabis. What year was this act adopted?",
+    "options": [
+      "1945",
+      "1965",
+      "1937",
+      "1972"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0025",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "The sphygmomanometer is a device invented by Samuel Siegfried Karl Ritter von Basch, used to measure what?",
+    "options": [
+      "Heart murmurs",
+      "Myopia",
+      "Intensity of headaches",
+      "Blood pressure"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0026",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Pre-eclampsia, thought to be caused by inflammatory mediators, is a medical condition associated with which of these?",
+    "options": [
+      "Pregnancy",
+      "Bronchitis",
+      "Eye infections",
+      "Brain tumor"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0027",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What medical term is synonym of jaundice, a condition characterized by yellowing of the skin, sclera and mucous membranes?",
+    "options": [
+      "Anorexia",
+      "Icterus",
+      "Nausea",
+      "Ascites"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0028",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "The presence of gallstones in the gallbladder is defined by what medical term?",
+    "options": [
+      "Hepatitis",
+      "Cirrhosis",
+      "Cholelithiasis",
+      "Dysentery"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0029",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "The term encephalon, defined as the brain of a vertebrate, derives from a Greek word which means what?",
+    "options": [
+      "In the backbone",
+      "Forehead",
+      "In the mind",
+      "In the head"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0030",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "The term blepharo derives from a Greek word and refers to which part of the body?",
+    "options": [
+      "Eyelid",
+      "Lungs",
+      "Larynx",
+      "Artery"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0031",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which of these medical terms refers to air passages in the lungs?",
+    "options": [
+      "Neurons",
+      "Bronchial tubes",
+      "Axons",
+      "Terminals"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0032",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "The word phlebo is of Greek origin, which comes from the root phlein, meaning to gush or to overflow. What part of the body does this word refer to?",
+    "options": [
+      "Capillaries",
+      "Arteries",
+      "Veins",
+      "Aorta"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0033",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "The medical prefix bucco refers to which part of the head?",
+    "options": [
+      "Eye",
+      "Nose",
+      "Forehead",
+      "Cheek"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0034",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "The medical prefix oophoro, which derives from Greek, refers to which part of the body?",
+    "options": [
+      "Ovary",
+      "Uterus",
+      "Muscle",
+      "Abdomen"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0035",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "The prefix of Greek origin, oto is used in medical terminology to refer to what body part?",
+    "options": [
+      "Eye",
+      "Ear",
+      "Mouth",
+      "Nose"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0036",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Scientists differentiate what three basic types of memory, based on the duration of memory retention?",
+    "options": [
+      "Temporary memory, average memory, and permanent memory",
+      "Episodic memory, procedural memory, and semantic memory",
+      "Sensory memory, short-term memory, and long-term memory",
+      "Momentary memory, short-term memory, and permanent memory"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0037",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Procedural Memory, a category of the long-term memory, refers to which of these basic human abilities?",
+    "options": [
+      "The ability to consciously retrieve stored facts and information",
+      "The artistic and creative abilities",
+      "The ability to gain and store general knowledge and information",
+      "The ability to acquire and develop skills"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0038",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Typically, how many random items can human short-term memory store?",
+    "options": [
+      "6-8",
+      "9-11",
+      "3-4",
+      "15-17"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0039",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Déjà Vu is one of the curios brain phenomenon. Which of these most accurately describes the term?",
+    "options": [
+      "A sudden flash of a long forgotten memory",
+      "A sensation of something seen or experienced before",
+      "A spontaneous involuntary creation of a false memory",
+      "The feeling that something familiar was never seen before"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0040",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "In the study of memory, what does the term mnemonist refer to?",
+    "options": [
+      "Individual who tends to create false memories",
+      "Individual who has recovered from amnesia",
+      "Individual with exceptional memory",
+      "Individual with severe memory disorders"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0041",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What is the main cause for most pandemics in history?",
+    "options": [
+      "Genetic experiments",
+      "The bad hygiene of the people",
+      "Human negligence",
+      "The domestication of animals"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0042",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "During which war did the first known pandemic take place? It dates back to 430 BC.",
+    "options": [
+      "The Peloponnesian War",
+      "The Trojan War",
+      "The Persian Wars",
+      "The Punic Wars"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0043",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which of these countries did cholera affect most?",
+    "options": [
+      "Italy",
+      "Russia",
+      "USA",
+      "France"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0044",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "How many people are overweight around the world?",
+    "options": [
+      "More than 5 million",
+      "More than 1 million",
+      "More than 1 billion",
+      "More than 3 million"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0045",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which of the following has the most fat?",
+    "options": [
+      "Parmesan",
+      "Cottage Cheese",
+      "Feta",
+      "American Blue Cheese"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0046",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "At what time in a womans life is she most likely to gain the most weight?",
+    "options": [
+      "During pregnancy",
+      "After the age of 60",
+      "Before her menstruation",
+      "During menopause"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0047",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What does being obese in some countries with food shortages symbolizes?",
+    "options": [
+      "Well-being",
+      "Wealth",
+      "Wisdom",
+      "Divinity"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0048",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Jason has 3 quarters, 8 nickels, 6 dimes and 3 pennies. How much money does he have?",
+    "options": [
+      "$1.93",
+      "$0.35",
+      "$1.78",
+      "$2.58"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0049",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What is the next number in the following sequence: 42, 48, 54, __?",
+    "options": [
+      "50",
+      "64",
+      "58",
+      "60"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0050",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "6 is a multiple of 2 and 3, 9 is a multiple of 3 only, 10 is a multiple of 5 and what other number?",
+    "options": [
+      "2",
+      "15",
+      "5",
+      "10"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0051",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "How would you write 236,598 out in words?",
+    "options": [
+      "Two hundred, three thousand, five hundred ninety-seven",
+      "Two hundred, thirty-six thousand, five hundred ninety-eight",
+      "Three hundred, thirty-six thousand, six hundred ninety-eight",
+      "Two million, thirty-six thousand, five hundred ninety-eight"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0052",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "The eyes of a baby weigh about 1/400 of its entire body mass. How much do the eyes of an adult weigh?",
+    "options": [
+      "1/10000 of the body mass",
+      "1/1000 of the body mass",
+      "1/4000 of the body mass",
+      "1/20000 of the body mass"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0053",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "How long are the intestines of an average adult? (large and small)",
+    "options": [
+      "approx 1-2 meters (3-6.5 feet)",
+      "approx 15-16 meters (49-52.5 feet)",
+      "approx 19-20 meters (62-65 feet)",
+      "approx 8-9 meters (26-29.5 feet)"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0054",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "How many teeth does an average human have?",
+    "options": [
+      "32",
+      "28",
+      "34",
+      "29"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0055",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "Kismet, a complicated technological achievement, is a very important step in the understanding of human facial expressions and their role in socialising. What is actually Kismet?",
+    "options": [
+      "A technique for enhancing the ability of the face to conduct emotions",
+      "A sociable humanoid robot",
+      "A set of tiny devices implanted under the skin, which detect microexpressions",
+      "An advanced computer system, designed to analyze microexpressions"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0056",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What British naturalist published the first major scientific study on facial communication in 1872?",
+    "options": [
+      "Alfred Brehm",
+      "James Edward Smith",
+      "Charles Darwin",
+      "Leonardo Da Vinci"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0057",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "In medicine, which of these brain disorders does the term prosopagnosia refer to?",
+    "options": [
+      "The inability to express emotions",
+      "Total indifference to others expressions",
+      "Misinterpretation of basic human expressions",
+      "The Inability to recognize faces"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0058",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Laughter is one of the first expressions of emotions babies learn to convey. At about what age do babies start to laugh?",
+    "options": [
+      "4 months",
+      "18 months",
+      "12 months",
+      "7 months"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0059",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "In average conditions, approximately how many hours does it take for the dead bodys temperature to equalize with the surrounding environment?",
+    "options": [
+      "26",
+      "24",
+      "12",
+      "48"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0060",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which of the following happens three days after the moment of death?",
+    "options": [
+      "The nails are so loose that they can be pulled off",
+      "The body starts to emit smell",
+      "The body starts to swell",
+      "The body starts to shrink"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0061",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which part of the body is decomposed last, but before the bones?",
+    "options": [
+      "Gall Bladder",
+      "Nails",
+      "Cartilages",
+      "Hair"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0062",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "A death erection is a post-mortem erection which occurs when a male individual dies vertically or face-down. What causes this condition?",
+    "options": [
+      "Gravity causes the genitalia to fill up with blood",
+      "Having intercourse before death",
+      "The body swells up",
+      "Bladder and Intestines empty"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0063",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "The Moon is changing its position it relation to the Earth. In what way?",
+    "options": [
+      "Getting closer",
+      "Moving away",
+      "Moving along the Earths X axis",
+      "Moving along the Earths Y axis"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0064",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which factor ensures that many of the craters on the Moons surface remain well preserved in comparison to those on Earth?",
+    "options": [
+      "The rotating movement",
+      "The influence of Earths gravity",
+      "The lack of atmosphere",
+      "The strong solar rays"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0065",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "When was the Moon formed?",
+    "options": [
+      "About 5.7 billion years ago",
+      "About 300,000 years ago",
+      "About 1 billion years ago",
+      "About 4.5 billion years ago"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0066",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "A compass cannot be used on the Moon. What factor is responsible for this?",
+    "options": [
+      "Lack of a magnetic field",
+      "Asteroid impacts",
+      "Influence of Earths gravity",
+      "Lack of gravity on the Moon"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0067",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "A large exposition at the Royal Observatory, Greenwich is devoted to horology, a science that studies what?",
+    "options": [
+      "lenses",
+      "time",
+      "navigation",
+      "comets"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0068",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What national symbols are subject of study of vexillology?",
+    "options": [
+      "national emblems",
+      "seals",
+      "flags",
+      "coat of arms"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0069",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the subject of study of thanatology, personified in Greek mythology by Thanatos?",
+    "options": [
+      "grave",
+      "birth",
+      "plague",
+      "death"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0070",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What term is used to designate a hurricanes calm, low-pressure center around which winds of high velocity spin?",
+    "options": [
+      "Eye",
+      "Outer rim",
+      "Eye wall",
+      "Rain bands"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0071",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What term refers to electric power produced by running or falling water?",
+    "options": [
+      "Nuclear power",
+      "Hydroelectric power",
+      "Hydrothermal power",
+      "Aquatic power"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0072",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "What term do scientists use to denote the gradual warming of the planet due to absorption of infrared radiation by the atmosphere?",
+    "options": [
+      "Global dimming",
+      "Ozone depletion",
+      "Greenhouse effect",
+      "Atmospheric termoincrease"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0073",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "In medical parlance, what is an A-line?",
+    "options": [
+      "Anatomic line",
+      "Afferent line",
+      "Analog line",
+      "Arterial line"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0074",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "After reading the following, what will a doctor conclude? Pt presents 3 d S/P TURP, with c/o HA x 2 d.",
+    "options": [
+      "The patient has a headache.",
+      "The patient recently had abdominal surgery.",
+      "The patient has no current complaints.",
+      "The patient is female."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0075",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What do abbreviations Rx, Tx, Hx and Sx mean?",
+    "options": [
+      "Renal, Thyroid, Uterine and Splenic",
+      "Prescription, Treatment, History and Symptom",
+      "Pharmacy, Treatment Room, Hospital and Sanitorium",
+      "Rectal, Thyroglossal, Hepatic and Splenic"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0076",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "If the doctor writes, CNs 2-12 intact, which of the following would be true?",
+    "options": [
+      "The patient is a man.",
+      "All of the lymph nodes in the cervical chain are normal.",
+      "The patient is able to close and open the eyes.",
+      "The cervical nerves are all functioning normally."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0077",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "In medical parlance, what is an AKA?",
+    "options": [
+      "An alcoholic",
+      "A patient",
+      "An antibiotic",
+      "The removal of a limb"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0078",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "If the doctor orders an EKG, what part of the body is going to be examined?",
+    "options": [
+      "Heart",
+      "Abdomen",
+      "Peripheral Nerves",
+      "Brain"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0079",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "In medical terms, what is a CVA?",
+    "options": [
+      "An aneurysm",
+      "A stroke",
+      "A heart attack",
+      "A type of accountant"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0080",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "If you were taking a course in entomology, what would you be studying?",
+    "options": [
+      "Mold",
+      "Snakes",
+      "Insects",
+      "Rocks"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0081",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What part of the human body does the science periodontics study?",
+    "options": [
+      "Eyes",
+      "Finger and toes",
+      "Ears",
+      "Gums and mouth"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0082",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "According to statistics, which of the following people is most likely to commit suicide?",
+    "options": [
+      "A middle-aged divorced man.",
+      "A recovering alcoholic.",
+      "A middle-aged divorced woman living alone.",
+      "A teenage boy who smokes marijuana."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0083",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Three of the following four disorders are actually different names for the same disease. Which is the odd one?",
+    "options": [
+      "Psychopath",
+      "Maniac",
+      "Sociopath",
+      "Antisocial Personality"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0084",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which are the endocrine systems so-called instant messengers used to affect distant cells within specific organs?",
+    "options": [
+      "Neurons",
+      "Acids",
+      "Hormones",
+      "Nephrons"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0085",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "In humans, which of these organs belongs to the integumentary system?",
+    "options": [
+      "Tonsils",
+      "Pharynx",
+      "Liver",
+      "Skin"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0086",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Emphysema is a chronic disease affecting the organs of which system of the body?",
+    "options": [
+      "Respiratory system",
+      "Digestive system",
+      "Skeletal system",
+      "Urinary system"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0087",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which commercial building can also store data?",
+    "options": [
+      "Super market",
+      "Warehouse",
+      "Store",
+      "Shop"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0088",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "The name of which Native American group is also a name of an open source organization?",
+    "options": [
+      "Navajo",
+      "Cherokees",
+      "Apache",
+      "Iroquois"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0089",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "How many bones (on average) does the human body contain?",
+    "options": [
+      "208",
+      "205",
+      "207",
+      "206"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0090",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "Diarthrosis joints permit a variety of movement and can be divided into six classes. The femur and hip connection would be considered which joint class?",
+    "options": [
+      "Ball-and-socket joint (enarthrosis, spheroidal joint)",
+      "Pivot joint (trochoid joint, rotary joint)",
+      "Condyloid joint (condyloid articulation, ellipsoidal joint)",
+      "Hinge joint (ginglymus)"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0091",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "There are twelve apples on a table. You take four. How many apples do you have now?",
+    "options": [
+      "0",
+      "4",
+      "12",
+      "8"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0092",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "How fast is a mile a minute?",
+    "options": [
+      "The speed of the fastest human runner",
+      "60 kilometers and hour",
+      "60 miles an hour",
+      "60 yards an hour"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0093",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "This earthquake occurred on August 17, 1999, and had a magnitude of 7.4. The reported number of casualties was approximately 17,000. Where did this disaster take place?",
+    "options": [
+      "China",
+      "The United States",
+      "Spain",
+      "Turkey"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0094",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "If a doctor prescibes a medicine and the prescription reads, Instill 2 - 3 gtts in OD bid. What does OD mean?",
+    "options": [
+      "Right eye",
+      "Right ear",
+      "Left ear",
+      "Left eye"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0095",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What color is Arterial Blood?",
+    "options": [
+      "Reddish Purple",
+      "Bright Red",
+      "Dark Red",
+      "Purple"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0096",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What lobe in the brain is responsible for retaining verbal memory?",
+    "options": [
+      "Left Parietal Lobe",
+      "Right Parietal Lobe",
+      "Left Temporal Lobe",
+      "Right Temporal Lobe"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "sci-0097",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which part of th eye captures light rays and converts the rays into electrical impulses?",
+    "options": [
+      "Pupil",
+      "Iris",
+      "Cornea",
+      "Retina"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "sci-0098",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "How many vertebrae make up the thoracic region of the spinal column?",
+    "options": [
+      "12",
+      "10",
+      "5",
+      "7"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sci-0099",
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What do we call this sequence of numbers: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 ...?",
+    "options": [
+      "Lucas",
+      "Fibonacci",
+      "Gauss",
+      "Euler"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sci-0100",
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What was the name of the man who invented logarithms?",
+    "options": [
+      "Blaise Pascal",
+      "Robert Recorde",
+      "John Napier",
+      "Rene Descartes"
+    ],
+    "answerIndex": 2
   }
 ]

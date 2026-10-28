@@ -37,5 +37,1266 @@
       "Dragonfly"
     ],
     "answerIndex": 2
+  },
+  {
+    "id": "food-0004",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What type of chocolate contains the most flavonoids and may help lower your cholesterol?",
+    "options": [
+      "Milk chocolate",
+      "Chocolate with almonds",
+      "White chocolate",
+      "Dark chocolate"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0005",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What company produces and distributes the citrus flavored soft drink Mello Yello?",
+    "options": [
+      "Coca-Cola",
+      "Pepsi",
+      "Cadbury-Schweppes",
+      "Dr Pepper/Seven Up"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0006",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which is the only food that never spoils?",
+    "options": [
+      "Peanut butter",
+      "Honey",
+      "Pasta",
+      "Potatoes"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0007",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What is the name of the essential oil made from the blossom of the bitter orange?",
+    "options": [
+      "Orange oilscent",
+      "Natterdum",
+      "Neroli",
+      "Lavender"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0008",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which of the following are usually part of every restaurant table setting?",
+    "options": [
+      "Ketchup and mustard",
+      "Bread and butter",
+      "Olive oil and vinegar",
+      "Salt and pepper"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0009",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which characters drink tea together with the March Hare at the neverending tea party in Alices Adventures in Wonderland?",
+    "options": [
+      "The Dormouse and the Mad Hatter",
+      "The Duchess and the Mad Hatter",
+      "Dinah and the Duchess",
+      "The Gryphon and the Dormouse"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0010",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What are the main ingredients of the traditional English dish Bubble and Squeak?",
+    "options": [
+      "Sausage and cabbage",
+      "Potato and cabbage",
+      "Bacon and eggs",
+      "Fish and ships"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0011",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "What was the first food to be microwaved?",
+    "options": [
+      "Coffee",
+      "Popcorn",
+      "A candy bar",
+      "Frozen corn"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0012",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Who was the Greek god of wine?",
+    "options": [
+      "Hephaestus",
+      "Hermes",
+      "Zeus",
+      "Dionysus"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0013",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What herb, also known as starflower, has five small, blue or pink, triangular-pointed petals?",
+    "options": [
+      "Borage",
+      "Bay",
+      "Berberis",
+      "Basil"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0014",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "What word means a baked dish made mainly of eggs and milk?",
+    "options": [
+      "Quoin",
+      "Quiche",
+      "Quivive",
+      "Quiddich"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0015",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Sugar, a naturally occurring nutrient that makes food taste sweet, is classified in chemistry as what?",
+    "options": [
+      "Nucleic acid",
+      "Protein",
+      "Carbohydrate",
+      "Lipid"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0016",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Making sugar by evaporating cane juice was developed in about 500 BC, in what country?",
+    "options": [
+      "Greece",
+      "Egypt",
+      "China",
+      "India"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0017",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "Scientists have proved that one of the health dangers, which ingesting sugar on a habitual basis involves, is the suppression of the activity of which system of the human body?",
+    "options": [
+      "Immune system",
+      "Cardiovascular system",
+      "Sensory system",
+      "Reproductive system"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0018",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Lactose is a type of sugar consisting of two subunits (galactose and glucose), found primarily in what food?",
+    "options": [
+      "Vegetables",
+      "Milk",
+      "Fruits",
+      "Honey"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0019",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Sugar is important for the proper function of which of these bodily systems?",
+    "options": [
+      "Cardiovascular system",
+      "Endocrine system",
+      "Nervous system",
+      "Digestive system"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0020",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Approximately how many pounds of food should a normal adult horse consume in a day?",
+    "options": [
+      "5-10",
+      "40-50",
+      "30-35",
+      "15-25"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0021",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which month is United States Aquarium Month, Candy Month, Dairy Month and Turkey Lovers Month?",
+    "options": [
+      "June",
+      "October",
+      "November",
+      "August"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0022",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "If your pencil has a pinkish grain and little or no smell, then it is probably made from which substance?",
+    "options": [
+      "non-incense-cedar",
+      "plastic",
+      "incense-cedar",
+      "tropical rainforest wood"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0023",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "If your pencil has a reddish brown grain and a smell, what does that usually indicate?",
+    "options": [
+      "It is made from non-incense-cedar.",
+      "It is made of rainforest wood.",
+      "It is made of incense-cedar.",
+      "It is made from plastic."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0024",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What common drink was first named the “Esteemed Brain Tonic and Intellectual Beverage”?",
+    "options": [
+      "Dr Pepper",
+      "Tab",
+      "Sprite",
+      "Coca Cola"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0025",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which cat is the advertising mascot for the 9Lives cat food?",
+    "options": [
+      "Morris",
+      "Mermal",
+      "Garfield",
+      "Odie"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0026",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "American athletes Dave DeBusschere, Gene Conley and Del Rice all have what in common?",
+    "options": [
+      "They played pro basketball and pro football",
+      "They played pro basketball and pro baseball",
+      "They played pro basketball and became team owners",
+      "They played pro baseball and pro football"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0027",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "If I mix the following ingredients together, what drink would I have?",
+    "options": [
+      "Basil Vodka Gimlet",
+      "Long Island Ice Tea",
+      "Cosmopolitan",
+      "Moscow Mule"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0028",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "The Hebrew word kosher , often translated as clean, refers to what kind of food?",
+    "options": [
+      "That contains no pork products",
+      "That has been blessed before processing",
+      "That contains no red meat",
+      "That is fit for consumption according to the Books of Leviticus"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0029",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What famous Israeli liqueur comes in a genie shaped bottle and has a distinctive chocolate/orange flavor?",
+    "options": [
+      "Sabra",
+      "Triple Sec",
+      "Grand Marnier",
+      "Cointreau"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0030",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "According to the popular TV show, at what restaurant does Alice work?",
+    "options": [
+      "Dennys",
+      "Mels Diner",
+      "Burger King",
+      "McDonalds"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0031",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Normal saline solution contains this percentage of salt (NaCl)?",
+    "options": [
+      "4.5%",
+      "9%",
+      "0.9%",
+      "1.3%"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0032",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Who made the first chocolate bar?",
+    "options": [
+      "Hershey",
+      "Mars",
+      "Nestle",
+      "J. S. Fry Sons"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0033",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "In which American city is the fast-food restaurants chain McDonalds incorporated?",
+    "options": [
+      "San Bernardino, California",
+      "Arcadia, California",
+      "Phoenix, Arizona",
+      "Oak Brook, Illinois"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0034",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "What term means fear of fish?",
+    "options": [
+      "Iophobia",
+      "Ichthyophobia",
+      "Ideophobia",
+      "Iatrophobia"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0035",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "What is the basic chemical compound that table salt is composed of?",
+    "options": [
+      "Sodium bicarbonate",
+      "Calcium carbonate",
+      "Sodium chloride",
+      "Potassium iodide"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0036",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What chemical is added to table salt in some European countries to prevent tooth decay?",
+    "options": [
+      "Calcium sulfate",
+      "Potassium carbonate",
+      "Sodium nitrate",
+      "Sodium fluoride"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0037",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "Potassium iodide, sodium iodide, or sodium iodate are added to table salt in order to prevent iodine deficiency. What health problems does iodine deficiency cause?",
+    "options": [
+      "Thyroid gland disorders",
+      "Skin and bone disorders",
+      "Cardiovascular problems",
+      "Adrenal gland malfunction"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0038",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What is the daily salt intake recommended by the Scientific Advisory Committee on Nutrition for the United Kingdom?",
+    "options": [
+      "1 gram",
+      "4 grams",
+      "6 grams",
+      "2.5 grams"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0039",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "The Don Paz passenger ferry was on its way to what island in 1987 when it collided with an oil tanker?",
+    "options": [
+      "Jamaica",
+      "Thailand",
+      "Philippines",
+      "Singapore"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0040",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "A farmer and his son are working together. The farmer is carrying one sack of grain and the son is carrying two sacks. Who was carrying the heavier load- the son or the father?",
+    "options": [
+      "the son",
+      "They werent carrying anything.",
+      "the same amount",
+      "the father"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0041",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "What was the first meal eaten on the moon?",
+    "options": [
+      "Bacon, sugar cookies and peaches",
+      "Tang, chicken breast, and ice cream",
+      "Tang, rib roast, peas and carrots, and sugar cookies",
+      "Milk, eggs with cheese, and blueberries"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0042",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Who does Ken accidentally kill instead of the witness in the 1988 comedy movie A Fish Called Wanda?",
+    "options": [
+      "A whale",
+      "Three dogs",
+      "His mother",
+      "Wanda"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0043",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What popular female singer and actress played Elsa Morganthall Strauss-Almerson in the 1999 movie Tea with Mussolini?",
+    "options": [
+      "Tina Turner",
+      "Barbra Streisand",
+      "Cher",
+      "Madonna"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0044",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What kind of movie is the 1988 British film The Fruit Machine, also known as Wonderland in the United States?",
+    "options": [
+      "Comedy movie",
+      "Animated movie",
+      "A biographical account",
+      "Thriller movie"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0045",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What Academy Award did the 1962 movie Days of Wine and Roses, directed by Blake Edwards, win in 1963?",
+    "options": [
+      "Best Original Song",
+      "Best Art Direction",
+      "Best Actress",
+      "Best Actor"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0046",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "What is the special prize that will be given to one of the golden ticket holders in the 2005 movie Charlie and the Chocolate Factory?",
+    "options": [
+      "A chocolate statue",
+      "They will inherit the factory.",
+      "A life supply of chocolate",
+      "Eternal life"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0047",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Retsina, sometimes referred to as the wine of the Gods, is produced in which country?",
+    "options": [
+      "France",
+      "Germany",
+      "Greece",
+      "Italy"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0048",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "The Polish food specialties, oscypek and bryndza are what type of food?",
+    "options": [
+      "Cakes",
+      "Salads",
+      "Soups",
+      "Cheeses"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0049",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Who invented a process to remove caffeine from coffee for the first time?",
+    "options": [
+      "Roselius and Wimmer",
+      "Rostand and Martin",
+      "Nestle and Sanders",
+      "Banting and Best"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0050",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "A specimen from which of these species was listed in the Guinness Book of World Records as the longest bony fish alive?",
+    "options": [
+      "Blue whale",
+      "Oarfish",
+      "Whale shark",
+      "Bluefin tuna"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0051",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What other name is commonly used to refer to sweet and sour sauce in China?",
+    "options": [
+      "The red delight",
+      "Woman and man sauce",
+      "The peoples sauce",
+      "The two opposites in one"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0052",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "What do these people have in common: both Presidents Bush, actor James Spader, actor Jack Lemmon, actor Humphrey Bogart and writer Edgar Rice Burroughs?",
+    "options": [
+      "They are the same Zodiac sign.",
+      "They were all born in the same month.",
+      "They all were in Texas on 9/11/2001.",
+      "They all went to the same high school."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0053",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "I ran to my room and my daughter brought me a bowl of vegetable soup, but I couldnt eat it due to my phagophobia. What was I afraid of?",
+    "options": [
+      "Swallowing",
+      "Hot objects",
+      "Celery",
+      "Liquids"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0054",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which is the only US state famous for producing limburger cheese in the Chalet Cheese Co-op factory?",
+    "options": [
+      "Ohio",
+      "Wisconsin",
+      "New York",
+      "Minnessota"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0055",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which of these is best for cooling your mouth if you have just eaten very spicy food?",
+    "options": [
+      "Red wine",
+      "White wine",
+      "Milk",
+      "Water"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0056",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Pigs are known for their ability to smell what food really well?",
+    "options": [
+      "Carrots",
+      "Potatoes",
+      "Peanuts",
+      "Truffles"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0057",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which group recorded the hit single Sugar Daddy in 1971?",
+    "options": [
+      "Jackson 5",
+      "Bread",
+      "Journey",
+      "The Mamas and the Papas"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0058",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What is the name of the second most important vegetable fibre after cotton that is woven to make coarse cloth and sacks?",
+    "options": [
+      "Jade",
+      "Jute",
+      "Jet",
+      "Juniper"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0059",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "In the sitcom Cheers what was the name of the restaurant that sat above the bar?",
+    "options": [
+      "Melvins",
+      "Mickeys",
+      "Melvilles",
+      "Minnies"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0060",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What is the name used for black tea in Chinese, Korean and Japanese languages?",
+    "options": [
+      "Grey tea",
+      "Brown tea",
+      "Purple tea",
+      "Crimson tea"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0061",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What is the most important ingredient for preparing brownies, a type of American dessert?",
+    "options": [
+      "Chocolate",
+      "Molasses",
+      "Coffee",
+      "Brown sugar"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0062",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Your friends favorite breakfast is a shingle with shimmy and shake, squeeze one. What does he like to eat for breakfast?",
+    "options": [
+      "Short stack of pancakes and instant coffee",
+      "Buttered toast with jam and orange juice",
+      "Link sausage, toast and juice",
+      "French toast and apple juice"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0063",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "The first sales of the Coca Cola drink were made at Jacobs Pharmacy in Atlanta, Georgia, in what year?",
+    "options": [
+      "1798",
+      "1900",
+      "1886",
+      "1800"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0064",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "Boza is a thick, fermented beverage with a sweet and sour taste. It is made from millet seed and various astringent substances and was invented in which country?",
+    "options": [
+      "Macedonia",
+      "Bulgaria",
+      "Greece",
+      "Turkey"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0065",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "What meat does a proper Irish breakfast usually include?",
+    "options": [
+      "Pork",
+      "Beef",
+      "It does not include meat.",
+      "Chicken"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0066",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What dish is traditionally served for breakfast in Cambodia, Thailand and Vietnam?",
+    "options": [
+      "Pork chops",
+      "Soup",
+      "Fish",
+      "Fried potatoes"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0067",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "The popular breakfast cereal dish muesli was invented in 1900 in which country?",
+    "options": [
+      "Sweden",
+      "Turkey",
+      "Switzerland",
+      "Ireland"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0068",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "The traditional Malayan breakfast dish Nasi lemak includes soaking rice in what?",
+    "options": [
+      "Cow milk",
+      "Green tea",
+      "Coffee",
+      "Coconut cream"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0069",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Besides flour and milk, what is the third essential ingredient of the batter for pancakes in the UK?",
+    "options": [
+      "Eggs",
+      "Lemon",
+      "Jam",
+      "Sugar"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0070",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "The title of Kurt Vonneguts book Breakfast of Champions is also the slogan of what famous American breakfast cereal?",
+    "options": [
+      "Cheerios",
+      "Wheaties",
+      "Krispies",
+      "Honey Bunches of Oats"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0071",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "The carbonated beverage Fanta is a product of which company?",
+    "options": [
+      "Pepsi",
+      "Independently owned and operated",
+      "Coca-Cola Bottling Co.",
+      "Royal Crown (RC)"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0072",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "The special Fanta flavour in Romania, based on a traditional local drink made from elderflower, is called by what name?",
+    "options": [
+      "Fanta Amanta",
+      "Fanta Roma",
+      "Fanta Eldera",
+      "Fanta Shokata"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0073",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What soft drink brand has the same name as a Native American tribe of Northern California?",
+    "options": [
+      "Shasta",
+      "Pespi",
+      "Coca-Cola",
+      "RC Cola"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0074",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "What type of food is Pancetta?",
+    "options": [
+      "sausage",
+      "bacon",
+      "small pepper",
+      "milk"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0075",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Who built the first restaurant from the McDonalds chain, one of the worlds largest chains of fast-food restaurants?",
+    "options": [
+      "The U. S. meatpackers conglomerate",
+      "Ray Kroc",
+      "The MacDonald brothers",
+      "Dave Thomas"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0076",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "The fish taco is generally cooked by what method?",
+    "options": [
+      "Poaching",
+      "Baking",
+      "Broiling",
+      "Frying"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0077",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Stilton is a cheese which originated in which country?",
+    "options": [
+      "England",
+      "The Netherlands",
+      "France",
+      "Switzerland"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0078",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Oregano is a spicy perennial herb, particularly common to which region in Europe?",
+    "options": [
+      "The North Region",
+      "The Mediterranean Region",
+      "The Arabic Region",
+      "The Baltic Region"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0079",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which of these dishes is a traditional Mexican dish, prepared out of a tortilla dipped in a sauce, containing peppers?",
+    "options": [
+      "Polenta",
+      "Jambalaya",
+      "Enchilada",
+      "Baccala"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0080",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Which of these is a French dish, whose main ingredients are veal, onions and mushrooms?",
+    "options": [
+      "Pot-au-feu",
+      "Souffle",
+      "Coq au Vin",
+      "Blanquette de veau"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0081",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "How does chocolate affect blood cholesterol levels?",
+    "options": [
+      "It raises only HDL (good cholesterol)",
+      "It raises both LDL (bad cholesterol) and HDL(good cholesterol)",
+      "It lowers only HDL (good cholesterol)",
+      "It raises only LDL (bad cholesterol)"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0082",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "What is the quantity of caffeine in an average chocolate?",
+    "options": [
+      "as much as in a glass of coke",
+      "as much as in a cup of decaffeinated coffee",
+      "as much as in a cup of tea",
+      "as much as in a cup of coffee"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0083",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which type of chocolate is richest in fat?",
+    "options": [
+      "Baking Chocolate",
+      "Semisweet",
+      "Unsweetened",
+      "Bittersweet"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0084",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What was the name that Aztecs and Mayas gave to the drink they produced from cocoa beans?",
+    "options": [
+      "Theobroma",
+      "Gianduja",
+      "Carraque",
+      "Xocoatl"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0085",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "The scientific name of the evergreen tree cacao, the source of cocoa and chocolate, is Theobroma Cacao. What does ‘Theobroma’ mean in Greek?",
+    "options": [
+      "‘food of the gods’",
+      "‘forbidden by the gods’",
+      "‘curse of the gods’",
+      "‘made by the gods’"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0086",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "Before raw, unprocessed chocolate becomes suitable for eating, It has to be stirred and kneaded using equipment with rollers, in a process called what?",
+    "options": [
+      "Sparging",
+      "Conching",
+      "Molding",
+      "Mashing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0087",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "What was the original mascot for the Cookie Crisp cereal?",
+    "options": [
+      "an animated cookie",
+      "a bear",
+      "a wizard",
+      "a masked man"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0088",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Elvis Presley, who was keen on Peanut Butter and Banana sandwiches, passed away in what year?",
+    "options": [
+      "1976",
+      "1979",
+      "1978",
+      "1977"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0089",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "The first industrial production of cheese in the world started in 1815, in which country?",
+    "options": [
+      "Switzerland",
+      "France",
+      "Denmark",
+      "Austria"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0090",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "The traditional Czech farmhouse hard cheese, made in Karlovy Vary, is known by what name?",
+    "options": [
+      "Brie",
+      "Abertam",
+      "Goutu",
+      "Ambert"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0091",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which of the following cheeses is a hard cheese?",
+    "options": [
+      "La Vache Qui Rit",
+      "Formaggio di capra",
+      "Emmental",
+      "Lyonnais"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0092",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "In 1666 the first legal document to mention cheese was issued in Toulouse and it referred to what sort of cheese?",
+    "options": [
+      "Gouda",
+      "Fromage Frais",
+      "Brie",
+      "Roquefort"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0093",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "The first TV commercial for cheese was aired in 1968 for which sort of French cheese?",
+    "options": [
+      "Boursin",
+      "La Vache Qui Rit",
+      "Roquefort",
+      "Fromage de Montagne de Savoie"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0094",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Airag is a Turkish semi-soft cheese made from what milk?",
+    "options": [
+      "Cow milk",
+      "Mare milk",
+      "Yak milk",
+      "Goat milk"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0095",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "The Juustoleipa cheese, traditionally made from reindeer milk, is typical of which region in Europe?",
+    "options": [
+      "Italy and Switzerland",
+      "Bulgaria and Macedonia",
+      "Finland and Lapland",
+      "France and Switzerland"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0096",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "In 1536 cheese-makers in Veneto, Italy, created the oldest precedent of falsification by trying to make what cheese?",
+    "options": [
+      "Kashkaval",
+      "Gouda",
+      "Brie",
+      "Parmesan"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "food-0097",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "Mascarpone is a vegetarian Italian cheese, traditionally included in the recipe for what layered dessert?",
+    "options": [
+      "Tiramisu",
+      "Semlor",
+      "Pepparkakor",
+      "Aebleflaesk"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0098",
+    "category": "Food",
+    "difficulty": "medium",
+    "question": "What do you call an Austrian dessert that is a sweet almond paste dipped in chocolate?",
+    "options": [
+      "Heiße Schokolade",
+      "Marzipan",
+      "Apfelstrudel",
+      "Sachertorte"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0099",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "What Greek cheese is made of 70% ewes and 30% goats milk?",
+    "options": [
+      "Myzithra",
+      "Metsovone",
+      "Feta",
+      "Kasseri"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "food-0100",
+    "category": "Food",
+    "difficulty": "hard",
+    "question": "Risotto is made with special kinds of rice and is traditionally served with fish products or cheese. What country does this dish come from?",
+    "options": [
+      "Portugal",
+      "Greece",
+      "Spain",
+      "Italy"
+    ],
+    "answerIndex": 3
   }
 ]

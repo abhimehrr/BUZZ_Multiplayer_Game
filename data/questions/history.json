@@ -37,5 +37,1266 @@
       "Latin"
     ],
     "answerIndex": 3
+  },
+  {
+    "id": "hist-0004",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Three of the following movies are produced by 20th Century Fox. Which is the odd one?",
+    "options": [
+      "Cast Away",
+      "House of Wax",
+      "Me, Myself Irene",
+      "Dr. Dolittle 2"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0005",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "When did the famous American crooner Nat King Cole and his daughter Natalie Cole record their hit song, Unforgettable”?",
+    "options": [
+      "The date was never officially revealed",
+      "in 1990",
+      "Never",
+      "in 1989"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0006",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "In ancient times, which stone was believed to protect from drunkenness?",
+    "options": [
+      "ruby",
+      "onyx",
+      "emerald",
+      "amethyst"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0007",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "King John Sobieski of Poland saved Vienna from Ottoman invaders. In his honor something new was invented. What was it ?",
+    "options": [
+      "The bagel",
+      "The Polish saddle",
+      "The epee",
+      "Heeled boots"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0008",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which President ended Reconstruction ?",
+    "options": [
+      "Arthur",
+      "Hayes",
+      "Garfield",
+      "Grant"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0009",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "King Edward VIII abdicated the English throne for the woman I love. He later became the Gouverneur of what land ?",
+    "options": [
+      "Jamaica",
+      "Barbados",
+      "The Bahamas",
+      "Fiji"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0010",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which famous 19th century author had the pen-name Boz?",
+    "options": [
+      "Mark Twain",
+      "Daniel Defoe",
+      "Bozzie Haversham",
+      "Charles Dickens"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0011",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which of these actions has remained in history as the first official act of President Abraham Lincolns new administration?",
+    "options": [
+      "Hiring a secretary named Nicolay",
+      "Giving Winfield Scott command of the US Army",
+      "Hiring a secretary named Kennedy",
+      "Abolishing slavery"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0012",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which royal abode has had visitations from the ghosts of Thomas Becket, Anne Boleyn, King Henry VIII and Lady Jane Grey amongst many others (including a bear)?",
+    "options": [
+      "Buckingham Palace",
+      "The Tower of London",
+      "Windsor Castle",
+      "Sandringham"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0013",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which famous hoax of the early twentieth century fooled many including Sir Arthur Conan Doyle?",
+    "options": [
+      "The Amherst haunting.",
+      "The Cock Lane ghost.",
+      "The Cottingley Fairies.",
+      "Will-o-the-Wisp"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0014",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What make of pistol did actor and Southern sympathizer John Wilkes Booth use to kill President Lincoln?",
+    "options": [
+      "Colt",
+      "Winchester",
+      "Smith and Wesson",
+      "Derringer"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0015",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which U.S. president had the first bowling alley put in the White House?",
+    "options": [
+      "Truman",
+      "Eisenhower",
+      "Taft",
+      "Nixon"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0016",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which US President was nicknamed Young Hickory?",
+    "options": [
+      "Taylor",
+      "Polk",
+      "Martin Van Buren",
+      "Jackson"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0017",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the only US President to have never married?",
+    "options": [
+      "Cleveland",
+      "Taft",
+      "Buchanan",
+      "McKinley"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0018",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "What award was given to President George W. Bush in 2004?",
+    "options": [
+      "The Stillman Award for Leadership",
+      "The Thurbridge Award for Freedom",
+      "The Hendley Award for Great Americans",
+      "The Raspberry Award for worst leading actor"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0019",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In what year did President Franklin Roosevelt give the approval for dropping the first atom bomb on Japan?",
+    "options": [
+      "He never did",
+      "1946",
+      "1944",
+      "1945"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0020",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Woodrow Wilson (the USA), Georges Clemenceau (France) and David Lloyd George (Great Britain) signed a treaty of global importance. Which was the treaty?",
+    "options": [
+      "Treaty of Brest-Litovsk",
+      "Treaty of Versailles",
+      "Treaty of Berlin",
+      "Treaty of San Stefano"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0021",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the first US President to die while in office?",
+    "options": [
+      "John Tyler",
+      "Andrew Jackson",
+      "William Henry Harrison",
+      "Martin Van Buren"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0022",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the 39th President of the United States?",
+    "options": [
+      "Ronald Reagan",
+      "Richard Nixon",
+      "Bill Clinton",
+      "Jimmy Carter"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0023",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the first U.S. President born in the USA?",
+    "options": [
+      "Van Buren",
+      "Madison",
+      "Washington",
+      "John Adams"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0024",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which group of ancient people used a system of strings and knots rather than words, to record their history?",
+    "options": [
+      "The Edomites",
+      "The Incas",
+      "The Celts",
+      "The Mayans"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0025",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the first US President with no middle name?",
+    "options": [
+      "Thomas Jefferson",
+      "Jimmy Carter",
+      "George Washington",
+      "John Adams"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0026",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "In 2005, there was a Burger King commercial for the Tendercrisp Bacon Cheddar Ranch sandwich that featured the lead singer of a famous band. Which band was Darius Rucker in?",
+    "options": [
+      "Pearl Jam",
+      "Mike and the Mechanics",
+      "King Crimson",
+      "Hootie and the Blowfish"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0027",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In English medieval castles and houses, what room was usually called solar room?",
+    "options": [
+      "A room for solitary activities",
+      "A room where the family gathered for dinner",
+      "A room where food was stored",
+      "A room designed for sunbathing"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0028",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "King Richard III killed his two nephews, which were later reported to have been seen as ghosts. What were their names?",
+    "options": [
+      "Michael of Knottinghamm and Richard of Shrewsbury",
+      "Edward V of England and Richard of Shrewsbury",
+      "Edward the V of England and Michael of Knottinghamm",
+      "Edward of Shrewsbury and Richard the V of England"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0029",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "The Lamian Gardens of Rome are often claimed to be haunted by the ghost of the Roman Emperor Caligula, who died in what way?",
+    "options": [
+      "Poisoning",
+      "Natural causes",
+      "Assassination",
+      "Suicide"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0030",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "How did the alien invasion in Herbert Wells well-known science fiction novel, The War of the Worlds eventually come to a halt?",
+    "options": [
+      "Aliens and humans reached an agreement to coexist on Earth.",
+      "All nations united and together, repelled the invasion.",
+      "The alien invaders took possession of Earth.",
+      "The aliens were unexpectedly killed by a terrestrial disease."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0031",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which English king was born in Pembroke Castle, Wales in 1457?",
+    "options": [
+      "Henry VII",
+      "Henry VIII",
+      "Henry I",
+      "Henry IV"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0032",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which U.S. President attempted to purchase Cuba from Spain?",
+    "options": [
+      "Tyler",
+      "Pierce",
+      "Taylor",
+      "Johnson"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0033",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who is the only President who had a patent?",
+    "options": [
+      "Washington",
+      "Jefferson",
+      "Lincoln",
+      "Hoover"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0034",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which US President invented the baseball seventh inning stretch?",
+    "options": [
+      "Hoover",
+      "Wilson",
+      "Harding",
+      "Taft"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0035",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who was Vice President under President Dwight D. Eisenhower, when the Alaska Statehood Act was signed?",
+    "options": [
+      "Richard Nixon",
+      "John L Truman",
+      "Nelson A Rockafeller",
+      "Brian V Mitchell"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0036",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "The Boeing 747 project was bankrolled by the President of an airline company, when in 1965 a downpayment of $250,000,000 was made. Which was the airline company?",
+    "options": [
+      "United",
+      "Pan American",
+      "Delta",
+      "American Airlines"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0037",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What do Ronald Reagan, King Henry VIII, Charles Lindbergh, Jerry Stiller, Mel Brooks, and William Shakespeare have in common?",
+    "options": [
+      "Each can trace his genealogy to Germany.",
+      "Each had a sibling named Jane.",
+      "Each was married to a woman named Anne.",
+      "Each one was born in a year ending in a 9."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0038",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who is the second US president?",
+    "options": [
+      "Thomas Jefferson",
+      "James Monroe",
+      "Martin Van Buren",
+      "John Adams"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0039",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Former Emperor of Japan, Hirohito, was considered an expert in which of these subjects?",
+    "options": [
+      "Marine biology",
+      "Linguistics",
+      "Poetry",
+      "Astronomy"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0040",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who lost the Battle of Marathon?",
+    "options": [
+      "Parimedes",
+      "Darius I",
+      "Xerces I",
+      "Cyrus I"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0041",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Why was the battle of Huai-Hai so important in world history?",
+    "options": [
+      "It was the final battle that drove Japan out of China in WWII",
+      "It was the battle that gave control of China to the Mongols",
+      "It was the last major battle between Chinese Communists and Chinese Nationalists",
+      "It was the last major Chinese-aided attack of the Vietnam War"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0042",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Towards the beginning of the new millennium, who was the oldest person elected US President?",
+    "options": [
+      "John Adams",
+      "William H. Taft",
+      "G. Herbert Bush",
+      "Reagan"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0043",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "The Potemkin Villages were fake settlements, erected at the direction of Russian minister Grigori Potemkin, to impress which monarch?",
+    "options": [
+      "Catherine the Great",
+      "Peter the Great",
+      "Louis XVI",
+      "Louis XIV"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0044",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which ancient language is often referred to as the the mother of all languages?",
+    "options": [
+      "Hebrew",
+      "Sanskrit",
+      "Tamil",
+      "Latin"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0045",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which of these commercial organisations was founded in 1947?",
+    "options": [
+      "Intel",
+      "Microsoft",
+      "Indian Railways",
+      "China Petroleum"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0046",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "When was the first major use of tanks in a battle?",
+    "options": [
+      "World War I - Nov 20, 1914",
+      "World War I - Nov 20, 1918",
+      "World War II - 1941",
+      "World War I - Nov 20, 1917"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0047",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "The 19th century saw the rise of the ghost story among acclaimed Victorian authors. Which of the following cannot be considered a work of supernatural fiction?",
+    "options": [
+      "The Luck of Barry Lyndon by William Makepeace Thackeray",
+      "The Canterville Ghost by Oscar Wilde",
+      "The Turn of the Screw by Henry James",
+      "A Christmas Carol by Charles Dickens"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0048",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "What first full admiral of the Navy, uttered the famous phrase, Damn the torpedoes, full speed ahead!, during the American Civil War at the Battle of Mobile Bay?",
+    "options": [
+      "Oliver Hazard Perry",
+      "David Farragut",
+      "John Paul Jones",
+      "Stephen Decatur"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0049",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "What is the full name of the 33rd US President?",
+    "options": [
+      "Harry Simpson Truman",
+      "Harry Simon Truman",
+      "Harry S. Truman",
+      "Harry Shine Truman"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0050",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which novel by Scottish writer Robert Louis Stevenson is set during the War of the Roses?",
+    "options": [
+      "The Master of Ballantrae",
+      "Strange Case of Dr Jekyll and Mr Hyde",
+      "Treasure Island",
+      "The Black Arrow"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0051",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which of Johann Strauss Is sons became known as The Waltz King and was instrumental in popularizing the waltz in Vienna during the 19th century?",
+    "options": [
+      "Johan Strauss II",
+      "Josef Strauss",
+      "Ferdinand Strauss",
+      "Eduard Strauss"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0052",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "We get the word boycott from the name of Charles C. Boycott, a terrible landlord of the 19th Century. Where did he own land?",
+    "options": [
+      "Scotland",
+      "Ireland",
+      "Massachusetts",
+      "England"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0053",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "What was the first nation to field a battle tank?",
+    "options": [
+      "Germany",
+      "Austria-Hungary",
+      "Britain",
+      "The USA"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0054",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "The First Inauguration of a US President included saying the phrase, So help me God, and kissing the Bible after taking the oath. Who was the President that set the precedent?",
+    "options": [
+      "Thomas Jefferson",
+      "Andrew Jackson",
+      "James Madison",
+      "George Washington"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0055",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Natale Cole is the daughter of Nat King Cole. Who was her famous grandfather?",
+    "options": [
+      "Duke Ellington",
+      "Count Basie",
+      "Roger Coles",
+      "Terry Coles"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0056",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the second US President to face impeachment?",
+    "options": [
+      "Andrew Johnson",
+      "William Clinton",
+      "William Blount",
+      "Richard Nixon"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0057",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the second Republican US President?",
+    "options": [
+      "Abraham Lincoln",
+      "Rutherford B. Hayes",
+      "Ulysses Grant",
+      "Andrew Johnson"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0058",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the fourth US president?",
+    "options": [
+      "Thomas Jefferson",
+      "John Quincy Adams",
+      "James Monroe",
+      "James Madison"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0059",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What Greek mythological hero eloped with King Menelaus wife, Helen, thus prompting the Trojan War?",
+    "options": [
+      "Paris",
+      "Priam",
+      "Hector",
+      "Achilles"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0060",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "What did the Treaty of Maastricht result in?",
+    "options": [
+      "The United Nations was established.",
+      "The European Union was set up.",
+      "The Hundreds Year War ended.",
+      "World War II formally ended in Europe."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0061",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "In what century was the word pink used for the first time?",
+    "options": [
+      "18th century",
+      "19th century",
+      "17th century",
+      "16th century"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0062",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Under which US President were the Barbary Wars fought?",
+    "options": [
+      "William McKinley",
+      "James K. Polk",
+      "Teddy Roosevelt",
+      "Thomas Jefferson"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0063",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In 64 AD there were terrible fires in Rome. Which Roman Emperor was busy playing his fiddle while the fires were burning?",
+    "options": [
+      "None of the Emperors",
+      "Vespasian",
+      "Caligula",
+      "Nero"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0064",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Cardinal Richelieu, the bad guy in many of the works of Dumas, was a brilliant minister for which king?",
+    "options": [
+      "Louis XIV",
+      "Louis XIII",
+      "Louis XVI",
+      "Louis XV"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0065",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Oliver Queen, who is married to Black Canary, is one of the finest archers ever. Who is his alter ego?",
+    "options": [
+      "The Archer",
+      "Archer Man",
+      "Green Arrow",
+      "Green Lantern"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0066",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "On March 19 2008 President Bushs approval rates were 31% and 69%. What were his chances of winning the 2008 presidential race?",
+    "options": [
+      "31%",
+      "69%",
+      "50%",
+      "0%"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0067",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who was the first US President to have vetoed over 600 pieces of legislation?",
+    "options": [
+      "Franklin Delano Roosevelt",
+      "Richard M. Nixon",
+      "Andrew Jackson",
+      "Andrew Johnson"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0068",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which President of the United States does Anthony Hopkins portray in Steven Spielbergs historical drama Amistad?",
+    "options": [
+      "Abraham Lincoln",
+      "John Quincy Adams",
+      "Martin Van Buren",
+      "John Adams"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0069",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What song composed by Elton John for the movie The Lion King won the 1994 Academy Award for Best Original Song?",
+    "options": [
+      "Youll Be in My Heart",
+      "Circle of Life",
+      "Can You Feel the Love Tonight",
+      "I Just Cant Wait to Be King"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0070",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Leo the Lion is the mascot of what Hollywood film studio, founded in 1924?",
+    "options": [
+      "Warner Bros.",
+      "Dreamworks",
+      "Paramount Pictures",
+      "MGM"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0071",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What King of England was nicknamed the Lionheart because of his reputation as a brave military leader and warrior?",
+    "options": [
+      "Richard I of England",
+      "Richard III of England",
+      "Henry II of England",
+      "William I of England"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0072",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What historical drama, set during Christmas 1183, stars Peter OToole as King Henry II and Katharine Hepburn as Queen Eleanor?",
+    "options": [
+      "The Young Lions",
+      "The Lion in Winter",
+      "The Wind and the Lion",
+      "Lion of the Desert"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0073",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What title did Sarah Ferguson assume upon marrying Queen Elizabeth IIs second son, Prince Andrew?",
+    "options": [
+      "Duchess of Edinburgh",
+      "Princess Royal",
+      "Duchess of York",
+      "Princess of York"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0074",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "What actor depicted King Xerxes in the 2007 American action movie 300?",
+    "options": [
+      "David Wenham",
+      "Dominic West",
+      "Gerard Butler",
+      "Rodrigo Santoro"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0075",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the British ruler at the time of the American Revolution?",
+    "options": [
+      "George III",
+      "George II",
+      "George I",
+      "Henry VIII"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0076",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which United States President related a story about a murderous Bigfoot in a Wilderness Magazine?",
+    "options": [
+      "Billy Carter",
+      "Teddy Roosevelt",
+      "U.S. Grant",
+      "Harry Truman"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0077",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "How many men held the title King of England in 1936?",
+    "options": [
+      "1 - George V",
+      "2 - Albert II and George VI",
+      "3 - George V, Edward VIII, and George VI",
+      "0 - There was a queen"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0078",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "In historical atlases published in Germany, Germany is traditionally painted in light blue. What color is traditionally used for England?",
+    "options": [
+      "Yellow",
+      "Green",
+      "Purple",
+      "Pink"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0079",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "How did Jane Seymour, wife of King Henry VIII of England, die in 1537?",
+    "options": [
+      "Of natural causes",
+      "She was poisoned.",
+      "She committed suicide.",
+      "She was executed."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0080",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Lady Jane Grey was the uncrowned Queen of England for what period of time in 1553?",
+    "options": [
+      "One day",
+      "Nine days",
+      "One month",
+      "Fifteen days"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0081",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What did United States President Ronald Reagan say on the radio during a voice check on August 11, 1984?",
+    "options": [
+      "I must tell you, Im wearing white-red-and-blue underpants today.",
+      "I wanna tell my mama I love her.",
+      "We begin bombing in five minutes.",
+      "Wait, do I speak now? Is this thing on?"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0082",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What actor portrayed rebellious slave Spartacus in Stanley Kubricks 1960 historical movie Spartacus?",
+    "options": [
+      "Laurence Olivier",
+      "Tony Curtis",
+      "Omar Sharif",
+      "Kirk Douglas"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0083",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What German car make, founded in 1931, is famous for its high performance luxury automobiles?",
+    "options": [
+      "Porsche",
+      "Volkswagen",
+      "Mercedes-Benz",
+      "BMW"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0084",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "The Opel company was founded in 1863 and began making cars in 1899. What was the first name of its founder Opel?",
+    "options": [
+      "Heinrich",
+      "Adam",
+      "Ludwig",
+      "Friedrich"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0085",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which actor plays a 121 years old character who tells a news reporter about his life with the Indians and the battle of Little Big Horn?",
+    "options": [
+      "Robert Duvall",
+      "Sir Laurence Olivier",
+      "Dustin Hoffman",
+      "Gene Hackman"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0086",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "John Adams was the second President of the United States. Who was the second Vice-President of the United States?",
+    "options": [
+      "Ben Franklin",
+      "John Quincy Adams",
+      "John Hancock",
+      "Thomas Jefferson"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0087",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who was the only American President to be elected to office in the Confederacy ?",
+    "options": [
+      "John Tyler",
+      "Zachary Taylor",
+      "Andrew Jackson",
+      "Millard Fillmore"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0088",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What was the location of the final battle of the First Indo-China War between France and Vietnam?",
+    "options": [
+      "Dien Phu Wei",
+      "Dien Bien Phu",
+      "Dien Thu",
+      "Dien Tet Hue"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0089",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What do these people have in common: Star Jones, Randy Jackson, President Dwight David Eisenhower, Carnie Wilson, Diego Maradona?",
+    "options": [
+      "They have all been cited by the UN for their work with UNICEF.",
+      "They have all appeared on the long running BBC show Leaders of Our Times.",
+      "They have all had gastric bypass surgery.",
+      "They have all received he Legiondaire Grand Award."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0090",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the first vice president from the Republican Party?",
+    "options": [
+      "Thomas Jefferson",
+      "John Adams",
+      "John Tyler",
+      "Hannibal Hamlin"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0091",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "The word diamond comes from the ancient Greek word “adamas” meaning what translated in English?",
+    "options": [
+      "Invincible",
+      "Everlasting",
+      "Brilliant",
+      "Powerful"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0092",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which US President signed the law, which established the Congressional Medal of Honor - the highest military decoration awarded by the United States?",
+    "options": [
+      "Grant",
+      "Lincoln",
+      "A. Johnson",
+      "John Adams"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0093",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What prolific 19th century novelist wrote The Leatherstocking Tales, a series of novels featuring frontiersman Natty Bumppo?",
+    "options": [
+      "James Clavell",
+      "James Flint",
+      "James Fenimore Cooper",
+      "James Ellroy"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0094",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "In which season did ancient Greeks celebrate Mothers Day?",
+    "options": [
+      "Summer",
+      "Winter",
+      "Fall",
+      "Spring"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0095",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "The Pendleton Civil Service Reform Act, which established the United States Civil Service Commission, was drafted during the office of which President?",
+    "options": [
+      "Chester A. Arthur",
+      "Theodore Roosevelt",
+      "Williaam Howard Taft",
+      "Abraham Lincoln"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0096",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Queen Elizabeth II was coronated Queen in 1953. Whom did she directly succeed?",
+    "options": [
+      "George V",
+      "George VI",
+      "Edward VIII",
+      "Elizabeth Bowes-Lyon"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0097",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which of the following political figures was the first to fight a war as President of the United States?",
+    "options": [
+      "Andrew Jackson",
+      "James Monroe",
+      "Thomas Jefferson",
+      "George Washington"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "hist-0098",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which English king had wives called Catherine, Anne, Jane, Anne, Catherine and Catherine, in that order?",
+    "options": [
+      "Charles the Fourth",
+      "Henry the Seventh",
+      "William the Fifth",
+      "Henry the Eighth"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hist-0099",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Why did King Oedipus marry his mother according to the Greek legend?",
+    "options": [
+      "He didnt known she was his mother.",
+      "Because the gods forced him to do it",
+      "Because he fell in love with her",
+      "To keep their riches withing the family"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0100",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "How many landing beaches were there in the 1944 Normandy Invasion, known as Operation Overlord?",
+    "options": [
+      "Six",
+      "Five",
+      "Four",
+      "Three"
+    ],
+    "answerIndex": 1
   }
 ]

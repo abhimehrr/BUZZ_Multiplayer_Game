@@ -37,5 +37,1266 @@
       "Land and Ocean"
     ],
     "answerIndex": 0
+  },
+  {
+    "id": "geo-0004",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What did George Crum invent at the Moon Lake Lodge resort in Saratoga Springs, New York?",
+    "options": [
+      "The potato chips",
+      "The 56K modem",
+      "Bookshelf speakers",
+      "The remote control locator"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0005",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "It has an unemployment rate of 15%. According to the 2000 Census it is the poorest of the 100 largest US Cities. Which city is it?",
+    "options": [
+      "Newark",
+      "Detroit",
+      "New Haven",
+      "Boca Raton"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0006",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "The Yellow River is the second largest river after the Yangtze in what country?",
+    "options": [
+      "Japan",
+      "Australia",
+      "China",
+      "South Africa"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0007",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "The Yellow Sea is connected to what ocean?",
+    "options": [
+      "Indian",
+      "Arctic",
+      "Atlantic",
+      "Pacific"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0008",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Two earthquakes with epicenter in northeast Arkansas, caused landslides and geological changes along the Mississippi River. On what date did these two earthquakes take place?",
+    "options": [
+      "December 16, 1811",
+      "April 27, 1815",
+      "August 12, 1823",
+      "July 23, 1809"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0009",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the largest mountain in the western hemisphere?",
+    "options": [
+      "K2",
+      "Aconcagua",
+      "McKinley",
+      "Pissis"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0010",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the largest city on the worlds largest island?",
+    "options": [
+      "Rabaul",
+      "Frobisher Bay",
+      "Godthaab",
+      "Weser"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0011",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "The 1.5 million square mile area, known as the Bermuda Triangle, has its equivalent in the Pacific ocean. What is it called?",
+    "options": [
+      "Dark Triangle",
+      "Satans Triangle",
+      "Triangle of Death",
+      "Devils Sea"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0012",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Excluding Englands cities, which city built the first subway in Europe?",
+    "options": [
+      "Budapest",
+      "Paris",
+      "Rome",
+      "Barcelona"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0013",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the longest river in Asia Minor?",
+    "options": [
+      "Mekong",
+      "Euphrates",
+      "Tigris",
+      "Ganges"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0014",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "In which city and state was the first motion picture created?",
+    "options": [
+      "Chicago, IL",
+      "Hollywood, CA",
+      "West Orange, NJ",
+      "Alexandria, VA"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0015",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Where is the Henry Ford museum located?",
+    "options": [
+      "Detroit",
+      "Taos",
+      "Dearborn",
+      "Greenfield Village"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0016",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "If I were to visit the wrist-wrestling capital of the world, where would I go?",
+    "options": [
+      "Petaluma, California.",
+      "Sofia, Bulgaria",
+      "Norman, Oklahoma",
+      "Riga, Latvia"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0017",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which is the only US state to have two Ivy League colleges in it ?",
+    "options": [
+      "Connecticut",
+      "New York",
+      "New Jersey",
+      "Massachusetts"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0018",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Who were the legendary founders of the city of Rome?",
+    "options": [
+      "Castor and Pollux",
+      "Damon and Pythias",
+      "Romulus and Remus",
+      "Troilus and Cressida"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0019",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "The Orange River is the longest river in which country?",
+    "options": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Republic of South Africa"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0020",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What city, nicknamed The Mile-High City, is located on the plains east of the Rocky Mountains?",
+    "options": [
+      "Denver, Colorado",
+      "Aurora, Colorado",
+      "Aspen, Colorado",
+      "Phoenix, Arizona"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0021",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What American state, known also as the Silver State, is named after a weather condition?",
+    "options": [
+      "Colorado",
+      "Nevada",
+      "Oklahoma",
+      "Wyoming"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0022",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "The USA owns a territory in the Pacific called The Commonwealth of the Northern Mariana Islands. What is its capital city?",
+    "options": [
+      "Charlotte Amalie",
+      "Pago Pago",
+      "Saipan",
+      "Agana"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0023",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Edaphic deserts can be found on some volcanic islands, in parts of Iceland and on the Colorado plateau in the USA. Which of these most accurately defines an edaphic desert?",
+    "options": [
+      "One that is so cold that nothing can grow",
+      "One that gets less than 2.5 cm of rain a year",
+      "One that has been a desert for at least 1 million years",
+      "One that gets enough rain but still lacks plants"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0024",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Purple is the official color of what Hawaiian Island?",
+    "options": [
+      "Kauai",
+      "Hawaii",
+      "Maui",
+      "Lanai"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0025",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Monticello, meaning small mountain in Italian, is the name of an estate near Charlottesville, Virginia, which belonged to which US President?",
+    "options": [
+      "John Adams",
+      "Thomas Jefferson",
+      "James Madison",
+      "George"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0026",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which state was the first to ratify the Constitution of the United States in 1787?",
+    "options": [
+      "Pennsylvania",
+      "Massachusetts",
+      "Delaware",
+      "Rhode Island"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0027",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which country gave the Statue of Liberty to the United States as a centennial gift?",
+    "options": [
+      "England",
+      "Canada",
+      "Spain",
+      "France"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0028",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the official name of Rhode Island, the 13th US state?",
+    "options": [
+      "The State of Rhode Island and Providence Plantations",
+      "The Commonwealth of Rhode Island",
+      "The State of Rhode Island and Narragansett Bay",
+      "The Commonwealth of Rhode Island and Narragansett Bay"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0029",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the largest city in California?",
+    "options": [
+      "San Diego",
+      "Los Angeles",
+      "Long Beach",
+      "Sacramento"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0030",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "In which country would you find the worlds largest underground lake?",
+    "options": [
+      "Ukraine",
+      "USA (Kentucky)",
+      "USA (Tennessee)",
+      "Poland"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0031",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Of what country is the kiwi bird a national symbol? It is also native to that country.",
+    "options": [
+      "Sumatra",
+      "United Kingdom",
+      "Australia",
+      "New Zealand"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0032",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "In the movie What About Bob?, what does Bob have around his neck when he is riding the bus to Lake Winnipesaukee in New Hampshire ?",
+    "options": [
+      "his goldfish Gil in a jar",
+      "some anti-bacterial soap",
+      "some garlic cloves in a bottle",
+      "his lucky rabbits foot"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0033",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which one of these is the motto of the state of Missouri?",
+    "options": [
+      "Magnus inter opes inops",
+      "Salus populi suprema lex esta",
+      "Pares cum paribus facillime congregantur",
+      "Semper ubi sub ubi"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0034",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Where is the Baseball Hall of Fame located?",
+    "options": [
+      "Canton, OH",
+      "Hoboken, NJ",
+      "Cooperstown, N.Y",
+      "New York, NY"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0035",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which Hall of Fame is located in Cleveland, Ohio?",
+    "options": [
+      "Hockey",
+      "Basketball",
+      "Ohio",
+      "Rock and Roll"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0036",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which Hall of Fame is located in Oklahoma City, Oklahoma ?",
+    "options": [
+      "Cowboy Hall of Fame",
+      "College Football hall of Fame",
+      "Oil Industry Hall of Fame",
+      "Sooner Hall of Fame"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0037",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which Hall of Fame is located in Stillwater, Oklahoma ?",
+    "options": [
+      "American Softball hall of Fame",
+      "National Wrestling Hall of Fame",
+      "National Museum of College Football",
+      "American Track and Field Hall of Fame"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0038",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Where is the Songwriters Hall of Fame located?",
+    "options": [
+      "Chicago, Illinois",
+      "Las Vegas, Nevada",
+      "New York City, NY",
+      "Detroit , Michigan"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0039",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which city hosts the International Clown Hall of Fame?",
+    "options": [
+      "Saratoga, NY",
+      "West Hollywood, CA",
+      "Sarasota, Florida",
+      "West Allis, Wisconsin"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0040",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Where is the Hockey Hall of Fame located?",
+    "options": [
+      "Toronto, Canada",
+      "Colorado Springs, Colorado",
+      "Oklahoma City, Oklahoma",
+      "Goshen, New York"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0041",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Where is the International Tennis Hall of Fame located?",
+    "options": [
+      "New York, NY",
+      "Newport, Rhode Island",
+      "Paris, France",
+      "London, England"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0042",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Where is the Bowling Hall of Fame located?",
+    "options": [
+      "Stroudsberg, PA",
+      "Canastota, NY",
+      "Saint Louis, MO",
+      "Tucson, AZ"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0043",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "The Golden State Warriors of the NBA once traded a player and a draft choice for center, Billy Joel Carroll. Who were the two players they traded?",
+    "options": [
+      "Cliff Hagan and Easy Ed MCCauley",
+      "Dennis Johnson and JoJo White",
+      "Rick Barry and Fred Hetzel",
+      "Robert Parrish and Kevin McHale"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0044",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "USA boycotted the 1980 Summer Olympics held in what city?",
+    "options": [
+      "Moscow",
+      "Tehran",
+      "Prague",
+      "Beijing"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0045",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What country in Southeast Asia changed its name to Myanmar?",
+    "options": [
+      "Ethiopia",
+      "Burma",
+      "Cambodia",
+      "Laos"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0046",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the largest country by area in Africa?",
+    "options": [
+      "South Africa",
+      "Algeria",
+      "Sudan",
+      "Egypt"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0047",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What city did the Indianapolis Colts move from in 1984?",
+    "options": [
+      "Los Angeles",
+      "Boston",
+      "New England",
+      "Baltimore"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0048",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Because of his notable achievements as a poet, writer, and independence movement leader, Jose Marti is considered the greatest hero of which country?",
+    "options": [
+      "Cuba",
+      "Mexico",
+      "Argentina",
+      "Spain"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0049",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "The original name of which city is translated as The Great City of Angels”?",
+    "options": [
+      "Bogotá",
+      "Bangkok",
+      "Vadodara",
+      "Los Angeles"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0050",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "In which US state is the city of Truth or Consequences located?",
+    "options": [
+      "Utah",
+      "Texas",
+      "New Mexico",
+      "Mexico"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0051",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "On what island does King Kong live?",
+    "options": [
+      "The Forbidden Island",
+      "Crater Island",
+      "The Island of no Return",
+      "Skull Island"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0052",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What was the name of Ghana before the country gained its independence?",
+    "options": [
+      "The Gold Coast",
+      "Limpopo",
+      "The Belgian Congo",
+      "Ivory Coast"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0053",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which U.S. President settled the North Western border dispute with Canada and England?",
+    "options": [
+      "Hayes",
+      "Polk",
+      "Mckinley",
+      "Pierce"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0054",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Indian Ink comes from what country?",
+    "options": [
+      "India",
+      "United States",
+      "China",
+      "Japan"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0055",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What contributed to the quick tipping over of the luxury ocean liner in the movie The Poseidon Adventure?",
+    "options": [
+      "Engines were at full power too long so they shut down",
+      "Shelley Winters was too close to the starboard side of the boat",
+      "Not enough speed when the wall of water hit",
+      "There was not enough ballast"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0056",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which was the first country to win two consecutive FIFA World Cups in 1958 and 1962?",
+    "options": [
+      "Brazil",
+      "France",
+      "Italy",
+      "Argentina"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0057",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "The person who developed the popular game Sudoku was from which country?",
+    "options": [
+      "Japan",
+      "Switzerland",
+      "Malaysia",
+      "South Korea"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0058",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "According to the popular song, in what city is the House of the Rising Sun located?",
+    "options": [
+      "Lexington",
+      "Dallas",
+      "New Orleans",
+      "San Francisco"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0059",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What country has a plain green flag?",
+    "options": [
+      "Lithuania",
+      "Ireland",
+      "Dominica",
+      "Libya"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0060",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Buddhism, a religion and philosophy based on the teachings of Siddhārtha Gautama, traces its origins to which country?",
+    "options": [
+      "India",
+      "Thailand",
+      "China",
+      "Taiwan"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0061",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "German-born princess, Sophie Augusta Fredericka of Anhalt-Zerbst, reigned as Empress of what country, from June 28, 1762 until her death?",
+    "options": [
+      "France",
+      "Russia",
+      "England",
+      "Austria"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0062",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "In which of the New York City boroughs is Rockefeller Center situated?",
+    "options": [
+      "Brooklyn",
+      "The Bronx",
+      "Manhattan",
+      "Queens"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0063",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which of these is the nickname of New York City?",
+    "options": [
+      "Bogey and Bacall",
+      "Rockefeller City",
+      "Stock Market City",
+      "The Big Apple"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0064",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Finland?",
+    "options": [
+      "Helsinki",
+      "Malabo",
+      "Prague",
+      "Suva"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0065",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital and largest city of Austria?",
+    "options": [
+      "Canberra",
+      "Vienna",
+      "Sydney",
+      "Stockholm"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0066",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital city of Iceland?",
+    "options": [
+      "Lolymyestic",
+      "Neyjavicik",
+      "Reykjavik",
+      "Leykjastick"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0067",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Where can the Orange River be found ?",
+    "options": [
+      "Turkey",
+      "Canada",
+      "South Asia",
+      "South Africa"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0068",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "In what country does a widow wear purple to mourn her husbands death?",
+    "options": [
+      "Thailand",
+      "United States of America",
+      "Mexico",
+      "Canada"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0069",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "The famous Statue of Liberty lies between New York and New Jersey. Another, much smaller Statue of Liberty of the same shape is located where?",
+    "options": [
+      "Union of South Africa",
+      "Paris",
+      "England",
+      "Canada"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0070",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Elvis Presley, often referred to as the King of Rock and Roll, was born in which southern state?",
+    "options": [
+      "Tennessee",
+      "Alabama",
+      "Mississippi",
+      "North Carolina"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0071",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "The term Jomon refers to a historical period in the development of which country?",
+    "options": [
+      "Egypt",
+      "Brazil",
+      "Greece",
+      "Japan"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0072",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "In which European city is the headquarters of Interpol located?",
+    "options": [
+      "Lyon",
+      "Paris",
+      "Geneva",
+      "London"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0073",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which continent is the island of Madagascar part of?",
+    "options": [
+      "Asia",
+      "Africa",
+      "South America",
+      "Australia"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0074",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "In April 2009, Gjorge Ivanov was elected the 4th President of what country?",
+    "options": [
+      "Republic of the Marshall Islands",
+      "Republic of Palau",
+      "Republic of Macedonia",
+      "Republic of Lithuania"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0075",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "In what US city is the Lincoln Memorial located?",
+    "options": [
+      "Wilmington, DE",
+      "New York, NY",
+      "Louisville, Kentucky",
+      "Washington, DC"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0076",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What does Greshams Law state?",
+    "options": [
+      "Bad money drives good money out of circulation",
+      "Stock prices lower when unemployment reaches over 6%",
+      "The first hot dog you eat is always better than the second",
+      "Every 2% increase in supply lowers demand by 1%"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0077",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "The U.S. Supreme Court ruled in 1972, that capital punishment was unconstitutional. What was the name of the case?",
+    "options": [
+      "Hammer v. Illinois",
+      "Gregg v. Georgia",
+      "Furman v. Florida",
+      "Dagenhart v. Texas"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0078",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Located in the Northwest Territories, what lake empties into the Mackenzie River and is considered the largest lake that is entirely within Canada?",
+    "options": [
+      "Lake Huron",
+      "Lake Superior",
+      "Great Bear Lake",
+      "Great Slave Lake"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0079",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Named after a 19th century British surgeon and anatomist, the Bowmans capsule is located in which organ/s of the human body?",
+    "options": [
+      "Brain",
+      "Lungs",
+      "Pancreas",
+      "Kidneys"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0080",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which of these islands is the largest island in the Mediterranean Sea?",
+    "options": [
+      "Sicily",
+      "Cyprus",
+      "Malta",
+      "Corfu"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0081",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "The movie “To Sir, with Love” stars Sidney Poitier as a teacher confronted with a class of arrogant and provocative students. In what city is the movie set?",
+    "options": [
+      "Liverpool",
+      "London",
+      "New York City",
+      "San Francisco"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0082",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "1919 saw the first general, city-wide strike in the USA. It involved about 35,000 workers. In which city did this strike occur?",
+    "options": [
+      "New York, N.Y.",
+      "Memphis, Tennessee",
+      "Seattle, Washington",
+      "Chicago, Illinois"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0083",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which of the following is an eponym meaning a traitor to his country?",
+    "options": [
+      "A cyrano",
+      "A ruy lopez",
+      "A McCarthy",
+      "A quisling"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0084",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "The Victoria Falls are situated on the Zambezi River, on the border between which two countries?",
+    "options": [
+      "Zambia and Zimbabwe",
+      "Kenya and Tanzania",
+      "Zambia and Zaire",
+      "Tanzania and Zaire"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0085",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "By what name did Marco Polo call the capital of China, present-day Beijing?",
+    "options": [
+      "Nahnjing",
+      "Cambaluc",
+      "Canton",
+      "Peijing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0086",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Who was the first guest star to step off the plane on Fantasy Island?",
+    "options": [
+      "Victoria Principal",
+      "Don Knots",
+      "Bill Bixby",
+      "Roddy McDowell"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0087",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Who is the first State of the Union Address attributed to?",
+    "options": [
+      "John Adams",
+      "James Madison",
+      "Jefferson Thomas",
+      "George Washington"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0088",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the state motto of Rhode Island?",
+    "options": [
+      "Hope",
+      "Forward",
+      "The Union",
+      "Industry"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0089",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "The animals from which group are often called sea cows?",
+    "options": [
+      "Otariidae",
+      "Sirenia",
+      "Enhydra",
+      "Odobenidae"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0090",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which was the first country in the world to constitutionally abolish its army?",
+    "options": [
+      "Gabon",
+      "Estonia",
+      "Costa Rica",
+      "Togo"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0091",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "In what body of water is the island of Malta located?",
+    "options": [
+      "Pacific Ocean",
+      "North Sea",
+      "Atlantic Ocean",
+      "Mediterranean Sea"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0092",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Where is the city of Bahia Blanca located?",
+    "options": [
+      "Argentina",
+      "Colombia",
+      "Dominican Republic",
+      "Micronesia"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0093",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "In which city was Michael Jordans second professional team based?",
+    "options": [
+      "Baltimore",
+      "Chicago",
+      "Charlotte",
+      "Washington"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0094",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "What is the fourth largest city in Canada (after Toronto, Montreal and Vancouver), as measured by metropolitan area according to 2006 estimates?",
+    "options": [
+      "Winnipeg",
+      "Calgary",
+      "Ottawa",
+      "Edmonton"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0095",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which river in China caused a flood of mammoth proportions in 1931?",
+    "options": [
+      "Red",
+      "Pearl",
+      "Tumen",
+      "Yellow"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0096",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What state was affected by the most powerful earthquake recorded in U.S. history prior to 2000?",
+    "options": [
+      "Alaska",
+      "Nebraska",
+      "Texas",
+      "California"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0097",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What European country was affected the worst by the European Heat Wave of 2003?",
+    "options": [
+      "Germany",
+      "France",
+      "Italy",
+      "Spain"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0098",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "The town of Juarez, Mexico is located next to what U.S. city?",
+    "options": [
+      "Laredo, TX",
+      "Sierra Vista, AZ",
+      "El Paso, TX",
+      "San Diego, CA"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "geo-0099",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Michelangelos statue of David is housed in what city?",
+    "options": [
+      "Rome",
+      "Turin",
+      "Vienna",
+      "Florence"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "geo-0100",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "The fictional USS Sea Tiger was captained by Lt. Cmdr. Matt T. Sherman. Who was the first mate?",
+    "options": [
+      "Ens. Stovall",
+      "Lt. Dolores Crandall",
+      "Lt. (j.g.) Nicholas Holden",
+      "Chief Molumphry"
+    ],
+    "answerIndex": 0
   }
 ]

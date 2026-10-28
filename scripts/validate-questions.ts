@@ -10,6 +10,10 @@ const answerDistribution = [0, 0, 0, 0];
 const errors: string[] = [];
 let total = 0;
 
+function normalize(value: string): string {
+  return value.toLocaleLowerCase().replace(/[^\p{L}\p{N} ]/gu, " ").replace(/\s+/g, " ").trim();
+}
+
 for (const file of files) {
   let parsed: unknown;
   try {
@@ -37,7 +41,7 @@ for (const file of files) {
     if (!["easy", "medium", "hard"].includes(String(q.difficulty))) errors.push(`${location}: difficulty must be easy, medium, or hard`);
     if (typeof q.question !== "string" || !q.question.trim()) errors.push(`${location}: question must not be empty`);
     else {
-      const normalized = q.question.trim().toLocaleLowerCase().replace(/\\s+/g, " ");
+      const normalized = normalize(q.question);
       const previous = normalizedQuestions.get(normalized);
       if (previous) errors.push(`${location}: duplicate question text (also in ${previous})`);
       else normalizedQuestions.set(normalized, location);
@@ -45,7 +49,7 @@ for (const file of files) {
     if (!Array.isArray(q.options) || q.options.length !== 4 || q.options.some((option) => typeof option !== "string" || !option.trim())) {
       errors.push(`${location}: options must contain exactly four non-empty strings`);
     } else {
-      const options = (q.options as string[]).map((option) => option.trim().toLocaleLowerCase());
+      const options = (q.options as string[]).map(normalize);
       if (new Set(options).size !== 4) errors.push(`${location}: options must be distinct`);
     }
     if (!Number.isInteger(q.answerIndex) || Number(q.answerIndex) < 0 || Number(q.answerIndex) > 3) errors.push(`${location}: answerIndex must be an integer from 0 to 3`);
@@ -54,11 +58,13 @@ for (const file of files) {
   }
 }
 
+if (total < 1000) errors.push(`question bank must contain at least 1,000 questions; found ${total}`);
+if (Math.max(...answerDistribution) - Math.min(...answerDistribution) > 1) errors.push("correct-answer positions are not evenly distributed");
 console.log(`Validated ${total} question entr${total === 1 ? "y" : "ies"} across ${files.length} file(s).`);
 for (const [category, count] of [...categories].sort(([a], [b]) => a.localeCompare(b))) console.log(`  ${category}: ${count}`);
 console.log(`Answer index distribution: 0=${answerDistribution[0]}, 1=${answerDistribution[1]}, 2=${answerDistribution[2]}, 3=${answerDistribution[3]}`);
 if (errors.length) {
-  console.error(`\\nFound ${errors.length} problem(s):`);
+  console.error(`\nFound ${errors.length} problem(s):`);
   for (const error of errors) console.error(`  - ${error}`);
   process.exitCode = 1;
 } else {
