@@ -106,7 +106,10 @@ function handleEvent(ws: WebSocket, event: ClientEvent) {
     const player = playersByToken.get(event.token);
     const room = player && rooms.get(player.roomCode);
     if (!player || !room || (player.reconnectTimer === undefined && !player.connected)) { fail(ws, "SESSION_EXPIRED", "That reconnect link has expired. Join the room again with its code."); return; }
-    if (player.ws && player.ws !== ws && player.ws.readyState === WebSocket.OPEN) player.ws.close(4000, "Session moved to another connection");
+    if (player.ws && player.ws !== ws && player.ws.readyState === WebSocket.OPEN) {
+      send(player.ws, { type: "SESSION_MOVED", message: "This player session moved to another connection." });
+      player.ws.close(4000, "Session moved to another connection");
+    }
     if (player.reconnectTimer) { clearTimeout(player.reconnectTimer); player.reconnectTimer = undefined; }
     player.connected = true;
     player.ws = ws;
@@ -181,7 +184,8 @@ void app.prepare().then(() => {
       if (!validEvent(value)) { fail(ws, "INVALID_EVENT", "That action is not supported."); return; }
       handleEvent(ws, value);
     });
-    ws.on("close", () => {
+    ws.on("close", (code, reason) => {
+      console.log("[ws] client disconnected", { code, reason: reason.toString() });
       const player = socketPlayers.get(ws);
       if (!player || player.ws !== ws) return;
       const room = rooms.get(player.roomCode);

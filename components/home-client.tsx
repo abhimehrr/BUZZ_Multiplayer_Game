@@ -32,36 +32,85 @@ export default function HomeClient() {
     const queryCode = new URLSearchParams(window.location.search).get("code");
     if (queryCode) setCode(queryCode.slice(0, 4));
     setName(localStorage.getItem(nameKey) ?? "");
+
     const protocol = window.location.protocol === "https:" ? "wss:" : "ws:";
-    let retryDelay = 500;
+    const socketUrl = `${protocol}//${window.location.host}/ws`;
+    let retryDelay = 1_000;
     let retryTimer: number | undefined;
+    let stableTimer: number | undefined;
     let stopped = false;
+
     const connect = () => {
       if (stopped) return;
-      const socket = new WebSocket(`${protocol}//${window.location.host}/ws`);
+      const currentSocket = socketRef.current;
+      if (currentSocket && currentSocket.readyState !== WebSocket.CLOSED) return;
+
+      const socket = new WebSocket(socketUrl);
       socketRef.current = socket;
+
       socket.addEventListener("open", () => {
-        retryDelay = 500;
+        if (socketRef.current !== socket) return;
+        if (retryTimer !== undefined) {
+          window.clearTimeout(retryTimer);
+          retryTimer = undefined;
+        }
         setConnected(true);
         setMessage("");
         const token = localStorage.getItem(tokenKey);
         if (token) socket.send(JSON.stringify({ type: "RECONNECT", token }));
+
+        stableTimer = window.setTimeout(() => {
+          retryDelay = 1_000;
+          stableTimer = undefined;
+        }, 30_000);
       });
-      socket.addEventListener("close", () => {
+
+      socket.addEventListener("close", (event) => {
+        console.info("[ws] disconnected", {
+          code: event.code,
+          reason: event.reason || "No close reason supplied",
+          wasClean: event.wasClean,
+        });
         if (socketRef.current !== socket) return;
+        socketRef.current = null;
+        if (stableTimer !== undefined) {
+          window.clearTimeout(stableTimer);
+          stableTimer = undefined;
+        }
         setConnected(false);
-        if (!stopped) {
-          retryTimer = window.setTimeout(connect, retryDelay);
-          retryDelay = Math.min(retryDelay * 2, 10_000);
+        if (!stopped && retryTimer === undefined) {
+          retryTimer = window.setTimeout(() => {
+            retryTimer = undefined;
+            connect();
+          }, retryDelay);
+          retryDelay = Math.min(retryDelay * 2, 15_000);
         }
       });
+
       socket.addEventListener("error", () => {
-        setConnected(false);
-        setMessage("Can''t reach the game server. If you''re on another device, use this computer''s network address and make sure the server is running.");
+        if (socketRef.current === socket) setMessage("Connection interrupted. Trying to reconnect…");
       });
+
       socket.addEventListener("message", (event) => {
-        const data = JSON.parse(String(event.data)) as ServerEvent;
-        if (data.type === "SESSION") {
+        let data: ServerEvent;
+        try {
+          data = JSON.parse(String(event.data)) as ServerEvent;
+        } catch (error) {
+          console.error("[ws] received invalid server message", error);
+          return;
+        }
+
+        if (data.type === "SESSION_MOVED") {
+          stopped = true;
+          if (retryTimer !== undefined) window.clearTimeout(retryTimer);
+          retryTimer = undefined;
+          if (stableTimer !== undefined) window.clearTimeout(stableTimer);
+          stableTimer = undefined;
+          socketRef.current = null;
+          setConnected(false);
+          setBusy(false);
+          setMessage(data.message);
+        } else if (data.type === "SESSION") {
           localStorage.setItem(tokenKey, data.token);
           localStorage.setItem(roomKey, data.roomCode);
           setPlayerId(data.playerId);
@@ -83,10 +132,12 @@ export default function HomeClient() {
         }
       });
     };
+
     connect();
     return () => {
       stopped = true;
       if (retryTimer !== undefined) window.clearTimeout(retryTimer);
+      if (stableTimer !== undefined) window.clearTimeout(stableTimer);
       socketRef.current?.close();
       socketRef.current = null;
     };
