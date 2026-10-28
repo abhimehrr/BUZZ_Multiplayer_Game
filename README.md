@@ -1,6 +1,6 @@
 # BUZZ
 
-BUZZ is a real-time multiplayer multiple-choice buzzer quiz. The current build includes room creation, room joining by code or invite link, a live lobby, host controls, and reconnectable player sessions. Gameplay is the next build stage.
+BUZZ is a real-time multiplayer multiple-choice buzzer quiz. The current build includes room creation and joining, a live lobby, reconnectable player sessions, and the server-authoritative buzzer game loop. The starter bank has 27 questions; the expanded 1,000-question bank and UI polish are later stages.
 
 ## Requirements
 
@@ -14,12 +14,13 @@ BUZZ is a real-time multiplayer multiple-choice buzzer quiz. The current build i
 3. Start development mode with `npm run dev`.
 4. Visit http://localhost:3000. The health endpoint is http://localhost:3000/healthz.
 5. The WebSocket endpoint is `ws://localhost:3000/ws`.
+6. Run the game logic checks with `npm test` and the TypeScript check with `npm run typecheck`.
 
 Production commands are `npm run build` and `npm start`. The custom server uses `PORT` (default 3000) and listens on `0.0.0.0`. `ALLOWED_ORIGIN` accepts a comma-separated list of browser origins; the default is local development.
 
 ## WebSocket protocol
 
-All client messages are JSON objects with a `type` field. The server validates the message shape and fields. Room creation, joining, reconnecting, host kick, and start are active; buzzer, answer, and full game controls arrive in the next stage.
+All client messages are JSON objects with a `type` field. The server validates the message shape and fields. Room creation, joining, reconnecting, host kick, start, buzzer, answer, end game, and play again are active. The server chooses the buzzer winner and scores answers.
 
 | Direction | Event | Fields |
 |---|---|---|
@@ -35,11 +36,11 @@ All client messages are JSON objects with a `type` field. The server validates t
 | Server → client | `ERROR` | code, message |
 | Server → client | `PONG` | serverTime |
 
-Clients send intents only. The server owns room membership, player identity, room settings, and host permissions. It will own buzzer ordering, answers, and scores once gameplay is added.
+Clients send intents only. The server owns room membership, player identity, room settings, buzzer ordering, deadlines, answer checks, and scores. Options are sent only to the player who won the buzzer; the correct answer is revealed after the round.
 
 ## Phase machine
 
-`lobby → question → answering → reveal → question`, with `paused` for reconnect waits and `gameOver` for a completed game. The pure transition function is in `game/machine.ts`; timers, scoring, and WebSocket delivery are kept outside it.
+`lobby → question → answering → reveal → question`, with `paused` for reconnect waits and `gameOver` for a completed game. Pure transitions, answer resolution, scoring, timers, and room event delivery are separated across `game/machine.ts` and `server.ts`. Questions last 30 seconds, answerers get 15 seconds, and results reveal for 3 seconds.
 
 ## Deployment
 

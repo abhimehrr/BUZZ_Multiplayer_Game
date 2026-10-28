@@ -1,0 +1,41 @@
+[
+  {
+    "id": "gk-0001",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which animal is the largest living mammal?",
+    "options": [
+      "Blue whale",
+      "African elephant",
+      "Giraffe",
+      "Orca"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "gk-0002",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How many continents are commonly recognized on Earth?",
+    "options": [
+      "Five",
+      "Seven",
+      "Six",
+      "Eight"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "gk-0003",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which instrument is used to measure temperature?",
+    "options": [
+      "Barometer",
+      "Compass",
+      "Thermometer",
+      "Altimeter"
+    ],
+    "answerIndex": 2
+  }
+]

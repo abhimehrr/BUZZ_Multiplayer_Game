@@ -1,0 +1,41 @@
+[
+  {
+    "id": "food-0001",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which grain is the main ingredient in traditional dried pasta?",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Corn",
+      "Oats"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "food-0002",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Chocolate is made from beans of which plant?",
+    "options": [
+      "Vanilla orchid",
+      "Cacao tree",
+      "Coffee shrub",
+      "Cinnamon tree"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "food-0003",
+    "category": "Food",
+    "difficulty": "easy",
+    "question": "Which insect produces honey?",
+    "options": [
+      "Butterfly",
+      "Ant",
+      "Honey bee",
+      "Dragonfly"
+    ],
+    "answerIndex": 2
+  }
+]

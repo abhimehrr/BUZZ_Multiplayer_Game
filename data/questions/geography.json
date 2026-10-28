@@ -1,0 +1,41 @@
+[
+  {
+    "id": "geo-0001",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital city of Japan?",
+    "options": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Sapporo"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "geo-0002",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which mountain is the highest above sea level?",
+    "options": [
+      "K2",
+      "Mount Everest",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "geo-0003",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which two hemispheres are separated by the Equator?",
+    "options": [
+      "Eastern and Western",
+      "Upper and Lower",
+      "Northern and Southern",
+      "Land and Ocean"
+    ],
+    "answerIndex": 2
+  }
+]

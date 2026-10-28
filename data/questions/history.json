@@ -1,0 +1,41 @@
+[
+  {
+    "id": "hist-0001",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "In which year did Apollo 11 land the first humans on the Moon?",
+    "options": [
+      "1969",
+      "1967",
+      "1971",
+      "1972"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "hist-0002",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In which year was the Magna Carta sealed in England?",
+    "options": [
+      "1066",
+      "1215",
+      "1492",
+      "1603"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "hist-0003",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which language was primarily spoken in ancient Rome?",
+    "options": [
+      "Greek",
+      "Etruscan",
+      "Latin",
+      "Aramaic"
+    ],
+    "answerIndex": 2
+  }
+]

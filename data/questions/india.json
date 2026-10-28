@@ -1,0 +1,41 @@
+[
+  {
+    "id": "india-0001",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "In which city is the Taj Mahal located?",
+    "options": [
+      "Agra",
+      "Jaipur",
+      "Delhi",
+      "Lucknow"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "india-0002",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "What is the official currency of India?",
+    "options": [
+      "Taka",
+      "Indian rupee",
+      "Rupiah",
+      "Riyal"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "india-0003",
+    "category": "India",
+    "difficulty": "easy",
+    "question": "Which animal is India's national animal?",
+    "options": [
+      "Asiatic lion",
+      "Indian elephant",
+      "Bengal tiger",
+      "Indian peafowl"
+    ],
+    "answerIndex": 2
+  }
+]

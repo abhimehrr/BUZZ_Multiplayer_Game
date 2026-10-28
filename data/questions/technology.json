@@ -1,0 +1,41 @@
+[
+  {
+    "id": "tech-0001",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What is the base-2 numeral system called?",
+    "options": [
+      "Binary",
+      "Decimal",
+      "Hexadecimal",
+      "Octal"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "tech-0002",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Computer Power Utility",
+      "Central Processing Unit",
+      "Core Program Upload",
+      "Central Peripheral User"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "tech-0003",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does HTML primarily describe in a web page?",
+    "options": [
+      "Network security",
+      "Image compression",
+      "Page structure",
+      "Sound levels"
+    ],
+    "answerIndex": 2
+  }
+]

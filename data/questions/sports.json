@@ -1,0 +1,41 @@
+[
+  {
+    "id": "sport-0001",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many players from one soccer team are on the field at a time?",
+    "options": [
+      "11",
+      "9",
+      "10",
+      "12"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "sport-0002",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many players from one basketball team are on court during normal play?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "sport-0003",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which playing surface is Wimbledon traditionally played on?",
+    "options": [
+      "Clay",
+      "Hard court",
+      "Grass",
+      "Carpet"
+    ],
+    "answerIndex": 2
+  }
+]
