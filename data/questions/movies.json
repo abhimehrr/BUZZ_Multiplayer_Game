@@ -5,12 +5,12 @@
     "difficulty": "easy",
     "question": "In Finding Nemo, what kind of fish is Nemo?",
     "options": [
-      "Clownfish",
       "Blue tang",
       "Goldfish",
-      "Angelfish"
+      "Angelfish",
+      "Clownfish"
     ],
-    "answerIndex": 0
+    "answerIndex": 3
   },
   {
     "id": "mov-0002",
@@ -18,12 +18,12 @@
     "difficulty": "easy",
     "question": "In The Wizard of Oz, which U.S. state is Dorothy's home?",
     "options": [
-      "Missouri",
       "Kansas",
+      "Missouri",
       "Texas",
       "Oklahoma"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": "mov-0003",
@@ -32,10 +32,10 @@
     "question": "What kind of toy is Woody in Toy Story?",
     "options": [
       "Space ranger",
-      "Train conductor",
       "Cowboy doll",
+      "Train conductor",
       "Wooden horse"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   }
 ]

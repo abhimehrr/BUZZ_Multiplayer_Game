@@ -5,12 +5,12 @@
     "difficulty": "easy",
     "question": "Which animal is the largest living mammal?",
     "options": [
-      "Blue whale",
       "African elephant",
       "Giraffe",
-      "Orca"
+      "Orca",
+      "Blue whale"
     ],
-    "answerIndex": 0
+    "answerIndex": 3
   },
   {
     "id": "gk-0002",
@@ -18,12 +18,12 @@
     "difficulty": "easy",
     "question": "How many continents are commonly recognized on Earth?",
     "options": [
-      "Five",
       "Seven",
+      "Five",
       "Six",
       "Eight"
     ],
-    "answerIndex": 1
+    "answerIndex": 0
   },
   {
     "id": "gk-0003",
@@ -32,10 +32,10 @@
     "question": "Which instrument is used to measure temperature?",
     "options": [
       "Barometer",
-      "Compass",
       "Thermometer",
+      "Compass",
       "Altimeter"
     ],
-    "answerIndex": 2
+    "answerIndex": 1
   }
 ]

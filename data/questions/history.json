@@ -5,12 +5,12 @@
     "difficulty": "easy",
     "question": "In which year did Apollo 11 land the first humans on the Moon?",
     "options": [
-      "1969",
       "1967",
+      "1969",
       "1971",
       "1972"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": "hist-0002",
@@ -19,11 +19,11 @@
     "question": "In which year was the Magna Carta sealed in England?",
     "options": [
       "1066",
-      "1215",
       "1492",
+      "1215",
       "1603"
     ],
-    "answerIndex": 1
+    "answerIndex": 2
   },
   {
     "id": "hist-0003",
@@ -33,9 +33,9 @@
     "options": [
       "Greek",
       "Etruscan",
-      "Latin",
-      "Aramaic"
+      "Aramaic",
+      "Latin"
     ],
-    "answerIndex": 2
+    "answerIndex": 3
   }
 ]

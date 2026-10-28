@@ -5,12 +5,12 @@
     "difficulty": "easy",
     "question": "How many players from one soccer team are on the field at a time?",
     "options": [
-      "11",
       "9",
+      "11",
       "10",
       "12"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": "sport-0002",
@@ -19,11 +19,11 @@
     "question": "How many players from one basketball team are on court during normal play?",
     "options": [
       "6",
-      "5",
       "7",
+      "5",
       "4"
     ],
-    "answerIndex": 1
+    "answerIndex": 2
   },
   {
     "id": "sport-0003",
@@ -33,9 +33,9 @@
     "options": [
       "Clay",
       "Hard court",
-      "Grass",
-      "Carpet"
+      "Carpet",
+      "Grass"
     ],
-    "answerIndex": 2
+    "answerIndex": 3
   }
 ]

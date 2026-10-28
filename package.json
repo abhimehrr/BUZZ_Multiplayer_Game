@@ -7,7 +7,8 @@
     "build": "next build --webpack",
     "start": "cross-env NODE_ENV=production tsx server.ts",
     "typecheck": "tsc --noEmit",
-    "test": "tsx --test game/machine.test.ts"
+    "test": "tsx --test game/machine.test.ts",
+    "validate:questions": "tsx scripts/validate-questions.ts"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.0",

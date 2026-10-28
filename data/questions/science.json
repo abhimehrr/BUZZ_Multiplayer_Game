@@ -5,12 +5,12 @@
     "difficulty": "easy",
     "question": "Which planet is the largest in our solar system?",
     "options": [
-      "Jupiter",
       "Saturn",
       "Earth",
+      "Jupiter",
       "Neptune"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": "sci-0002",
@@ -19,11 +19,11 @@
     "question": "Which gas do plants absorb from the air during photosynthesis?",
     "options": [
       "Oxygen",
-      "Carbon dioxide",
       "Nitrogen",
-      "Hydrogen"
+      "Hydrogen",
+      "Carbon dioxide"
     ],
-    "answerIndex": 1
+    "answerIndex": 3
   },
   {
     "id": "sci-0003",
@@ -31,11 +31,11 @@
     "difficulty": "easy",
     "question": "What is the chemical formula for water?",
     "options": [
+      "H2O",
       "CO2",
       "NaCl",
-      "H2O",
       "O2"
     ],
-    "answerIndex": 2
+    "answerIndex": 0
   }
 ]
