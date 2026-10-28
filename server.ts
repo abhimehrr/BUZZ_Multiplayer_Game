@@ -10,7 +10,6 @@ const port = Number(process.env.PORT ?? 3000);
 const origins = (process.env.ALLOWED_ORIGIN ?? "http://localhost:3000").split(",").map((origin) => origin.trim()).filter(Boolean);
 const app = next({ dev, hostname, port });
 const handle = app.getRequestHandler();
-const nextUpgradeHandler = app.getUpgradeHandler();
 const socketPlayers = new WeakMap<WebSocket, Player>();
 
 function send(ws: WebSocket, event: ServerEvent) {
@@ -151,6 +150,7 @@ function handleEvent(ws: WebSocket, event: ClientEvent) {
 }
 
 void app.prepare().then(() => {
+  const nextUpgradeHandler = app.getUpgradeHandler();
   const server = createServer((req, res) => {
     if (req.url === "/healthz") { res.writeHead(200, { "content-type": "application/json" }); res.end(JSON.stringify({ status: "ok" })); return; }
     void handle(req, res);
