@@ -55,7 +55,10 @@ export default function HomeClient() {
           retryDelay = Math.min(retryDelay * 2, 10_000);
         }
       });
-      socket.addEventListener("error", () => setConnected(false));
+      socket.addEventListener("error", () => {
+        setConnected(false);
+        setMessage("Can''t reach the game server. If you''re on another device, use this computer''s network address and make sure the server is running.");
+      });
       socket.addEventListener("message", (event) => {
         const data = JSON.parse(String(event.data)) as ServerEvent;
         if (data.type === "SESSION") {
@@ -112,8 +115,25 @@ export default function HomeClient() {
     send({ type: "JOIN_ROOM", name, code: code.replace(/\D/g, "").slice(0, 4) });
   };
   const copy = async (value: string, label: string) => {
-    try { await navigator.clipboard.writeText(value); setCopied(label); window.setTimeout(() => setCopied(""), 1600); }
-    catch { setMessage("Copy was blocked by your browser. You can select and copy the text instead."); }
+    try {
+      if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(value);
+      } else {
+        const temporaryInput = document.createElement("textarea");
+        temporaryInput.value = value;
+        temporaryInput.style.position = "fixed";
+        temporaryInput.style.opacity = "0";
+        document.body.appendChild(temporaryInput);
+        temporaryInput.select();
+        const copied = document.execCommand("copy");
+        temporaryInput.remove();
+        if (!copied) throw new Error("Clipboard access is unavailable.");
+      }
+      setCopied(label);
+      window.setTimeout(() => setCopied(""), 1600);
+    } catch {
+      setMessage("Copy was blocked by your browser. You can select and copy the text instead.");
+    }
   };
 
   if (room && room.phase === "lobby") return <main className="min-h-screen px-4 py-8 sm:px-8"><div className="mx-auto max-w-4xl">

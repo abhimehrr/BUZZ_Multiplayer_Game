@@ -10,6 +10,7 @@ const port = Number(process.env.PORT ?? 3000);
 const origins = (process.env.ALLOWED_ORIGIN ?? "http://localhost:3000").split(",").map((origin) => origin.trim()).filter(Boolean);
 const app = next({ dev, hostname, port });
 const handle = app.getRequestHandler();
+const nextUpgradeHandler = app.getUpgradeHandler();
 const socketPlayers = new WeakMap<WebSocket, Player>();
 
 function send(ws: WebSocket, event: ServerEvent) {
@@ -46,6 +47,16 @@ function normalizeName(value: string): string {
   return value.trim().replace(/\s+/g, " ").slice(0, 16);
 }
 function validName(name: string): boolean { return name.length > 0 && name.length <= 16; }
+function isOriginAllowed(origin: string | undefined, requestHost: string | undefined): boolean {
+  if (!origin) return true;
+  if (origins.includes(origin)) return true;
+  if (!requestHost) return false;
+  try {
+    return new URL(origin).host.toLowerCase() === requestHost.toLowerCase();
+  } catch {
+    return false;
+  }
+}
 
 function handleEvent(ws: WebSocket, event: ClientEvent) {
   if (event.type === "PING") { send(ws, { type: "PONG", serverTime: Date.now() }); return; }
@@ -146,8 +157,21 @@ void app.prepare().then(() => {
   });
   const wss = new WebSocketServer({ noServer: true, maxPayload: 16 * 1024 });
   server.on("upgrade", (req, socket, head) => {
+    if (req.url !== "/ws") {
+      void nextUpgradeHandler(req, socket, head).catch((error: unknown) => {
+        console.error("[next] upgrade handler failed", error);
+        socket.destroy();
+      });
+      return;
+    }
     const origin = req.headers.origin;
-    if (req.url !== "/ws" || (origin && !origins.includes(origin))) { socket.write("HTTP/1.1 403 Forbidden\r\n\r\n"); socket.destroy(); return; }
+    if (!isOriginAllowed(origin, req.headers.host)) {
+      console.warn("[ws] rejected game socket origin", { origin, host: req.headers.host });
+      socket.write("HTTP/1.1 403 Forbidden\r\n\r\n");
+      socket.destroy();
+      return;
+    }
+    console.log("[ws] accepted game socket", { origin, host: req.headers.host });
     wss.handleUpgrade(req, socket, head, (ws) => wss.emit("connection", ws, req));
   });
   wss.on("connection", (ws) => {
