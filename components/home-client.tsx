@@ -113,7 +113,25 @@ export default function HomeClient() {
           return;
         }
 
-        if (data.type === "SESSION_MOVED") {
+        if (data.type === "ROOM_CLOSED") {
+          stopped = true;
+          if (retryTimer !== undefined) window.clearTimeout(retryTimer);
+          retryTimer = undefined;
+          if (stableTimer !== undefined) window.clearTimeout(stableTimer);
+          stableTimer = undefined;
+          localStorage.removeItem(tokenKey);
+          localStorage.removeItem(roomKey);
+          playerIdRef.current = "";
+          socketRef.current = null;
+          setConnected(false);
+          setBusy(false);
+          setRoom(null);
+          setChatMessages([]);
+          setPlayerId("");
+          setGame(null);
+          setGameOver(null);
+          setMessage(data.message);
+        } else if (data.type === "SESSION_MOVED") {
           stopped = true;
           if (retryTimer !== undefined) window.clearTimeout(retryTimer);
           retryTimer = undefined;

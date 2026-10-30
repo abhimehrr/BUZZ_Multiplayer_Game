@@ -329,6 +329,17 @@ function handleEvent(ws: WebSocket, event: ClientEvent) {
     return;
   }
   if (event.type === "LEAVE") {
+    if (room.masterId === player.id) {
+      const notice: ServerEvent = { type: "ROOM_CLOSED", message: "The host closed the room. You have been returned home." };
+      for (const member of room.players) {
+        if (member.ws) {
+          send(member.ws, notice);
+          socketPlayers.delete(member.ws);
+        }
+      }
+      clearRoom(room);
+      return;
+    }
     if (room.phase !== "lobby" && room.phase !== "gameOver" && !player.resigned) { fail(ws, "RESIGN_FIRST", "Resign from the game before leaving the room."); return; }
     if (room.phase !== "lobby" && room.phase !== "gameOver" && player.resigned) {
       player.ws = undefined;

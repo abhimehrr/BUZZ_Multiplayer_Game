@@ -18,6 +18,7 @@ export type ClientEvent =
 export type ServerEvent =
   | { type: "SESSION"; token: string; playerId: string; roomCode: string }
   | { type: "SESSION_MOVED"; message: string }
+  | { type: "ROOM_CLOSED"; message: string }
   | { type: "ROOM_STATE"; room: RoomSnapshot }
   | { type: "CHAT_HISTORY"; messages: ChatMessage[] }
   | { type: "CHAT_MESSAGE"; message: ChatMessage }
