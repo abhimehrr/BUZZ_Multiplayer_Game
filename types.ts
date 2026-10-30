@@ -7,6 +7,7 @@ export type ClientEvent =
   | { type: "BUZZ" }
   | { type: "SUBMIT_ANSWER"; optionIndex: number }
   | { type: "KICK"; playerId: string }
+  | { type: "CHAT_SEND"; text: string; replyToId?: string }
   | { type: "END_GAME" }
   | { type: "PLAY_AGAIN" }
   | { type: "LEAVE" }
@@ -16,6 +17,8 @@ export type ServerEvent =
   | { type: "SESSION"; token: string; playerId: string; roomCode: string }
   | { type: "SESSION_MOVED"; message: string }
   | { type: "ROOM_STATE"; room: RoomSnapshot }
+  | { type: "CHAT_HISTORY"; messages: ChatMessage[] }
+  | { type: "CHAT_MESSAGE"; message: ChatMessage }
   | { type: "GAME_STATE"; game: GameSnapshot }
   | { type: "QUESTION"; question: PublicQuestion; round: number; deadline: number }
   | { type: "BUZZ_WON"; playerId: string; playerName: string; deadline: number }
@@ -28,6 +31,7 @@ export type ServerEvent =
 export type GamePhase = "lobby" | "question" | "answering" | "reveal" | "paused" | "gameOver";
 export interface PlayerSnapshot { id: string; name: string; score: number; correctCount: number; wrongCount: number; connected: boolean; isMaster: boolean }
 export interface RoomSnapshot { code: string; masterId: string; phase: GamePhase; targetScore: number; maxPlayers: number; category: string; players: PlayerSnapshot[] }
+export interface ChatMessage { id: string; playerId: string; playerName: string; text: string; sentAt: number; replyTo?: { id: string; playerId: string; playerName: string; text: string } }
 export interface PublicQuestion { id: string; category: string; difficulty: "easy" | "medium" | "hard"; question: string }
 export interface GameQuestion extends PublicQuestion { options: [string, string, string, string]; answerIndex: number }
 export interface GameSnapshot { phase: GamePhase; round: number; roundCap: number; question?: PublicQuestion; answererId?: string; deadline?: number }

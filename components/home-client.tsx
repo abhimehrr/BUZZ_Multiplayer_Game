@@ -1,7 +1,8 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import type { GameSnapshot, RoomSnapshot, ServerEvent } from "../types";
+import RoomChat from "./room-chat";
+import type { ChatMessage, GameSnapshot, RoomSnapshot, ServerEvent } from "../types";
 
 const categories = ["All", "General Knowledge", "Science", "Technology", "Geography", "History", "Movies", "Sports", "Food", "India"];
 const tokenKey = "buzz-session-token";
@@ -17,6 +18,7 @@ export default function HomeClient() {
   const [maxPlayers, setMaxPlayers] = useState(5);
   const [category, setCategory] = useState("All");
   const [room, setRoom] = useState<RoomSnapshot | null>(null);
+  const [chatMessages, setChatMessages] = useState<ChatMessage[]>([]);
   const [playerId, setPlayerId] = useState("");
   const playerIdRef = useRef("");
   const [game, setGame] = useState<GameSnapshot | null>(null);
@@ -140,6 +142,10 @@ export default function HomeClient() {
             setGameOver(null);
             setStatusNotice("");
           }
+        } else if (data.type === "CHAT_HISTORY") {
+          setChatMessages(data.messages);
+        } else if (data.type === "CHAT_MESSAGE") {
+          setChatMessages((messages) => messages.some((message) => message.id === data.message.id) ? messages : [...messages, data.message]);
         } else if (data.type === "QUESTION") {
           setGame({ phase: "question", round: data.round, roundCap: 30, question: data.question, deadline: data.deadline });
           setOptions(null);
@@ -182,6 +188,7 @@ export default function HomeClient() {
             localStorage.removeItem(roomKey);
             playerIdRef.current = "";
             setRoom(null);
+            setChatMessages([]);
             setPlayerId("");
             setGame(null);
           }
@@ -246,6 +253,7 @@ export default function HomeClient() {
   const answerTimeLimit = game?.phase === "answering" ? 15 : 30;
   const isAnswerer = game?.phase === "answering" && game.answererId === playerId;
   const canBuzz = connected && game?.phase === "question";
+  const chatOverlay = room ? <RoomChat roomCode={room.code} playerId={playerId} messages={chatMessages} connected={connected} send={send} /> : null;
 
   const leaveRoom = () => {
     send({ type: "LEAVE" });
@@ -253,6 +261,7 @@ export default function HomeClient() {
     localStorage.removeItem(roomKey);
     playerIdRef.current = "";
     setRoom(null);
+    setChatMessages([]);
     setPlayerId("");
     setGame(null);
     setGameOver(null);
@@ -319,7 +328,7 @@ export default function HomeClient() {
       </div>
     </section><button onClick={()=>{send({type:"LEAVE"});localStorage.removeItem(tokenKey);localStorage.removeItem(roomKey);setRoom(null);setPlayerId("")}} className="mx-auto mt-5 block text-sm text-slate-400 hover:text-white">Leave room</button>
     {message?<p role="alert" className="mx-auto mt-4 max-w-xl rounded-xl border border-rose-400/20 bg-rose-400/10 p-3 text-center text-sm text-rose-100">{message}</p>:null}
-  </div></main>;
+  </div>{chatOverlay}</main>;
 
   if (room && gameOver) return <main className="min-h-screen px-4 py-8 sm:px-8"><div className="mx-auto max-w-4xl">
     <header className="flex items-center justify-between"><a href="/" className="text-2xl font-black tracking-tight">BUZZ<span className="text-amber-300">.</span></a><span className="rounded-full border border-white/10 px-3 py-1 text-xs text-slate-300">Room {room.code}</span></header>
@@ -334,7 +343,7 @@ export default function HomeClient() {
       {isMaster?<button onClick={()=>send({type:"PLAY_AGAIN"})} className="primary-btn mt-7 w-full">Play again</button>:<p className="mt-7 text-center text-sm text-slate-300">The host can start another game from this room.</p>}
       <button onClick={leaveRoom} className="secondary-btn mt-3 w-full">Leave room</button>
     </section>
-  </div></main>;
+  </div>{chatOverlay}</main>;
 
   if (room && room.phase !== "lobby") return <main className="min-h-screen px-3 py-5 sm:px-6 sm:py-8"><div className="mx-auto max-w-5xl">
     <header className="flex items-center justify-between"><a href="/" className="text-2xl font-black tracking-tight">BUZZ<span className="text-amber-300">.</span></a><div className="flex items-center gap-2"><span className="hidden text-xs text-slate-400 sm:inline">Room {room.code}</span><span className="rounded-full border border-white/10 px-3 py-1 text-xs text-slate-300">{connected?"● Connected":"○ Reconnecting…"}</span>{isMaster?<button onClick={endGame} className="secondary-btn min-h-0 px-3 py-1 text-xs text-rose-200">End game</button>:null}</div></header>
@@ -367,7 +376,7 @@ export default function HomeClient() {
       {game?.phase==="paused"?<p className="mx-auto mt-6 max-w-md rounded-2xl border border-amber-300/20 bg-amber-300/5 p-4 text-sm text-amber-100">The game will resume when at least two players reconnect.</p>:null}
     </section>
     {message?<p role="alert" className="mx-auto mt-4 max-w-xl rounded-xl border border-rose-400/20 bg-rose-400/10 p-3 text-center text-sm text-rose-100">{message}</p>:null}
-  </div></main>;
+  </div>{chatOverlay}</main>;
 
   return <main className="min-h-screen px-4 py-10 sm:px-8"><div className="mx-auto max-w-5xl">
     <header className="flex items-center justify-between"><a href="/" className="text-2xl font-black tracking-tight">BUZZ<span className="text-amber-300">.</span></a><span className="rounded-full border border-white/10 px-3 py-1 text-xs text-slate-300">{connected?"● Server connected":"○ Connecting…"}</span></header>

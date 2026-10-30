@@ -1,8 +1,8 @@
-import { randomInt } from "node:crypto";
+import { randomInt, randomUUID } from "node:crypto";
 import { createServer } from "node:http";
 import next from "next";
 import { WebSocket, WebSocketServer } from "ws";
-import type { ClientEvent, GameQuestion, GameSnapshot, LeaderboardEntry, PublicQuestion, ScorePlayer, ServerEvent } from "./types";
+import type { ChatMessage, ClientEvent, GameQuestion, GameSnapshot, LeaderboardEntry, PublicQuestion, ScorePlayer, ServerEvent } from "./types";
 import { advanceQuestion, ANSWER_TIME_MS, claimBuzz, createGameState, pauseGame, QUESTION_TIME_MS, resolveRound, resumeGame, ROUND_CAP, selectWinners, startGame } from "./game/machine";
 import { loadQuestions } from "./game/questions";
 import { clearRoom, createPlayer, createRoomCode, getRoomSnapshot, playersByToken, removePlayer, rooms, type Player, type Room } from "./game/rooms";
@@ -28,6 +28,7 @@ function validEvent(value: unknown): value is ClientEvent {
     case "JOIN_ROOM": return typeof value.code === "string" && typeof value.name === "string";
     case "RECONNECT": return typeof value.token === "string";
     case "KICK": return typeof value.playerId === "string";
+    case "CHAT_SEND": return typeof value.text === "string" && (value.replyToId === undefined || typeof value.replyToId === "string");
     case "SUBMIT_ANSWER": return typeof value.optionIndex === "number";
     case "START_GAME": case "BUZZ": case "END_GAME": case "PLAY_AGAIN": case "LEAVE": case "PING": return true;
     default: return false;
@@ -35,6 +36,13 @@ function validEvent(value: unknown): value is ClientEvent {
 }
 function sendRoom(room: Room) {
   const event: ServerEvent = { type: "ROOM_STATE", room: getRoomSnapshot(room) };
+  for (const player of room.players) if (player.ws) send(player.ws, event);
+}
+function sendChatHistory(room: Room, ws: WebSocket) {
+  send(ws, { type: "CHAT_HISTORY", messages: room.chatMessages });
+}
+function broadcastChatMessage(room: Room, message: ChatMessage) {
+  const event: ServerEvent = { type: "CHAT_MESSAGE", message };
   for (const player of room.players) if (player.ws) send(player.ws, event);
 }
 function scorePlayers(room: Room): ScorePlayer[] {
@@ -244,7 +252,7 @@ function handleEvent(ws: WebSocket, event: ClientEvent) {
     if (!Number.isInteger(event.targetScore) || event.targetScore < 10 || event.targetScore > 100 || event.targetScore % 10 !== 0) { fail(ws, "INVALID_SETTINGS", "Choose a target score from 10 to 100, in steps of 10."); return; }
     if (!Number.isInteger(event.maxPlayers) || event.maxPlayers < 2 || event.maxPlayers > 5) { fail(ws, "INVALID_SETTINGS", "Choose a room size from 2 to 5 players."); return; }
     const code = createRoomCode();
-    const room: Room = { code, masterId: "", targetScore: event.targetScore, maxPlayers: event.maxPlayers, category: (event.category || "All").trim().slice(0, 40), phase: "lobby", players: [], createdAt: Date.now() };
+    const room: Room = { code, masterId: "", targetScore: event.targetScore, maxPlayers: event.maxPlayers, category: (event.category || "All").trim().slice(0, 40), phase: "lobby", players: [], createdAt: Date.now(), chatMessages: [] };
     const player = createPlayer(code, name, ws);
     room.players.push(player);
     room.masterId = player.id;
@@ -253,6 +261,7 @@ function handleEvent(ws: WebSocket, event: ClientEvent) {
     console.log(`[room] created code=${code} master=${name} target=${room.targetScore} max=${room.maxPlayers}`);
     send(ws, { type: "SESSION", token: player.token, playerId: player.id, roomCode: player.roomCode });
     sendRoom(room);
+    sendChatHistory(room, ws);
     return;
   }
   if (event.type === "JOIN_ROOM") {
@@ -271,6 +280,7 @@ function handleEvent(ws: WebSocket, event: ClientEvent) {
     console.log(`[room] joined code=${code} player=${name} players=${room.players.length}`);
     send(ws, { type: "SESSION", token: player.token, playerId: player.id, roomCode: player.roomCode });
     sendRoom(room);
+    sendChatHistory(room, ws);
     return;
   }
   if (event.type === "RECONNECT") {
@@ -288,6 +298,7 @@ function handleEvent(ws: WebSocket, event: ClientEvent) {
     send(ws, { type: "SESSION", token: player.token, playerId: player.id, roomCode: player.roomCode });
     resumeIfReady(room);
     sendCurrentState(room, player);
+    sendChatHistory(room, ws);
     return;
   }
 
@@ -295,6 +306,20 @@ function handleEvent(ws: WebSocket, event: ClientEvent) {
   const room = bound && rooms.get(bound.roomCode);
   if (!bound || !room) { fail(ws, "JOIN_FIRST", "Join or create a room before using that action."); return; }
   const player = bound;
+  if (event.type === "CHAT_SEND") {
+    const text = event.text.trim();
+    if (!text) { fail(ws, "EMPTY_CHAT_MESSAGE", "Write a message before sending."); return; }
+    let replyTo: ChatMessage["replyTo"];
+    if (event.replyToId) {
+      const original = room.chatMessages.find((message) => message.id === event.replyToId);
+      if (!original) { fail(ws, "CHAT_REPLY_NOT_FOUND", "That message is no longer available to reply to."); return; }
+      replyTo = { id: original.id, playerId: original.playerId, playerName: original.playerName, text: original.text };
+    }
+    const chatMessage: ChatMessage = { id: randomUUID(), playerId: player.id, playerName: player.name, text, sentAt: Date.now(), ...(replyTo ? { replyTo } : {}) };
+    room.chatMessages.push(chatMessage);
+    broadcastChatMessage(room, chatMessage);
+    return;
+  }
   if (event.type === "LEAVE") {
     clearGameTimer(room);
     player.ws = undefined;

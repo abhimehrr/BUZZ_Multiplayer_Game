@@ -1,6 +1,6 @@
 import { randomInt, randomUUID } from "node:crypto";
 import { WebSocket } from "ws";
-import type { GamePhase, GameState, PlayerSnapshot, RoomSnapshot, RoundResolution } from "../types";
+import type { ChatMessage, GamePhase, GameState, PlayerSnapshot, RoomSnapshot, RoundResolution } from "../types";
 
 export interface Player {
   id: string; token: string; name: string; roomCode: string; ws?: WebSocket;
@@ -9,7 +9,7 @@ export interface Player {
 }
 export interface Room {
   code: string; masterId: string; targetScore: number; maxPlayers: number; category: string; phase: GamePhase;
-  players: Player[]; createdAt: number; game?: GameState; lastResult?: RoundResolution["result"]; gameTimer?: ReturnType<typeof setTimeout>; emptyTimer?: ReturnType<typeof setTimeout>;
+  players: Player[]; createdAt: number; chatMessages: ChatMessage[]; game?: GameState; lastResult?: RoundResolution["result"]; gameTimer?: ReturnType<typeof setTimeout>; emptyTimer?: ReturnType<typeof setTimeout>;
 }
 export const rooms = new Map<string, Room>();
 export const playersByToken = new Map<string, Player>();
