@@ -28,9 +28,10 @@ function validEvent(value: unknown): value is ClientEvent {
     case "JOIN_ROOM": return typeof value.code === "string" && typeof value.name === "string";
     case "RECONNECT": return typeof value.token === "string";
     case "KICK": return typeof value.playerId === "string";
+    case "UPDATE_SETTINGS": return (value.targetScore === undefined || typeof value.targetScore === "number") && (value.maxPlayers === undefined || typeof value.maxPlayers === "number") && (value.category === undefined || typeof value.category === "string");
     case "CHAT_SEND": return typeof value.text === "string" && (value.replyToId === undefined || typeof value.replyToId === "string");
     case "SUBMIT_ANSWER": return typeof value.optionIndex === "number";
-    case "START_GAME": case "BUZZ": case "END_GAME": case "PLAY_AGAIN": case "LEAVE": case "PING": return true;
+    case "START_GAME": case "BUZZ": case "END_GAME": case "PLAY_AGAIN": case "RESIGN": case "LEAVE": case "PING": return true;
     default: return false;
   }
 }
@@ -48,6 +49,13 @@ function broadcastChatMessage(room: Room, message: ChatMessage) {
 function scorePlayers(room: Room): ScorePlayer[] {
   return room.players.map(({ id, name, score, correctCount, wrongCount }) => ({ id, name, score, correctCount, wrongCount }));
 }
+function activePlayers(room: Room) { return room.players.filter((player) => !player.resigned); }
+function activeScorePlayers(room: Room): ScorePlayer[] {
+  const activeIds = new Set(activePlayers(room).map((player) => player.id));
+  return scorePlayers(room).filter((player) => activeIds.has(player.id));
+}
+function connectedActiveCount(room: Room) { return room.players.filter((player) => player.connected && !player.resigned).length; }
+function requiredActiveCount(room: Room) { return Math.min(2, activePlayers(room).length); }
 function updateScores(room: Room, scored: ScorePlayer[]) {
   const byId = new Map(scored.map((player) => [player.id, player]));
   for (const player of room.players) {
@@ -58,7 +66,7 @@ function updateScores(room: Room, scored: ScorePlayer[]) {
 function makeLeaderboard(room: Room): LeaderboardEntry[] {
   return room.players.map((player) => {
     const answered = player.correctCount + player.wrongCount;
-    return { playerId: player.id, name: player.name, score: player.score, correctCount: player.correctCount, wrongCount: player.wrongCount, accuracy: answered ? Math.round(player.correctCount / answered * 100) : 0 };
+    return { playerId: player.id, name: player.name, score: player.score, correctCount: player.correctCount, wrongCount: player.wrongCount, accuracy: answered ? Math.round(player.correctCount / answered * 100) : 0, resigned: player.resigned };
   }).sort((a, b) => b.score - a.score || a.name.localeCompare(b.name));
 }
 function getPublicQuestion(question: GameQuestion | undefined): PublicQuestion | undefined {
@@ -120,7 +128,7 @@ function finishGame(room: Room, winners?: ScorePlayer[]) {
     room.phase = "gameOver";
     sendRoom(room);
   }
-  sendGameOver(room, winners?.length ? winners : selectWinners(scorePlayers(room), room.targetScore, true));
+  sendGameOver(room, winners ?? selectWinners(activeScorePlayers(room), room.targetScore, true));
 }
 function armTimer(room: Room) {
   clearGameTimer(room);
@@ -146,7 +154,7 @@ function resolveCurrentRound(room: Room, optionIndex: number | null) {
   if (!room.game) return;
   clearGameTimer(room);
   const now = Date.now();
-  const resolution = resolveRound(room.game, scorePlayers(room), optionIndex, now);
+  const resolution = resolveRound(room.game, activeScorePlayers(room), optionIndex, now);
   if (!resolution) return;
   room.game = resolution.state;
   room.phase = resolution.state.phase;
@@ -161,7 +169,7 @@ function resolveCurrentRound(room: Room, optionIndex: number | null) {
 function advanceToNextQuestion(room: Room) {
   if (!room.game) return;
   clearGameTimer(room);
-  const next = advanceQuestion(room.game, scorePlayers(room), Date.now());
+  const next = advanceQuestion(room.game, activeScorePlayers(room), Date.now());
   room.game = next.state;
   if (next.state.phase === "gameOver") {
     finishGame(room, next.winners);
@@ -169,7 +177,7 @@ function advanceToNextQuestion(room: Room) {
   }
   room.lastResult = undefined;
   room.phase = next.state.phase;
-  if (room.players.filter((player) => player.connected).length < 2) {
+  if (connectedActiveCount(room) < requiredActiveCount(room)) {
     room.game = pauseGame(room.game, Date.now());
     room.phase = "paused";
     sendRoom(room);
@@ -180,7 +188,7 @@ function advanceToNextQuestion(room: Room) {
 }
 function pauseIfNeeded(room: Room) {
   if (!room.game || (room.game.phase !== "question" && room.game.phase !== "answering")) return;
-  if (room.players.filter((player) => player.connected).length >= 2) return;
+  if (connectedActiveCount(room) >= requiredActiveCount(room)) return;
   clearGameTimer(room);
   room.game = pauseGame(room.game, Date.now());
   room.phase = room.game.phase;
@@ -188,7 +196,7 @@ function pauseIfNeeded(room: Room) {
   broadcastGameState(room);
 }
 function resumeIfReady(room: Room) {
-  if (room.phase !== "paused" || !room.game || room.players.filter((player) => player.connected).length < 2) return;
+  if (room.phase !== "paused" || !room.game || connectedActiveCount(room) < requiredActiveCount(room)) return;
   room.game = resumeGame(room.game, Date.now());
   room.phase = room.game.phase;
   sendRoom(room);
@@ -207,7 +215,7 @@ function sendCurrentState(room: Room, player: Player) {
     broadcastBuzzWon(room);
     sendOptionsToAnswerer(room);
   } else if (room.phase === "reveal") sendRoundResult(room);
-  else if (room.phase === "gameOver") sendGameOver(room, selectWinners(scorePlayers(room), room.targetScore, true));
+  else if (room.phase === "gameOver") sendGameOver(room, selectWinners(activeScorePlayers(room), room.targetScore, true));
 }
 
 function normalizeName(value: string): string { return value.trim().replace(/\s+/g, " ").slice(0, 16); }
@@ -231,12 +239,12 @@ function newRoomGame(room: Room) {
   return createGameState(room.targetScore, shuffleQuestions(loadQuestions(room.category)), ROUND_CAP);
 }
 function makeGameLeaderboard(room: Room) {
-  return selectWinners(scorePlayers(room), room.targetScore, true);
+  return selectWinners(activeScorePlayers(room), room.targetScore, true);
 }
 function startRoomGame(room: Room) {
   const game = newRoomGame(room);
   if (!game.questions.length) return false;
-  for (const player of room.players) { player.score = 0; player.correctCount = 0; player.wrongCount = 0; }
+  for (const player of room.players) { player.score = 0; player.correctCount = 0; player.wrongCount = 0; player.resigned = false; }
   room.lastResult = undefined;
   room.game = startGame(game, Date.now());
   room.phase = room.game.phase;
@@ -321,6 +329,16 @@ function handleEvent(ws: WebSocket, event: ClientEvent) {
     return;
   }
   if (event.type === "LEAVE") {
+    if (room.phase !== "lobby" && room.phase !== "gameOver" && !player.resigned) { fail(ws, "RESIGN_FIRST", "Resign from the game before leaving the room."); return; }
+    if (room.phase !== "lobby" && room.phase !== "gameOver" && player.resigned) {
+      player.ws = undefined;
+      player.connected = false;
+      player.left = true;
+      playersByToken.delete(player.token);
+      socketPlayers.delete(ws);
+      sendRoom(room);
+      return;
+    }
     clearGameTimer(room);
     player.ws = undefined;
     player.connected = false;
@@ -342,10 +360,49 @@ function handleEvent(ws: WebSocket, event: ClientEvent) {
     sendRoom(room);
     return;
   }
+  if (event.type === "UPDATE_SETTINGS") {
+    if (room.masterId !== player.id || room.phase !== "lobby") { fail(ws, "NOT_ALLOWED", "Only the host can update settings in the lobby."); return; }
+    if (event.targetScore !== undefined && (!Number.isInteger(event.targetScore) || event.targetScore < 10 || event.targetScore > 100 || event.targetScore % 10 !== 0)) { fail(ws, "INVALID_SETTINGS", "Choose a target score from 10 to 100, in steps of 10."); return; }
+    if (event.maxPlayers !== undefined && (!Number.isInteger(event.maxPlayers) || event.maxPlayers < 2 || event.maxPlayers > 5 || event.maxPlayers < room.players.length)) { fail(ws, "INVALID_SETTINGS", "The room size must be between 2 and 5, and cannot be smaller than the current room."); return; }
+    const allowedCategories = ["All", "General Knowledge", "Science", "Technology", "Geography", "History", "Movies", "Sports", "Food", "India"];
+    if (event.category !== undefined && !allowedCategories.includes(event.category)) { fail(ws, "INVALID_SETTINGS", "Choose one of the available question categories."); return; }
+    if (event.targetScore === undefined && event.maxPlayers === undefined && event.category === undefined) { fail(ws, "INVALID_SETTINGS", "Choose a setting to update."); return; }
+    if (event.targetScore !== undefined) room.targetScore = event.targetScore;
+    if (event.maxPlayers !== undefined) room.maxPlayers = event.maxPlayers;
+    if (event.category !== undefined) room.category = event.category;
+    sendRoom(room);
+    return;
+  }
+  if (event.type === "RESIGN") {
+    if (room.phase === "lobby" || room.phase === "gameOver" || player.resigned) { fail(ws, "CANNOT_RESIGN", "You can only resign while a game is in progress."); return; }
+    player.resigned = true;
+    if (room.masterId === player.id) {
+      const nextMaster = room.players.find((candidate) => candidate.id !== player.id && candidate.connected && !candidate.resigned && !candidate.left)
+        ?? room.players.find((candidate) => candidate.id !== player.id && !candidate.resigned && !candidate.left);
+      if (nextMaster) room.masterId = nextMaster.id;
+    }
+    console.log(`[game] player resigned room=${room.code} player=${player.name}`);
+    if (activePlayers(room).length === 0) {
+      finishGame(room, []);
+      return;
+    }
+    if (room.game?.phase === "paused" && room.game.pausedPhase === "answering" && room.game.answererId === player.id) {
+      room.game = resumeGame(room.game, Date.now());
+      room.phase = room.game.phase;
+    }
+    if (room.game?.phase === "answering" && room.game.answererId === player.id) {
+      resolveCurrentRound(room, null);
+      return;
+    }
+    resumeIfReady(room);
+    pauseIfNeeded(room);
+    sendRoom(room);
+    return;
+  }
   if (event.type === "START_GAME") {
     if (room.masterId !== player.id) { fail(ws, "NOT_ALLOWED", "Only the host can start the game."); return; }
     if (room.phase !== "lobby") { fail(ws, "ALREADY_STARTED", "This game has already started."); return; }
-    if (room.players.filter((candidate) => candidate.connected).length < 2) { fail(ws, "NEED_MORE_PLAYERS", "At least two connected players are needed to start."); return; }
+    if (connectedActiveCount(room) < 2) { fail(ws, "NEED_MORE_PLAYERS", "At least two connected players are needed to start."); return; }
     try {
       if (!startRoomGame(room)) { fail(ws, "NO_QUESTIONS", "There are no questions for this category yet. Try All categories."); return; }
     } catch (error) {
@@ -370,11 +427,15 @@ function handleEvent(ws: WebSocket, event: ClientEvent) {
     room.game = undefined;
     room.lastResult = undefined;
     room.phase = "lobby";
-    for (const candidate of room.players) { candidate.score = 0; candidate.correctCount = 0; candidate.wrongCount = 0; }
+    for (const candidate of [...room.players]) {
+      if (candidate.left) removePlayer(room, candidate);
+      else candidate.resigned = false;
+    }
     sendRoom(room);
     return;
   }
   if (event.type === "BUZZ") {
+    if (player.resigned) { fail(ws, "PLAYER_RESIGNED", "You resigned from this game and can watch from the room."); return; }
     const now = Date.now();
     const window = buzzWindows.get(player);
     if (!window || now - window.startedAt >= 2_000) buzzWindows.set(player, { startedAt: now, count: 1 });
@@ -398,6 +459,7 @@ function handleEvent(ws: WebSocket, event: ClientEvent) {
     return;
   }
   if (event.type === "SUBMIT_ANSWER") {
+    if (player.resigned) { fail(ws, "PLAYER_RESIGNED", "You resigned from this game and can watch from the room."); return; }
     if (!Number.isInteger(event.optionIndex) || event.optionIndex < 0 || event.optionIndex > 3) { fail(ws, "INVALID_ANSWER", "Choose one of the four answers."); return; }
     if (!room.game || room.game.phase !== "answering" || room.game.answererId !== player.id) { fail(ws, "NOT_ANSWERER", "Only the player who buzzed in can answer."); return; }
     if (room.game.deadline !== undefined && Date.now() > room.game.deadline) {
@@ -443,6 +505,12 @@ void app.prepare().then(() => {
         player.reconnectTimer = setTimeout(() => {
           const currentRoom = rooms.get(player.roomCode);
           if (!currentRoom || player.connected) return;
+          if (player.resigned) {
+            playersByToken.delete(player.token);
+            player.left = true;
+            if (currentRoom.players.length) sendRoom(currentRoom);
+            return;
+          }
           const wasMaster = currentRoom.masterId === player.id;
           removePlayer(currentRoom, player);
           if (wasMaster && currentRoom.players.length) console.log(`[room] master ${player.name} expired; promoted=${currentRoom.players.find((candidate) => candidate.id === currentRoom.masterId)?.name}`);

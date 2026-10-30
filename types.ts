@@ -7,6 +7,8 @@ export type ClientEvent =
   | { type: "BUZZ" }
   | { type: "SUBMIT_ANSWER"; optionIndex: number }
   | { type: "KICK"; playerId: string }
+  | { type: "UPDATE_SETTINGS"; targetScore?: number; maxPlayers?: number; category?: string }
+  | { type: "RESIGN" }
   | { type: "CHAT_SEND"; text: string; replyToId?: string }
   | { type: "END_GAME" }
   | { type: "PLAY_AGAIN" }
@@ -29,13 +31,13 @@ export type ServerEvent =
   | { type: "PONG"; serverTime: number };
 
 export type GamePhase = "lobby" | "question" | "answering" | "reveal" | "paused" | "gameOver";
-export interface PlayerSnapshot { id: string; name: string; score: number; correctCount: number; wrongCount: number; connected: boolean; isMaster: boolean }
+export interface PlayerSnapshot { id: string; name: string; score: number; correctCount: number; wrongCount: number; connected: boolean; isMaster: boolean; resigned: boolean; left: boolean }
 export interface RoomSnapshot { code: string; masterId: string; phase: GamePhase; targetScore: number; maxPlayers: number; category: string; players: PlayerSnapshot[] }
 export interface ChatMessage { id: string; playerId: string; playerName: string; text: string; sentAt: number; replyTo?: { id: string; playerId: string; playerName: string; text: string } }
 export interface PublicQuestion { id: string; category: string; difficulty: "easy" | "medium" | "hard"; question: string }
 export interface GameQuestion extends PublicQuestion { options: [string, string, string, string]; answerIndex: number }
 export interface GameSnapshot { phase: GamePhase; round: number; roundCap: number; question?: PublicQuestion; answererId?: string; deadline?: number }
-export interface LeaderboardEntry { playerId: string; name: string; score: number; correctCount: number; wrongCount: number; accuracy: number }
+export interface LeaderboardEntry { playerId: string; name: string; score: number; correctCount: number; wrongCount: number; accuracy: number; resigned: boolean }
 export interface ScorePlayer { id: string; name: string; score: number; correctCount: number; wrongCount: number }
 export interface GameState {
   phase: GamePhase;

@@ -4,7 +4,7 @@ import type { ChatMessage, GamePhase, GameState, PlayerSnapshot, RoomSnapshot, R
 
 export interface Player {
   id: string; token: string; name: string; roomCode: string; ws?: WebSocket;
-  score: number; correctCount: number; wrongCount: number; connected: boolean; joinedAt: number;
+  score: number; correctCount: number; wrongCount: number; connected: boolean; joinedAt: number; resigned: boolean; left: boolean;
   reconnectTimer?: ReturnType<typeof setTimeout>;
 }
 export interface Room {
@@ -22,14 +22,14 @@ export function createRoomCode(): string {
   throw new Error("No room codes are available right now.");
 }
 export function createPlayer(roomCode: string, name: string, ws: WebSocket): Player {
-  const player: Player = { id: randomUUID(), token: randomUUID(), name, roomCode, ws, score: 0, correctCount: 0, wrongCount: 0, connected: true, joinedAt: Date.now() };
+  const player: Player = { id: randomUUID(), token: randomUUID(), name, roomCode, ws, score: 0, correctCount: 0, wrongCount: 0, connected: true, joinedAt: Date.now(), resigned: false, left: false };
   playersByToken.set(player.token, player);
   return player;
 }
 export function getRoomSnapshot(room: Room): RoomSnapshot {
   const players: PlayerSnapshot[] = room.players.map((p) => ({
     id: p.id, name: p.name, score: p.score, correctCount: p.correctCount, wrongCount: p.wrongCount,
-    connected: p.connected, isMaster: room.masterId === p.id,
+    connected: p.connected, isMaster: room.masterId === p.id, resigned: p.resigned, left: p.left,
   }));
   return { code: room.code, masterId: room.masterId, phase: room.phase, targetScore: room.targetScore, maxPlayers: room.maxPlayers, category: room.category, players };
 }
