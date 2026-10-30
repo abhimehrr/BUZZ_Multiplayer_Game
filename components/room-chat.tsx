@@ -19,12 +19,63 @@ function colorForPlayer(playerId: string) {
   return playerColors[((hash % playerColors.length) + playerColors.length) % playerColors.length];
 }
 
+function ChatMessageRow({ message, mine, playerColor, onReply }: {
+  message: ChatMessage;
+  mine: boolean;
+  playerColor: string;
+  onReply: (message: ChatMessage) => void;
+}) {
+  const [dragX, setDragX] = useState(0);
+  const [dragging, setDragging] = useState(false);
+  const pointerStart = useRef<{ x: number; y: number } | null>(null);
+  const readyToReply = mine ? dragX <= -54 : dragX >= 54;
+
+  const handlePointerDown = (event: React.PointerEvent<HTMLElement>) => {
+    if (!event.isPrimary || (event.pointerType === "mouse" && event.button !== 0)) return;
+    if ((event.target as HTMLElement).closest("button")) return;
+    pointerStart.current = { x: event.clientX, y: event.clientY };
+    setDragging(true);
+    event.currentTarget.setPointerCapture(event.pointerId);
+  };
+  const handlePointerMove = (event: React.PointerEvent<HTMLElement>) => {
+    if (!pointerStart.current) return;
+    const dx = event.clientX - pointerStart.current.x;
+    const dy = event.clientY - pointerStart.current.y;
+    if (Math.abs(dx) < Math.abs(dy) * 1.1) return;
+    const replyDirection = mine ? dx < 0 : dx > 0;
+    setDragX(replyDirection ? Math.sign(dx) * Math.min(Math.abs(dx), 84) : dx * 0.12);
+  };
+  const finishPointer = (event: React.PointerEvent<HTMLElement>) => {
+    const start = pointerStart.current;
+    if (start) {
+      const dx = event.clientX - start.x;
+      const dy = event.clientY - start.y;
+      if (Math.abs(dx) >= 64 && Math.abs(dx) > Math.abs(dy) * 1.1 && (mine ? dx < 0 : dx > 0)) onReply(message);
+    }
+    pointerStart.current = null;
+    setDragX(0);
+    setDragging(false);
+  };
+  const replyButton = <button type="button" onClick={() => onReply(message)} title={`Reply to ${mine ? "your message" : message.playerName}`} aria-label={`Reply to ${mine ? "your message" : message.playerName}: ${message.text}`} className={`mb-1 flex h-10 w-10 shrink-0 items-center justify-center rounded-full text-xl transition ${readyToReply ? "bg-violet-400/20 text-violet-100" : "text-slate-400 hover:bg-white/10 hover:text-violet-200"}`}>↶</button>;
+
+  return <article onPointerDown={handlePointerDown} onPointerMove={handlePointerMove} onPointerUp={finishPointer} onPointerCancel={finishPointer} className={`flex touch-pan-y items-end gap-1.5 ${mine ? "justify-end" : "justify-start"} ${dragging ? "" : "transition-transform duration-200"}`} style={{ transform: `translateX(${dragX}px)` }}>
+    {mine ? replyButton : null}
+    <div className={`max-w-[84%] min-w-0 rounded-2xl border px-3.5 py-2.5 ${mine ? "rounded-br-md" : "rounded-bl-md"}`} style={{ backgroundColor: `${playerColor}18`, borderColor: `${playerColor}50` }}>
+      <div className="mb-1 flex items-center gap-2 text-[11px] text-slate-400"><span className="font-semibold" style={{ color: playerColor }}>{mine ? "You" : message.playerName}</span><time dateTime={new Date(message.sentAt).toISOString()}>{new Date(message.sentAt).toLocaleTimeString([], { hour: "numeric", minute: "2-digit", hour12: true })}</time></div>
+      {message.replyTo ? <div className="mb-2 rounded-lg border-l-2 border-violet-300/70 bg-black/15 px-2.5 py-1.5 text-xs"><span className="font-semibold text-violet-200">{message.replyTo.playerName}</span><p className="mt-0.5 line-clamp-2 text-slate-300">{message.replyTo.text}</p></div> : null}
+      <p className="whitespace-pre-wrap break-words text-sm leading-relaxed">{message.text}</p>
+    </div>
+    {!mine ? replyButton : null}
+  </article>;
+}
+
 export default function RoomChat({ roomCode, playerId, messages, connected, send }: RoomChatProps) {
   const [open, setOpen] = useState(false);
   const [draft, setDraft] = useState("");
   const [replyTo, setReplyTo] = useState<ChatMessage | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLTextAreaElement>(null);
+  const closeButtonRef = useRef<HTMLButtonElement>(null);
   const launcherRef = useRef<HTMLButtonElement>(null);
   const dialogRef = useRef<HTMLElement>(null);
 
@@ -39,7 +90,7 @@ export default function RoomChat({ roomCode, playerId, messages, connected, send
   useEffect(() => {
     if (!open) return;
     const previousFocus = document.activeElement instanceof HTMLElement ? document.activeElement : null;
-    inputRef.current?.focus();
+    closeButtonRef.current?.focus();
     const handleKeyDown = (event: KeyboardEvent) => {
       if (event.key === "Escape") {
         event.preventDefault();
@@ -82,26 +133,14 @@ export default function RoomChat({ roomCode, playerId, messages, connected, send
     </button>
 
     {open ? <div className="fixed inset-0 z-50 flex items-end justify-center bg-black/60 p-0 backdrop-blur-sm sm:items-center sm:p-5" onMouseDown={(event) => { if (event.target === event.currentTarget) setOpen(false); }}>
-      <section ref={dialogRef} role="dialog" aria-modal="true" aria-labelledby="room-chat-title" className="glass-card flex h-[min(760px,92dvh)] w-full max-w-xl flex-col overflow-hidden rounded-t-3xl border border-white/15 bg-[#10162a] shadow-2xl sm:rounded-3xl">
+      <section ref={dialogRef} role="dialog" aria-modal="true" aria-labelledby="room-chat-title" className="glass-card flex h-[100dvh] w-full max-w-none flex-col overflow-hidden rounded-none border border-white/15 bg-[#10162a] pb-[env(safe-area-inset-bottom)] pt-[env(safe-area-inset-top)] shadow-2xl sm:h-[min(760px,92dvh)] sm:max-w-xl sm:rounded-3xl sm:py-0">
         <header className="flex items-center justify-between border-b border-white/10 px-5 py-4">
           <div><h2 id="room-chat-title" className="font-bold">Room chat</h2><p className="mt-0.5 text-xs text-slate-400">Everyone in room {roomCode}</p></div>
-          <button type="button" onClick={() => setOpen(false)} aria-label="Close chat" className="flex h-9 w-9 items-center justify-center rounded-full bg-white/5 text-xl text-slate-300 hover:bg-white/10">×</button>
+          <button ref={closeButtonRef} type="button" onClick={() => setOpen(false)} aria-label="Close chat" className="flex h-10 w-10 items-center justify-center rounded-full bg-white/5 text-xl text-slate-300 hover:bg-white/10">×</button>
         </header>
 
         <div aria-live="polite" aria-label="Chat messages" className="flex-1 space-y-4 overflow-y-auto overscroll-contain p-4 sm:p-5">
-          {messages.length === 0 ? <div className="flex h-full min-h-48 flex-col items-center justify-center text-center"><span className="text-3xl" aria-hidden="true">💬</span><p className="mt-3 font-semibold">Say hello to the room</p><p className="mt-1 text-sm text-slate-400">Chat is open before, during, and after the game.</p></div> : messages.map((message) => {
-            const mine = message.playerId === playerId;
-            const playerColor = colorForPlayer(message.playerId);
-            return <article key={message.id} className={`flex items-end gap-1.5 ${mine ? "justify-end" : "justify-start"}`}>
-              {mine ? <button type="button" onClick={() => setReplyTo(message)} title={`Reply to ${message.playerName}`} aria-label={`Reply to your message: ${message.text}`} className="mb-1 flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-xl text-slate-400 transition hover:bg-white/10 hover:text-violet-200">↶</button> : null}
-              <div className={`max-w-[84%] min-w-0 rounded-2xl border px-3.5 py-2.5 ${mine ? "rounded-br-md" : "rounded-bl-md"}`} style={{ backgroundColor: `${playerColor}18`, borderColor: `${playerColor}50` }}>
-                <div className="mb-1 flex items-center gap-2 text-[11px] text-slate-400"><span className="font-semibold" style={{ color: playerColor }}>{mine ? "You" : message.playerName}</span><time dateTime={new Date(message.sentAt).toISOString()}>{new Date(message.sentAt).toLocaleTimeString([], { hour: "numeric", minute: "2-digit", hour12: true })}</time></div>
-                {message.replyTo ? <div className="mb-2 rounded-lg border-l-2 border-violet-300/70 bg-black/15 px-2.5 py-1.5 text-xs"><span className="font-semibold text-violet-200">{message.replyTo.playerName}</span><p className="mt-0.5 line-clamp-2 text-slate-300">{message.replyTo.text}</p></div> : null}
-                <p className="whitespace-pre-wrap break-words text-sm leading-relaxed">{message.text}</p>
-              </div>
-              {!mine ? <button type="button" onClick={() => setReplyTo(message)} title={`Reply to ${message.playerName}`} aria-label={`Reply to ${message.playerName}: ${message.text}`} className="mb-1 flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-xl text-slate-400 transition hover:bg-white/10 hover:text-violet-200">↶</button> : null}
-            </article>;
-          })}
+          {messages.length === 0 ? <div className="flex h-full min-h-48 flex-col items-center justify-center text-center"><span className="text-3xl" aria-hidden="true">💬</span><p className="mt-3 font-semibold">Say hello to the room</p><p className="mt-1 text-sm text-slate-400">Chat is open before, during, and after the game.</p></div> : messages.map((message) => <ChatMessageRow key={message.id} message={message} mine={message.playerId === playerId} playerColor={colorForPlayer(message.playerId)} onReply={setReplyTo} />)}
           <div ref={messagesEndRef} />
         </div>
 
